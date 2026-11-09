@@ -63,7 +63,7 @@
         102191581,
         1108837129,
         85632785,
-        101754163,
+        1175610423,
         102049799,
         85681681
     ],
@@ -85,7 +85,7 @@
             "country_id":85632785,
             "county_id":102049799,
             "localadmin_id":1108837129,
-            "locality_id":101754163,
+            "locality_id":1175610423,
             "neighbourhood_id":85898471,
             "region_id":85681681
         }
@@ -96,7 +96,7 @@
     ],
     "wof:lastmodified":1582381782,
     "wof:name":"Glasenbach",
-    "wof:parent_id":101754163,
+    "wof:parent_id":1175610423,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
