@@ -86,7 +86,7 @@
         "wk:page":"Ratsch_an_der_Weinstra%C3%9Fe"
     },
     "wof:country":"AT",
-    "wof:geomhash":"2dea1f6ee2d0dc6e498c8cab7c7de045",
+    "wof:geomhash":"36fbf7636b7de7e497c4af3b5f80b7c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,5 +115,5 @@
     15.57111,
     46.68944000000001
 ],
-  "geometry": {"coordinates":[15.57111,46.68944000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.57111,46.68944],"type":"Point"}
 }

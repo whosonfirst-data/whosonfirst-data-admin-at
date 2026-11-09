@@ -45,7 +45,7 @@
         "gn:id":11593786
     },
     "wof:country":"AT",
-    "wof:geomhash":"e5254a2b744e9c922acbc5a4c755b226",
+    "wof:geomhash":"b8281555672975cb77fc0a10aef1ad44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     13.85616,
     46.82259000000001
 ],
-  "geometry": {"coordinates":[13.85616,46.82259000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.85616,46.82259],"type":"Point"}
 }

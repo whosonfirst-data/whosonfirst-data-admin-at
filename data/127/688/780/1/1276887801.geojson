@@ -55,7 +55,7 @@
         "wk:page":"Eisenzicken"
     },
     "wof:country":"AT",
-    "wof:geomhash":"b2c401c6bf84ff06e4256df3a740912c",
+    "wof:geomhash":"53dd0abcf5d42b7c10e886f6af9afe0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.25907999999999,
     47.27603
 ],
-  "geometry": {"coordinates":[16.25907999999999,47.27603],"type":"Point"}
+  "geometry": {"coordinates":[16.25908,47.27603],"type":"Point"}
 }

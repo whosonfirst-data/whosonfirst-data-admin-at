@@ -84,7 +84,7 @@
         "wk:page":"Hieflau"
     },
     "wof:country":"AT",
-    "wof:geomhash":"a2c1df849d1ac020910914d661b2b6f0",
+    "wof:geomhash":"72bb6aaaa0415237f5872f2f83cbd304",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -109,5 +109,5 @@
     14.74503,
     47.60639000000001
 ],
-  "geometry": {"coordinates":[14.74503,47.60639000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.74503,47.60639],"type":"Point"}
 }

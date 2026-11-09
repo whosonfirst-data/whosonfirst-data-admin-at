@@ -90,7 +90,7 @@
         "wk:page":"Sankt_Katharein_an_der_Laming"
     },
     "wof:country":"AT",
-    "wof:geomhash":"7daf1ea1d48802a70bb1fae706d60e1b",
+    "wof:geomhash":"f51be0b04c015a77619078919a75f0d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     15.16319,
     47.47069000000001
 ],
-  "geometry": {"coordinates":[15.16319,47.47069000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.16319,47.47069],"type":"Point"}
 }

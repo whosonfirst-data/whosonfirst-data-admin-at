@@ -52,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"AT",
     "wof:created":1491360252,
-    "wof:geomhash":"84d045898eaa4ea9c444cb9ea7befcdc",
+    "wof:geomhash":"3b2038eb27f97f65abba55695fea5b45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     16.35799467357306,
     48.22729346933198
 ],
-  "geometry": {"coordinates":[16.35799467357306,48.22729346933198],"type":"Point"}
+  "geometry": {"coordinates":[16.357995,48.227293],"type":"Point"}
 }

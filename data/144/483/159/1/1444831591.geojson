@@ -41,7 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"196f4df2618a3198250e2213cbf1aee0",
+    "wof:geomhash":"fa4a2e18c64fa5462212913c53ff9be7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,5 +69,5 @@
     15.43911084181584,
     47.07210029643785
 ],
-  "geometry": {"coordinates":[15.43911084181584,47.07210029643785],"type":"Point"}
+  "geometry": {"coordinates":[15.439111,47.0721],"type":"Point"}
 }

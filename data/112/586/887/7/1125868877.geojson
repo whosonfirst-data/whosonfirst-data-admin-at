@@ -66,7 +66,7 @@
     },
     "wof:country":"AT",
     "wof:created":1497294184,
-    "wof:geomhash":"53f1ecd9303af68e3758722c0b78f69f",
+    "wof:geomhash":"0ace2220ddcbeaf7abe7f8f502ae6fd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     16.0,
     47.16667
 ],
-  "geometry": {"coordinates":[16.0,47.16667],"type":"Point"}
+  "geometry": {"coordinates":[16,47.16667],"type":"Point"}
 }

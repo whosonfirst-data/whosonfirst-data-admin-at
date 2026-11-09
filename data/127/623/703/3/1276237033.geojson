@@ -118,7 +118,7 @@
         "wk:page":"P%C3%B6rtschach_am_W%C3%B6rthersee"
     },
     "wof:country":"AT",
-    "wof:geomhash":"22317762f08b410f888c62a400b41558",
+    "wof:geomhash":"94aaeeffb8c2de860e78b93c6667e961",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,5 +147,5 @@
     14.14639,
     46.63639000000001
 ],
-  "geometry": {"coordinates":[14.14639,46.63639000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.14639,46.63639],"type":"Point"}
 }

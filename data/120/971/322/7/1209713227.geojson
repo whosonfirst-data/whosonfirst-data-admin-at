@@ -101,7 +101,7 @@
         "wk:page":"Sankt_Georgen_ob_Judenburg"
     },
     "wof:country":"AT",
-    "wof:geomhash":"b7743b6a659f7ca4a918e2a16ea3b20c",
+    "wof:geomhash":"baeda37690586746afa7953137e557aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,5 +130,5 @@
     14.49736,
     47.20744000000001
 ],
-  "geometry": {"coordinates":[14.49736,47.20744000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.49736,47.20744],"type":"Point"}
 }
