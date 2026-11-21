@@ -10,8 +10,8 @@
     "geom:latitude":48.253782,
     "geom:longitude":16.301867,
     "iso:country":"AT",
-    "lbl:latitude":48.246766,
-    "lbl:longitude":16.311108,
+    "lbl:latitude":48.255326,
+    "lbl:longitude":16.301435,
     "lbl:max_zoom":18.0,
     "mps:latitude":48.253966,
     "mps:longitude":16.302211,
@@ -69,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":1068,
     "wof:belongsto":[
         102191581,

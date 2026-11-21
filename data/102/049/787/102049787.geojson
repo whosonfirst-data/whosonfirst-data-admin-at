@@ -16,8 +16,8 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
-    "lbl:latitude":47.888964,
-    "lbl:longitude":15.888018,
+    "lbl:latitude":47.631593,
+    "lbl:longitude":16.270564,
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mps:latitude":47.605507,
@@ -137,7 +137,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":258,
     "wof:belongsto":[
         102191581,
