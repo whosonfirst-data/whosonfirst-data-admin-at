@@ -1,0 +1,77 @@
+{
+  "id": 9895010577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.13364,48.08757,13.13364,48.08757",
+    "geom:latitude":48.08757,
+    "geom:longitude":13.13364,
+    "gn:population":132,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747524: name \"Sollern\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747524"
+        },
+        {
+            "citation":"GeoNames populated place 11747524: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747524"
+        },
+        {
+            "citation":"GeoNames populated place 11747524: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747524"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834775 (Pfaffst\u00e4tt), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747524
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"250f6e51a86cb7c57ee15a6130983b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834775,
+            "locality_id":9895010577,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010577,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Sollern",
+    "wof:parent_id":1108834775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.13364,
+    48.08757,
+    13.13364,
+    48.08757
+],
+  "geometry": {"coordinates":[13.13364,48.08757],"type":"Point"}
+}

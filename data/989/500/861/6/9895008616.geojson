@@ -1,0 +1,77 @@
+{
+  "id": 9895008616,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1,47.2,11.1,47.2",
+    "geom:latitude":47.2,
+    "geom:longitude":11.1,
+    "gn:population":175,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2766406: name \"Sankt Sigmund\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2766406"
+        },
+        {
+            "citation":"GeoNames populated place 2766406: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2766406"
+        },
+        {
+            "citation":"GeoNames populated place 2766406: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2766406"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837667 (Sankt Sigmund im Sellrain), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681661,
+        102049735,
+        102191581,
+        1108837667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766406
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4f600ef7698c5b86a30d6f70bbca5052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837667,
+            "locality_id":9895008616,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":9895008616,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Sankt Sigmund",
+    "wof:parent_id":1108837667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1,
+    47.2,
+    11.1,
+    47.2
+],
+  "geometry": {"coordinates":[11.1,47.2],"type":"Point"}
+}

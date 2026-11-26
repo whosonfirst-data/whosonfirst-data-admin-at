@@ -1,0 +1,76 @@
+{
+  "id": 9895009721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48942,48.28652,14.48942,48.28652",
+    "geom:latitude":48.28652,
+    "geom:longitude":14.48942,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694153: name \"Weigersdorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694153"
+        },
+        {
+            "citation":"GeoNames populated place 11694153: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694153"
+        },
+        {
+            "citation":"GeoNames populated place 11694153: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694153"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835579 (Katsdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049865,
+        102191581,
+        1108835579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694153
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3213f6e1055724eeb2e38828c360ab55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835579,
+            "locality_id":9895009721,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009721,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Weigersdorf",
+    "wof:parent_id":1108835579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48942,
+    48.28652,
+    14.48942,
+    48.28652
+],
+  "geometry": {"coordinates":[14.48942,48.28652],"type":"Point"}
+}

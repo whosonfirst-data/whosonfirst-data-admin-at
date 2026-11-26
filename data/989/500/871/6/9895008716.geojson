@@ -1,0 +1,77 @@
+{
+  "id": 9895008716,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76806,46.72528,15.76806,46.72528",
+    "geom:latitude":46.72528,
+    "geom:longitude":15.76806,
+    "gn:population":347,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2780260: name \"Eichfeld\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2780260"
+        },
+        {
+            "citation":"GeoNames populated place 2780260: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2780260"
+        },
+        {
+            "citation":"GeoNames populated place 2780260: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2780260"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839343 (Mureck), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102191581,
+        1108839343,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780260
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"841f4c821f79a23b6fd77f7be30e7811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839343,
+            "locality_id":9895008716,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008716,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Eichfeld",
+    "wof:parent_id":1108839343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76806,
+    46.72528,
+    15.76806,
+    46.72528
+],
+  "geometry": {"coordinates":[15.76806,46.72528],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895011043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77079,46.82371,14.77079,46.82371",
+    "geom:latitude":46.82371,
+    "geom:longitude":14.77079,
+    "gn:population":47,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308653: name \"Lading Sonnseite\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308653"
+        },
+        {
+            "citation":"GeoNames populated place 13308653: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308653"
+        },
+        {
+            "citation":"GeoNames populated place 13308653: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308653"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838113 (Wolfsberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049693,
+        102191581,
+        1108838113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308653
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6e08fff67129cf578368e937df29a33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838113,
+            "locality_id":9895011043,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895011043,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Lading Sonnseite",
+    "wof:parent_id":1108838113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77079,
+    46.82371,
+    14.77079,
+    46.82371
+],
+  "geometry": {"coordinates":[14.77079,46.82371],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895008635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36667,47.31667,15.36667,47.31667",
+    "geom:latitude":47.31667,
+    "geom:longitude":15.36667,
+    "gn:population":201,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2767088: name \"R\u00f6thelstein\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2767088"
+        },
+        {
+            "citation":"GeoNames populated place 2767088: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2767088"
+        },
+        {
+            "citation":"GeoNames populated place 2767088: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2767088"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839203 (Frohnleiten), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049741,
+        102191581,
+        1108839203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767088
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0a18971d475a38a19f68b6b25dfd0c69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839203,
+            "locality_id":9895008635,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008635,
+    "wof:lastmodified":1795734979,
+    "wof:name":"R\u00f6thelstein",
+    "wof:parent_id":1108839203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36667,
+    47.31667,
+    15.36667,
+    47.31667
+],
+  "geometry": {"coordinates":[15.36667,47.31667],"type":"Point"}
+}

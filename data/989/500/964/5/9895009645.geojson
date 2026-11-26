@@ -1,0 +1,77 @@
+{
+  "id": 9895009645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.56812,48.08364,13.56812,48.08364",
+    "geom:latitude":48.08364,
+    "geom:longitude":13.56812,
+    "gn:population":127,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670473: name \"Rabelsberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670473"
+        },
+        {
+            "citation":"GeoNames populated place 11670473: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670473"
+        },
+        {
+            "citation":"GeoNames populated place 11670473: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670473"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836419 (Ampflwang im Hausruckwald), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049817,
+        102191581,
+        1108836419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670473
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"02241a40b0ff54bc352dc7a12d46517a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836419,
+            "locality_id":9895009645,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009645,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Rabelsberg",
+    "wof:parent_id":1108836419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56812,
+    48.08364,
+    13.56812,
+    48.08364
+],
+  "geometry": {"coordinates":[13.56812,48.08364],"type":"Point"}
+}

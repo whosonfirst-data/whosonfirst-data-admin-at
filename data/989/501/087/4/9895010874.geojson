@@ -1,0 +1,77 @@
+{
+  "id": 9895010874,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34458,48.37976,14.34458,48.37976",
+    "geom:latitude":48.37976,
+    "geom:longitude":14.34458,
+    "gn:population":232,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903670: name \"Donach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903670"
+        },
+        {
+            "citation":"GeoNames populated place 11903670: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903670"
+        },
+        {
+            "citation":"GeoNames populated place 11903670: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903670"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836139 (Altenberg bei Linz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049881,
+        102191581,
+        1108836139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903670
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"852855c6f895456f6b2b3d984e774b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836139,
+            "locality_id":9895010874,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010874,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Donach",
+    "wof:parent_id":1108836139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34458,
+    48.37976,
+    14.34458,
+    48.37976
+],
+  "geometry": {"coordinates":[14.34458,48.37976],"type":"Point"}
+}

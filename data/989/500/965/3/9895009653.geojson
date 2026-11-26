@@ -1,0 +1,77 @@
+{
+  "id": 9895009653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.07463,46.73207,13.07463,46.73207",
+    "geom:latitude":46.73207,
+    "geom:longitude":13.07463,
+    "gn:population":43,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670481: name \"Ra\u00dfnig\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670481"
+        },
+        {
+            "citation":"GeoNames populated place 11670481: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670481"
+        },
+        {
+            "citation":"GeoNames populated place 11670481: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670481"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838255 (Dellach Im Drautal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049701,
+        102191581,
+        1108838255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670481
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4343d1061c85c6d8adee6ee1cc578eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838255,
+            "locality_id":9895009653,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895009653,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Ra\u00dfnig",
+    "wof:parent_id":1108838255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.07463,
+    46.73207,
+    13.07463,
+    46.73207
+],
+  "geometry": {"coordinates":[13.07463,46.73207],"type":"Point"}
+}

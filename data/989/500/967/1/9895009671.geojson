@@ -1,0 +1,77 @@
+{
+  "id": 9895009671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.20479,48.0424,13.20479,48.0424",
+    "geom:latitude":48.0424,
+    "geom:longitude":13.20479,
+    "gn:population":33,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694084: name \"Baumgarten\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694084"
+        },
+        {
+            "citation":"GeoNames populated place 11694084: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694084"
+        },
+        {
+            "citation":"GeoNames populated place 11694084: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694084"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834763 (Munderfing), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694084
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"24954ee3f6f4497817d5f027396885fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834763,
+            "locality_id":9895009671,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009671,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Baumgarten",
+    "wof:parent_id":1108834763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.20479,
+    48.0424,
+    13.20479,
+    48.0424
+],
+  "geometry": {"coordinates":[13.20479,48.0424],"type":"Point"}
+}

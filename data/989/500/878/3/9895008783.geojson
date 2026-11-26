@@ -1,0 +1,77 @@
+{
+  "id": 9895008783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2844,48.14066,13.2844,48.14066",
+    "geom:latitude":48.14066,
+    "geom:longitude":13.2844,
+    "gn:population":39,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668544: name \"Roith\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668544"
+        },
+        {
+            "citation":"GeoNames populated place 11668544: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668544"
+        },
+        {
+            "citation":"GeoNames populated place 11668544: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668544"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834787 (St. Johann am Walde), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668544
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b39c902f7436131c030bc7b4ffdafb78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834787,
+            "locality_id":9895008783,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895008783,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Roith",
+    "wof:parent_id":1108834787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2844,
+    48.14066,
+    13.2844,
+    48.14066
+],
+  "geometry": {"coordinates":[13.2844,48.14066],"type":"Point"}
+}

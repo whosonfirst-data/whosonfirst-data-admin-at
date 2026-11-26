@@ -1,0 +1,77 @@
+{
+  "id": 9895010736,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.79663,47.9543,13.79663,47.9543",
+    "geom:latitude":47.9543,
+    "geom:longitude":13.79663,
+    "gn:population":411,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11819800: name \"Hochbau\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11819800"
+        },
+        {
+            "citation":"GeoNames populated place 11819800: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11819800"
+        },
+        {
+            "citation":"GeoNames populated place 11819800: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11819800"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835149 (Ohlsdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049807,
+        102191581,
+        1108835149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11819800
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e4f8c8c52512b541b8fee8d382e9e46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835149,
+            "locality_id":9895010736,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010736,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Hochbau",
+    "wof:parent_id":1108835149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.79663,
+    47.9543,
+    13.79663,
+    47.9543
+],
+  "geometry": {"coordinates":[13.79663,47.9543],"type":"Point"}
+}

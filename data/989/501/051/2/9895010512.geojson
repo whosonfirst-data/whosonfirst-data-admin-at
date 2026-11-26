@@ -1,0 +1,77 @@
+{
+  "id": 9895010512,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.17621,47.58955,13.17621,47.58955",
+    "geom:latitude":47.58955,
+    "geom:longitude":13.17621,
+    "gn:population":1292,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11746699: name \"Oberg\u00e4u\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11746699"
+        },
+        {
+            "citation":"GeoNames populated place 11746699: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11746699"
+        },
+        {
+            "citation":"GeoNames populated place 11746699: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11746699"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837087 (Golling an der Salzach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049773,
+        102191581,
+        1108837087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11746699
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6ceeee042687cfc459e2b0805d013778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837087,
+            "locality_id":9895010512,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010512,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Oberg\u00e4u",
+    "wof:parent_id":1108837087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.17621,
+    47.58955,
+    13.17621,
+    47.58955
+],
+  "geometry": {"coordinates":[13.17621,47.58955],"type":"Point"}
+}

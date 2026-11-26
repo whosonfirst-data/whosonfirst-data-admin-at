@@ -1,0 +1,77 @@
+{
+  "id": 9895008601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44583,46.9725,15.44583,46.9725",
+    "geom:latitude":46.9725,
+    "geom:longitude":15.44583,
+    "gn:population":191,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2763751: name \"Thalerhof\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2763751"
+        },
+        {
+            "citation":"GeoNames populated place 2763751: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2763751"
+        },
+        {
+            "citation":"GeoNames populated place 2763751: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2763751"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839183 (Kalsdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049741,
+        102191581,
+        1108839183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763751
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fd278a54c3b27662985ea9fae44eb3b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839183,
+            "locality_id":9895008601,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008601,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Thalerhof",
+    "wof:parent_id":1108839183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44583,
+    46.9725,
+    15.44583,
+    46.9725
+],
+  "geometry": {"coordinates":[15.44583,46.9725],"type":"Point"}
+}

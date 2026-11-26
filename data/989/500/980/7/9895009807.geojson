@@ -1,0 +1,77 @@
+{
+  "id": 9895009807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64593,46.69255,14.64593,46.69255",
+    "geom:latitude":46.69255,
+    "geom:longitude":14.64593,
+    "gn:population":29,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694254: name \"Unterlinden\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694254"
+        },
+        {
+            "citation":"GeoNames populated place 11694254: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694254"
+        },
+        {
+            "citation":"GeoNames populated place 11694254: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694254"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838391 (V\u00f6lkermarkt), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049685,
+        102191581,
+        1108838391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694254
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e68cabfa32550174bc4638f68f7fda6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838391,
+            "locality_id":9895009807,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895009807,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Unterlinden",
+    "wof:parent_id":1108838391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64593,
+    46.69255,
+    14.64593,
+    46.69255
+],
+  "geometry": {"coordinates":[14.64593,46.69255],"type":"Point"}
+}

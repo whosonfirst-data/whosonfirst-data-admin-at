@@ -1,0 +1,77 @@
+{
+  "id": 9895010948,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.38966,47.77756,13.38966,47.77756",
+    "geom:latitude":47.77756,
+    "geom:longitude":13.38966,
+    "gn:population":322,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919672: name \"Winkl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919672"
+        },
+        {
+            "citation":"GeoNames populated place 11919672: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919672"
+        },
+        {
+            "citation":"GeoNames populated place 11919672: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919672"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837175 (Sankt Gilgen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049799,
+        102191581,
+        1108837175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919672
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1a3e5d7265b11803aba616cb2e44bdd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837175,
+            "locality_id":9895010948,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010948,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Winkl",
+    "wof:parent_id":1108837175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.38966,
+    47.77756,
+    13.38966,
+    47.77756
+],
+  "geometry": {"coordinates":[13.38966,47.77756],"type":"Point"}
+}

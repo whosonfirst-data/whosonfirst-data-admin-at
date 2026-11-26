@@ -1,0 +1,77 @@
+{
+  "id": 9895010476,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.11471,47.91626,13.11471,47.91626",
+    "geom:latitude":47.91626,
+    "geom:longitude":13.11471,
+    "gn:population":117,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11746167: name \"Zaisberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11746167"
+        },
+        {
+            "citation":"GeoNames populated place 11746167: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11746167"
+        },
+        {
+            "citation":"GeoNames populated place 11746167: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11746167"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837191 (Seekirchen am Wallersee), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049799,
+        102191581,
+        1108837191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11746167
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3e282a83123522aa1b944cf4c93c2d04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837191,
+            "locality_id":9895010476,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010476,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Zaisberg",
+    "wof:parent_id":1108837191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.11471,
+    47.91626,
+    13.11471,
+    47.91626
+],
+  "geometry": {"coordinates":[13.11471,47.91626],"type":"Point"}
+}

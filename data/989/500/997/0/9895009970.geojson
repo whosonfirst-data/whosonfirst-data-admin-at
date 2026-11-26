@@ -1,0 +1,77 @@
+{
+  "id": 9895009970,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40798,48.2416,15.40798,48.2416",
+    "geom:latitude":48.2416,
+    "geom:longitude":15.40798,
+    "gn:population":57,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694990: name \"Neu-Gerolding\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694990"
+        },
+        {
+            "citation":"GeoNames populated place 11694990: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694990"
+        },
+        {
+            "citation":"GeoNames populated place 11694990: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694990"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835417 (Dunkelsteinerwald), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049855,
+        102191581,
+        1108835417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694990
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"34ed8d62c11ae2bd4b6b4b1b01b490f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835417,
+            "locality_id":9895009970,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895009970,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Neu-Gerolding",
+    "wof:parent_id":1108835417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40798,
+    48.2416,
+    15.40798,
+    48.2416
+],
+  "geometry": {"coordinates":[15.40798,48.2416],"type":"Point"}
+}

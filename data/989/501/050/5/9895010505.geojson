@@ -1,0 +1,77 @@
+{
+  "id": 9895010505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79322,47.95191,14.79322,47.95191",
+    "geom:latitude":47.95191,
+    "geom:longitude":14.79322,
+    "gn:population":1536,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11746591: name \"Zell-Arzberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11746591"
+        },
+        {
+            "citation":"GeoNames populated place 11746591: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11746591"
+        },
+        {
+            "citation":"GeoNames populated place 11746591: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11746591"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835029 (Waidhofen an der Ybbs), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049809,
+        102191581,
+        1108835029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11746591
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fcf23d28d85bd68df205b89f95496f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049809,
+            "localadmin_id":1108835029,
+            "locality_id":9895010505,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010505,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Zell-Arzberg",
+    "wof:parent_id":1108835029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79322,
+    47.95191,
+    14.79322,
+    47.95191
+],
+  "geometry": {"coordinates":[14.79322,47.95191],"type":"Point"}
+}

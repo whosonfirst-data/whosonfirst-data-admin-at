@@ -1,0 +1,77 @@
+{
+  "id": 9895010307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5277,46.59376,14.5277,46.59376",
+    "geom:latitude":46.59376,
+    "geom:longitude":14.5277,
+    "gn:population":40,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696280: name \"Pirk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696280"
+        },
+        {
+            "citation":"GeoNames populated place 11696280: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696280"
+        },
+        {
+            "citation":"GeoNames populated place 11696280: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696280"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838377 (Gallizien), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049685,
+        102191581,
+        1108838377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696280
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"33f2ef094e036e1eed4d496d6d40798b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838377,
+            "locality_id":9895010307,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010307,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Pirk",
+    "wof:parent_id":1108838377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5277,
+    46.59376,
+    14.5277,
+    46.59376
+],
+  "geometry": {"coordinates":[14.5277,46.59376],"type":"Point"}
+}

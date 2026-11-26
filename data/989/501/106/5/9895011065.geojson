@@ -1,0 +1,76 @@
+{
+  "id": 9895011065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42614,47.9819,14.42614,47.9819",
+    "geom:latitude":47.9819,
+    "geom:longitude":14.42614,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13527264: name \"Dambach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13527264"
+        },
+        {
+            "citation":"GeoNames populated place 13527264: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13527264"
+        },
+        {
+            "citation":"GeoNames populated place 13527264: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13527264"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836103 (Garsten), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049819,
+        102191581,
+        1108836103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13527264
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4bc167314d5d7a45ef7f2bcde3c8d40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836103,
+            "locality_id":9895011065,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895011065,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Dambach",
+    "wof:parent_id":1108836103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42614,
+    47.9819,
+    14.42614,
+    47.9819
+],
+  "geometry": {"coordinates":[14.42614,47.9819],"type":"Point"}
+}

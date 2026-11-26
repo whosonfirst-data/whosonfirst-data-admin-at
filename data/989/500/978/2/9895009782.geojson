@@ -1,0 +1,77 @@
+{
+  "id": 9895009782,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45406,46.97445,14.45406,46.97445",
+    "geom:latitude":46.97445,
+    "geom:longitude":14.45406,
+    "gn:population":18,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694229: name \"Silbermann\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694229"
+        },
+        {
+            "citation":"GeoNames populated place 11694229: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694229"
+        },
+        {
+            "citation":"GeoNames populated place 11694229: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694229"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838211 (Friesach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049697,
+        102191581,
+        1108838211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694229
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9053ea33fc6de8e31508260500be6202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838211,
+            "locality_id":9895009782,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895009782,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Silbermann",
+    "wof:parent_id":1108838211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45406,
+    46.97445,
+    14.45406,
+    46.97445
+],
+  "geometry": {"coordinates":[14.45406,46.97445],"type":"Point"}
+}

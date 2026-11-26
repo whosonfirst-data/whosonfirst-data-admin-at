@@ -1,0 +1,76 @@
+{
+  "id": 9895011035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.49439,46.7297,12.49439,46.7297",
+    "geom:latitude":46.7297,
+    "geom:longitude":12.49439,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12750464: name \"Hinteregg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12750464"
+        },
+        {
+            "citation":"GeoNames populated place 12750464: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12750464"
+        },
+        {
+            "citation":"GeoNames populated place 12750464: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12750464"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837673 (Kartitsch), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681661,
+        102049703,
+        102191581,
+        1108837673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12750464
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e69cf60f0cc86b6562a839eb3401f1dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837673,
+            "locality_id":9895011035,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":9895011035,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Hinteregg",
+    "wof:parent_id":1108837673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.49439,
+    46.7297,
+    12.49439,
+    46.7297
+],
+  "geometry": {"coordinates":[12.49439,46.7297],"type":"Point"}
+}

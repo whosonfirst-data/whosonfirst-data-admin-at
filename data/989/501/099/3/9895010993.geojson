@@ -1,0 +1,77 @@
+{
+  "id": 9895010993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31467,47.56617,15.31467,47.56617",
+    "geom:latitude":47.56617,
+    "geom:longitude":15.31467,
+    "gn:population":162,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919918: name \"Au bei Turnau\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919918"
+        },
+        {
+            "citation":"GeoNames populated place 11919918: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919918"
+        },
+        {
+            "citation":"GeoNames populated place 11919918: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919918"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839305 (Turnau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102191581,
+        1108839305,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919918
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"09250711508106b0df9f797b731465ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108839305,
+            "locality_id":9895010993,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895010993,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Au bei Turnau",
+    "wof:parent_id":1108839305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31467,
+    47.56617,
+    15.31467,
+    47.56617
+],
+  "geometry": {"coordinates":[15.31467,47.56617],"type":"Point"}
+}

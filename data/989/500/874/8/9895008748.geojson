@@ -1,0 +1,77 @@
+{
+  "id": 9895008748,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65303,47.36182,15.65303,47.36182",
+    "geom:latitude":47.36182,
+    "geom:longitude":15.65303,
+    "gn:population":425,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11593393: name \"Haslau bei Birkfeld\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11593393"
+        },
+        {
+            "citation":"GeoNames populated place 11593393: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11593393"
+        },
+        {
+            "citation":"GeoNames populated place 11593393: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11593393"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838855 (Birkfeld), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049765,
+        102191581,
+        1108838855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593393
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a3532378069f44b09b454cb5b64fc8b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838855,
+            "locality_id":9895008748,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008748,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Haslau bei Birkfeld",
+    "wof:parent_id":1108838855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65303,
+    47.36182,
+    15.65303,
+    47.36182
+],
+  "geometry": {"coordinates":[15.65303,47.36182],"type":"Point"}
+}

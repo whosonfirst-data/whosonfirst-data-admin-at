@@ -1,0 +1,77 @@
+{
+  "id": 9895009057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45493,48.12724,13.45493,48.12724",
+    "geom:latitude":48.12724,
+    "geom:longitude":13.45493,
+    "gn:population":13,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668962: name \"Edthelm\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668962"
+        },
+        {
+            "citation":"GeoNames populated place 11668962: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668962"
+        },
+        {
+            "citation":"GeoNames populated place 11668962: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668962"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835699 (Waldzell), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049851,
+        102191581,
+        1108835699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668962
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"46962747a55c6bb2f1a57e7554478536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835699,
+            "locality_id":9895009057,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009057,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Edthelm",
+    "wof:parent_id":1108835699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45493,
+    48.12724,
+    13.45493,
+    48.12724
+],
+  "geometry": {"coordinates":[13.45493,48.12724],"type":"Point"}
+}

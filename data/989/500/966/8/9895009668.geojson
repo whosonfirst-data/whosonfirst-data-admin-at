@@ -1,0 +1,77 @@
+{
+  "id": 9895009668,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58856,46.53782,14.58856,46.53782",
+    "geom:latitude":46.53782,
+    "geom:longitude":14.58856,
+    "gn:population":21,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670504: name \"Winkel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670504"
+        },
+        {
+            "citation":"GeoNames populated place 11670504: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670504"
+        },
+        {
+            "citation":"GeoNames populated place 11670504: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670504"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838389 (Sittersdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049685,
+        102191581,
+        1108838389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670504
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b292668770d014bc3d83374fe32d0f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838389,
+            "locality_id":9895009668,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895009668,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Winkel",
+    "wof:parent_id":1108838389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58856,
+    46.53782,
+    14.58856,
+    46.53782
+],
+  "geometry": {"coordinates":[14.58856,46.53782],"type":"Point"}
+}

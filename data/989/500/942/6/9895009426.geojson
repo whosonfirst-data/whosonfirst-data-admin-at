@@ -1,0 +1,77 @@
+{
+  "id": 9895009426,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.22921,47.92779,16.22921,47.92779",
+    "geom:latitude":47.92779,
+    "geom:longitude":16.22921,
+    "gn:population":17,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669388: name \"Dornau\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669388"
+        },
+        {
+            "citation":"GeoNames populated place 11669388: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669388"
+        },
+        {
+            "citation":"GeoNames populated place 11669388: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669388"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835015 (Sch\u00f6nau an der Triesting), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049829,
+        102191581,
+        1108835015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669388
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c84b4fbe6db1c02824331aef6c061b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835015,
+            "locality_id":9895009426,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895009426,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Dornau",
+    "wof:parent_id":1108835015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.22921,
+    47.92779,
+    16.22921,
+    47.92779
+],
+  "geometry": {"coordinates":[16.22921,47.92779],"type":"Point"}
+}

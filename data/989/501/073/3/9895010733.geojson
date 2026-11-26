@@ -1,0 +1,77 @@
+{
+  "id": 9895010733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.65385,47.28297,12.65385,47.28297",
+    "geom:latitude":47.28297,
+    "geom:longitude":12.65385,
+    "gn:population":491,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11819796: name \"Jesdorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11819796"
+        },
+        {
+            "citation":"GeoNames populated place 11819796: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11819796"
+        },
+        {
+            "citation":"GeoNames populated place 11819796: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11819796"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837225 (Niedernsill), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049761,
+        102191581,
+        1108837225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11819796
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8daaf2360fd796673a4ffb1746d43541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837225,
+            "locality_id":9895010733,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010733,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Jesdorf",
+    "wof:parent_id":1108837225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.65385,
+    47.28297,
+    12.65385,
+    47.28297
+],
+  "geometry": {"coordinates":[12.65385,47.28297],"type":"Point"}
+}

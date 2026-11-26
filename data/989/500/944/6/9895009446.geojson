@@ -1,0 +1,77 @@
+{
+  "id": 9895009446,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.0715,48.06047,13.0715,48.06047",
+    "geom:latitude":48.06047,
+    "geom:longitude":13.0715,
+    "gn:population":34,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669933: name \"Sattlern\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669933"
+        },
+        {
+            "citation":"GeoNames populated place 11669933: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669933"
+        },
+        {
+            "citation":"GeoNames populated place 11669933: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669933"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834721 (Feldkirchen bei Mattighofen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669933
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"529e027f60649bef8cc0ed76cff4f076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834721,
+            "locality_id":9895009446,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009446,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Sattlern",
+    "wof:parent_id":1108834721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.0715,
+    48.06047,
+    13.0715,
+    48.06047
+],
+  "geometry": {"coordinates":[13.0715,48.06047],"type":"Point"}
+}

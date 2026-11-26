@@ -1,0 +1,77 @@
+{
+  "id": 9895008957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73231,48.28665,13.73231,48.28665",
+    "geom:latitude":48.28665,
+    "geom:longitude":13.73231,
+    "gn:population":65,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668793: name \"W\u00fcrzberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668793"
+        },
+        {
+            "citation":"GeoNames populated place 11668793: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668793"
+        },
+        {
+            "citation":"GeoNames populated place 11668793: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668793"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835191 (Kallham), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049861,
+        102191581,
+        1108835191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668793
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"36f727364665249ed0f4310b03662f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835191,
+            "locality_id":9895008957,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895008957,
+    "wof:lastmodified":1795734979,
+    "wof:name":"W\u00fcrzberg",
+    "wof:parent_id":1108835191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73231,
+    48.28665,
+    13.73231,
+    48.28665
+],
+  "geometry": {"coordinates":[13.73231,48.28665],"type":"Point"}
+}

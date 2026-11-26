@@ -1,0 +1,77 @@
+{
+  "id": 9895010637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33071,48.2736,13.33071,48.2736",
+    "geom:latitude":48.2736,
+    "geom:longitude":13.33071,
+    "gn:population":17,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747588: name \"Dietraching\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747588"
+        },
+        {
+            "citation":"GeoNames populated place 11747588: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747588"
+        },
+        {
+            "citation":"GeoNames populated place 11747588: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747588"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835681 (St. Georgen bei Obernberg am Inn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049851,
+        102191581,
+        1108835681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747588
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0578b23d85a3bc2d32cb927f8b024c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835681,
+            "locality_id":9895010637,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010637,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Dietraching",
+    "wof:parent_id":1108835681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33071,
+    48.2736,
+    13.33071,
+    48.2736
+],
+  "geometry": {"coordinates":[13.33071,48.2736],"type":"Point"}
+}

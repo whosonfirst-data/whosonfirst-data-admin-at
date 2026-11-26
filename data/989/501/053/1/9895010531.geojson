@@ -1,0 +1,77 @@
+{
+  "id": 9895010531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.21192,48.24868,13.21192,48.24868",
+    "geom:latitude":48.24868,
+    "geom:longitude":13.21192,
+    "gn:population":29,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747282: name \"Pirath\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747282"
+        },
+        {
+            "citation":"GeoNames populated place 11747282: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747282"
+        },
+        {
+            "citation":"GeoNames populated place 11747282: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747282"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834809 (Weng im Innkreis), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747282
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"10acd0bbf3836aa5242d3dd23961a39d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834809,
+            "locality_id":9895010531,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010531,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Pirath",
+    "wof:parent_id":1108834809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.21192,
+    48.24868,
+    13.21192,
+    48.24868
+],
+  "geometry": {"coordinates":[13.21192,48.24868],"type":"Point"}
+}

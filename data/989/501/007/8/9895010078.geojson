@@ -1,0 +1,76 @@
+{
+  "id": 9895010078,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.20878,47.62306,16.20878,47.62306",
+    "geom:latitude":47.62306,
+    "geom:longitude":16.20878,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695220: name \"Schlagergraben\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695220"
+        },
+        {
+            "citation":"GeoNames populated place 11695220: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695220"
+        },
+        {
+            "citation":"GeoNames populated place 11695220: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695220"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835783 (Bromberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049787,
+        102191581,
+        1108835783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695220
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"be1c267caee0b781196a68cd5d7726c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049787,
+            "localadmin_id":1108835783,
+            "locality_id":9895010078,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010078,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Schlagergraben",
+    "wof:parent_id":1108835783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.20878,
+    47.62306,
+    16.20878,
+    47.62306
+],
+  "geometry": {"coordinates":[16.20878,47.62306],"type":"Point"}
+}

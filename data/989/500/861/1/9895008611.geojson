@@ -1,0 +1,77 @@
+{
+  "id": 9895008611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07833,46.68139,15.07833,46.68139",
+    "geom:latitude":46.68139,
+    "geom:longitude":15.07833,
+    "gn:population":291,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2764972: name \"Soboth\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2764972"
+        },
+        {
+            "citation":"GeoNames populated place 2764972: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2764972"
+        },
+        {
+            "citation":"GeoNames populated place 2764972: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2764972"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839299 (Eibiswald), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049691,
+        102191581,
+        1108839299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764972
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d6b62ae52ceb9117a854d84a0c8d6937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839299,
+            "locality_id":9895008611,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008611,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Soboth",
+    "wof:parent_id":1108839299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07833,
+    46.68139,
+    15.07833,
+    46.68139
+],
+  "geometry": {"coordinates":[15.07833,46.68139],"type":"Point"}
+}

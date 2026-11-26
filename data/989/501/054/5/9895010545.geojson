@@ -1,0 +1,77 @@
+{
+  "id": 9895010545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98429,47.97947,15.98429,47.97947",
+    "geom:latitude":47.97947,
+    "geom:longitude":15.98429,
+    "gn:population":2,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747296: name \"Rehgras\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747296"
+        },
+        {
+            "citation":"GeoNames populated place 11747296: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747296"
+        },
+        {
+            "citation":"GeoNames populated place 11747296: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747296"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836919 (Furth an der Triesting), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049829,
+        102191581,
+        1108836919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747296
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"98facec1b5e74b82f0fb3c9f14afb001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108836919,
+            "locality_id":9895010545,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010545,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Rehgras",
+    "wof:parent_id":1108836919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98429,
+    47.97947,
+    15.98429,
+    47.97947
+],
+  "geometry": {"coordinates":[15.98429,47.97947],"type":"Point"}
+}

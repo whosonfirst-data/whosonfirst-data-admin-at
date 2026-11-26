@@ -1,0 +1,77 @@
+{
+  "id": 9895010112,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78673,47.98056,13.78673,47.98056",
+    "geom:latitude":47.98056,
+    "geom:longitude":13.78673,
+    "gn:population":35,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695272: name \"Unternathal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695272"
+        },
+        {
+            "citation":"GeoNames populated place 11695272: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695272"
+        },
+        {
+            "citation":"GeoNames populated place 11695272: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695272"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835149 (Ohlsdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049807,
+        102191581,
+        1108835149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695272
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d4cbd8a36563789e3e02388cc72a54ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835149,
+            "locality_id":9895010112,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010112,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Unternathal",
+    "wof:parent_id":1108835149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78673,
+    47.98056,
+    13.78673,
+    47.98056
+],
+  "geometry": {"coordinates":[13.78673,47.98056],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895008689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94374,47.11506,15.94374,47.11506",
+    "geom:latitude":47.11506,
+    "geom:longitude":15.94374,
+    "gn:population":304,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2776982: name \"Hainersdorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2776982"
+        },
+        {
+            "citation":"GeoNames populated place 2776982: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2776982"
+        },
+        {
+            "citation":"GeoNames populated place 2776982: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2776982"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839223 (Gro\u00dfwilfersdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102191581,
+        1108839223,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776982
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"dc0b4a1f75d3fc8a0eeeffa5444b67cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839223,
+            "locality_id":9895008689,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008689,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Hainersdorf",
+    "wof:parent_id":1108839223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94374,
+    47.11506,
+    15.94374,
+    47.11506
+],
+  "geometry": {"coordinates":[15.94374,47.11506],"type":"Point"}
+}

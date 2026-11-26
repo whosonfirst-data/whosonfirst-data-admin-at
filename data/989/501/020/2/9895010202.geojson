@@ -1,0 +1,77 @@
+{
+  "id": 9895010202,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26961,46.84913,14.26961,46.84913",
+    "geom:latitude":46.84913,
+    "geom:longitude":14.26961,
+    "gn:population":8,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695674: name \"Kr\u00f6n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695674"
+        },
+        {
+            "citation":"GeoNames populated place 11695674: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695674"
+        },
+        {
+            "citation":"GeoNames populated place 11695674: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695674"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838215 (Gurk), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049697,
+        102191581,
+        1108838215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695674
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f91e6a748a8e2391b9668d7961ffaf95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838215,
+            "locality_id":9895010202,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010202,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Kr\u00f6n",
+    "wof:parent_id":1108838215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26961,
+    46.84913,
+    14.26961,
+    46.84913
+],
+  "geometry": {"coordinates":[14.26961,46.84913],"type":"Point"}
+}

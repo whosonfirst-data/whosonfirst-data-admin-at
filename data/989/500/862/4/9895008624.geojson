@@ -1,0 +1,77 @@
+{
+  "id": 9895008624,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42908,47.06591,14.42908,47.06591",
+    "geom:latitude":47.06591,
+    "geom:longitude":14.42908,
+    "gn:population":401,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2766563: name \"Sankt Marein bei Neumarkt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2766563"
+        },
+        {
+            "citation":"GeoNames populated place 2766563: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2766563"
+        },
+        {
+            "citation":"GeoNames populated place 2766563: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2766563"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838811 (Neumarkt), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049733,
+        102191581,
+        1108838811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766563
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6383615e19e52375f03ae523c7835984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838811,
+            "locality_id":9895008624,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008624,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Sankt Marein bei Neumarkt",
+    "wof:parent_id":1108838811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42908,
+    47.06591,
+    14.42908,
+    47.06591
+],
+  "geometry": {"coordinates":[14.42908,47.06591],"type":"Point"}
+}

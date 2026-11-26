@@ -1,0 +1,77 @@
+{
+  "id": 9895010893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.79821,48.0207,13.79821,48.0207",
+    "geom:latitude":48.0207,
+    "geom:longitude":13.79821,
+    "gn:population":227,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903738: name \"Fallholz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903738"
+        },
+        {
+            "citation":"GeoNames populated place 11903738: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903738"
+        },
+        {
+            "citation":"GeoNames populated place 11903738: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903738"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836433 (Desselbrunn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049817,
+        102191581,
+        1108836433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903738
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b83811021a677edc37d794379798d09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836433,
+            "locality_id":9895010893,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010893,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Fallholz",
+    "wof:parent_id":1108836433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.79821,
+    48.0207,
+    13.79821,
+    48.0207
+],
+  "geometry": {"coordinates":[13.79821,48.0207],"type":"Point"}
+}

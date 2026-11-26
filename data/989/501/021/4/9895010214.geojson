@@ -1,0 +1,77 @@
+{
+  "id": 9895010214,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99598,48.32165,13.99598,48.32165",
+    "geom:latitude":48.32165,
+    "geom:longitude":13.99598,
+    "gn:population":98,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695763: name \"Unterleiten\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695763"
+        },
+        {
+            "citation":"GeoNames populated place 11695763: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695763"
+        },
+        {
+            "citation":"GeoNames populated place 11695763: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695763"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835047 (Hinzenbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049863,
+        102191581,
+        1108835047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695763
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"23437f505bfdc3b7e72dfccbef730272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835047,
+            "locality_id":9895010214,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010214,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Unterleiten",
+    "wof:parent_id":1108835047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99598,
+    48.32165,
+    13.99598,
+    48.32165
+],
+  "geometry": {"coordinates":[13.99598,48.32165],"type":"Point"}
+}

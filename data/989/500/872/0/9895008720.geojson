@@ -1,0 +1,77 @@
+{
+  "id": 9895008720,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39167,46.98833,14.39167,46.98833",
+    "geom:latitude":46.98833,
+    "geom:longitude":14.39167,
+    "gn:population":242,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2780603: name \"D\u00fcrnstein in der Steiermark\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2780603"
+        },
+        {
+            "citation":"GeoNames populated place 2780603: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2780603"
+        },
+        {
+            "citation":"GeoNames populated place 2780603: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2780603"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838811 (Neumarkt), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049733,
+        102191581,
+        1108838811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780603
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2ecd3a6c8c1d4ca194447285c2be1e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838811,
+            "locality_id":9895008720,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008720,
+    "wof:lastmodified":1795734979,
+    "wof:name":"D\u00fcrnstein in der Steiermark",
+    "wof:parent_id":1108838811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39167,
+    46.98833,
+    14.39167,
+    46.98833
+],
+  "geometry": {"coordinates":[14.39167,46.98833],"type":"Point"}
+}

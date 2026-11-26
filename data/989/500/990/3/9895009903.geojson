@@ -1,0 +1,77 @@
+{
+  "id": 9895009903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.66103,48.42786,13.66103,48.42786",
+    "geom:latitude":48.42786,
+    "geom:longitude":13.66103,
+    "gn:population":61,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694704: name \"Matzelsdorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694704"
+        },
+        {
+            "citation":"GeoNames populated place 11694704: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694704"
+        },
+        {
+            "citation":"GeoNames populated place 11694704: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694704"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836047 (Kopfing im Innkreis), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049877,
+        102191581,
+        1108836047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694704
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a77618219b9e59803ae4588ba30d8bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836047,
+            "locality_id":9895009903,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009903,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Matzelsdorf",
+    "wof:parent_id":1108836047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.66103,
+    48.42786,
+    13.66103,
+    48.42786
+],
+  "geometry": {"coordinates":[13.66103,48.42786],"type":"Point"}
+}

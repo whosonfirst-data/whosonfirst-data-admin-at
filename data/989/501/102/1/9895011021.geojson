@@ -1,0 +1,76 @@
+{
+  "id": 9895011021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.66379,47.35502,9.66379,47.35502",
+    "geom:latitude":47.35502,
+    "geom:longitude":9.66379,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12253559: name \"Hohenems Altacher Weg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12253559"
+        },
+        {
+            "citation":"GeoNames populated place 12253559: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12253559"
+        },
+        {
+            "citation":"GeoNames populated place 12253559: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12253559"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837963 (Hohenems), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681649,
+        102049737,
+        102191581,
+        1108837963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12253559
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ce443b9f4ee5107e1a0b9b83a253c611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":9895011021,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":9895011021,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Hohenems Altacher Weg",
+    "wof:parent_id":1108837963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.66379,
+    47.35502,
+    9.66379,
+    47.35502
+],
+  "geometry": {"coordinates":[9.66379,47.35502],"type":"Point"}
+}

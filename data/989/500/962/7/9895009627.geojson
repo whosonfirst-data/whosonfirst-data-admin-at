@@ -1,0 +1,76 @@
+{
+  "id": 9895009627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60966,48.31799,13.60966,48.31799",
+    "geom:latitude":48.31799,
+    "geom:longitude":13.60966,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670428: name \"Untern\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670428"
+        },
+        {
+            "citation":"GeoNames populated place 11670428: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670428"
+        },
+        {
+            "citation":"GeoNames populated place 11670428: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670428"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836089 (Zell an der Pram), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049877,
+        102191581,
+        1108836089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670428
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5feffd724a9c3fcde3190f8ef6120e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836089,
+            "locality_id":9895009627,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009627,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Untern",
+    "wof:parent_id":1108836089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60966,
+    48.31799,
+    13.60966,
+    48.31799
+],
+  "geometry": {"coordinates":[13.60966,48.31799],"type":"Point"}
+}

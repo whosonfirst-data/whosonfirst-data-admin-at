@@ -1,0 +1,77 @@
+{
+  "id": 9895009026,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5646,48.30629,13.5646,48.30629",
+    "geom:latitude":48.30629,
+    "geom:longitude":13.5646,
+    "gn:population":22,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668931: name \"Baumgarten\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668931"
+        },
+        {
+            "citation":"GeoNames populated place 11668931: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668931"
+        },
+        {
+            "citation":"GeoNames populated place 11668931: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668931"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835651 (Lambrechten), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049851,
+        102191581,
+        1108835651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668931
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"61e8a06e291457bc751c4d4528faf3af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835651,
+            "locality_id":9895009026,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009026,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Baumgarten",
+    "wof:parent_id":1108835651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5646,
+    48.30629,
+    13.5646,
+    48.30629
+],
+  "geometry": {"coordinates":[13.5646,48.30629],"type":"Point"}
+}

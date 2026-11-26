@@ -1,0 +1,77 @@
+{
+  "id": 9895010092,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81484,48.2704,13.81484,48.2704",
+    "geom:latitude":48.2704,
+    "geom:longitude":13.81484,
+    "gn:population":45,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695236: name \"Zelli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695236"
+        },
+        {
+            "citation":"GeoNames populated place 11695236: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695236"
+        },
+        {
+            "citation":"GeoNames populated place 11695236: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695236"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835197 (Michaelnbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049861,
+        102191581,
+        1108835197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695236
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a632cd84b54e5c95b4d77f60641c608e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835197,
+            "locality_id":9895010092,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010092,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Zelli",
+    "wof:parent_id":1108835197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81484,
+    48.2704,
+    13.81484,
+    48.2704
+],
+  "geometry": {"coordinates":[13.81484,48.2704],"type":"Point"}
+}

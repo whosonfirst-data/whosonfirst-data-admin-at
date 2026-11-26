@@ -1,0 +1,77 @@
+{
+  "id": 9895010653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64081,48.48527,13.64081,48.48527",
+    "geom:latitude":48.48527,
+    "geom:longitude":13.64081,
+    "gn:population":23,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747605: name \"Oberndorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747605"
+        },
+        {
+            "citation":"GeoNames populated place 11747605: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747605"
+        },
+        {
+            "citation":"GeoNames populated place 11747605: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747605"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836067 (St. Roman), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049877,
+        102191581,
+        1108836067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747605
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b89fb9e1fe7d64c08447a0319d7f3fb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836067,
+            "locality_id":9895010653,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010653,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Oberndorf",
+    "wof:parent_id":1108836067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64081,
+    48.48527,
+    13.64081,
+    48.48527
+],
+  "geometry": {"coordinates":[13.64081,48.48527],"type":"Point"}
+}

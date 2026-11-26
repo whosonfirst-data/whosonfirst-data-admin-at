@@ -1,0 +1,77 @@
+{
+  "id": 9895008593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4945,47.57815,15.4945,47.57815",
+    "geom:latitude":47.57815,
+    "geom:longitude":15.4945,
+    "gn:population":360,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2762458: name \"Veitsch\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2762458"
+        },
+        {
+            "citation":"GeoNames populated place 2762458: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2762458"
+        },
+        {
+            "citation":"GeoNames populated place 2762458: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2762458"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838861 (St. Barbara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102191581,
+        1108838861,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762458
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"aa0e110abbe8fb503120a3d1af74e44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108838861,
+            "locality_id":9895008593,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008593,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Veitsch",
+    "wof:parent_id":1108838861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4945,
+    47.57815,
+    15.4945,
+    47.57815
+],
+  "geometry": {"coordinates":[15.4945,47.57815],"type":"Point"}
+}

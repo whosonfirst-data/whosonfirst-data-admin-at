@@ -1,0 +1,77 @@
+{
+  "id": 9895010028,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.807,48.47116,14.807,48.47116",
+    "geom:latitude":48.47116,
+    "geom:longitude":14.807,
+    "gn:population":61,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695157: name \"Grafenschlag\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695157"
+        },
+        {
+            "citation":"GeoNames populated place 11695157: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695157"
+        },
+        {
+            "citation":"GeoNames populated place 11695157: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695157"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835105 (Unterwei\u00dfenbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049883,
+        102191581,
+        1108835105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695157
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3c5e44ebf0fd9468e9efdd0a2b935249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835105,
+            "locality_id":9895010028,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010028,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Grafenschlag",
+    "wof:parent_id":1108835105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.807,
+    48.47116,
+    14.807,
+    48.47116
+],
+  "geometry": {"coordinates":[14.807,48.47116],"type":"Point"}
+}

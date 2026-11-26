@@ -1,0 +1,77 @@
+{
+  "id": 9895010502,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.26144,47.85804,13.26144,47.85804",
+    "geom:latitude":47.85804,
+    "geom:longitude":13.26144,
+    "gn:population":501,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11746501: name \"Thalgauberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11746501"
+        },
+        {
+            "citation":"GeoNames populated place 11746501: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11746501"
+        },
+        {
+            "citation":"GeoNames populated place 11746501: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11746501"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837187 (Thalgau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049799,
+        102191581,
+        1108837187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11746501
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e9b98f8ccf1e797bb89b5854d564638b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837187,
+            "locality_id":9895010502,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010502,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Thalgauberg",
+    "wof:parent_id":1108837187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.26144,
+    47.85804,
+    13.26144,
+    47.85804
+],
+  "geometry": {"coordinates":[13.26144,47.85804],"type":"Point"}
+}

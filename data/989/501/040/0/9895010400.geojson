@@ -1,0 +1,77 @@
+{
+  "id": 9895010400,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.24084,47.93331,13.24084,47.93331",
+    "geom:latitude":47.93331,
+    "geom:longitude":13.24084,
+    "gn:population":158,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704094: name \"Wertheim\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704094"
+        },
+        {
+            "citation":"GeoNames populated place 11704094: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704094"
+        },
+        {
+            "citation":"GeoNames populated place 11704094: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704094"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837163 (Neumarkt am Wallersee), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049799,
+        102191581,
+        1108837163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704094
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4fadade173a2d270d14d42b0814e59fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837163,
+            "locality_id":9895010400,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010400,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Wertheim",
+    "wof:parent_id":1108837163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.24084,
+    47.93331,
+    13.24084,
+    47.93331
+],
+  "geometry": {"coordinates":[13.24084,47.93331],"type":"Point"}
+}

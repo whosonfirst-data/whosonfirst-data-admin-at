@@ -1,0 +1,76 @@
+{
+  "id": 9895009858,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.09339,48.25823,13.09339,48.25823",
+    "geom:latitude":48.25823,
+    "geom:longitude":13.09339,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694635: name \"Mooswiesen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694635"
+        },
+        {
+            "citation":"GeoNames populated place 11694635: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694635"
+        },
+        {
+            "citation":"GeoNames populated place 11694635: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694635"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834791 (St. Peter am Hart), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694635
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"73ec5f554d09063dec8479ad0e8955c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834791,
+            "locality_id":9895009858,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009858,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Mooswiesen",
+    "wof:parent_id":1108834791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.09339,
+    48.25823,
+    13.09339,
+    48.25823
+],
+  "geometry": {"coordinates":[13.09339,48.25823],"type":"Point"}
+}

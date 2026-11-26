@@ -1,0 +1,77 @@
+{
+  "id": 9895009544,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5755,47.03667,13.5755,47.03667",
+    "geom:latitude":47.03667,
+    "geom:longitude":13.5755,
+    "gn:population":22,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670047: name \"Abwerzg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670047"
+        },
+        {
+            "citation":"GeoNames populated place 11670047: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670047"
+        },
+        {
+            "citation":"GeoNames populated place 11670047: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670047"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838293 (Rennweg Am Katschberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049701,
+        102191581,
+        1108838293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670047
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a3165bc41e42a4b4c17113b6f02e3d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838293,
+            "locality_id":9895009544,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895009544,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Abwerzg",
+    "wof:parent_id":1108838293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5755,
+    47.03667,
+    13.5755,
+    47.03667
+],
+  "geometry": {"coordinates":[13.5755,47.03667],"type":"Point"}
+}

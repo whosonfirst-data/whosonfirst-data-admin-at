@@ -1,0 +1,74 @@
+{
+  "id": 9895011071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.49639,48.15873,16.49639,48.15873",
+    "geom:latitude":48.15873,
+    "geom:longitude":16.49639,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13562121: name \"Alberner Hafen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13562121"
+        },
+        {
+            "citation":"GeoNames populated place 13562121: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13562121"
+        },
+        {
+            "citation":"GeoNames populated place 13562121: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13562121"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838101 (Wien), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681667,
+        102191581,
+        1108838101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13562121
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c6a2b39ae18cbed12dfed2c3bd838930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "localadmin_id":1108838101,
+            "locality_id":9895011071,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":9895011071,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Alberner Hafen",
+    "wof:parent_id":1108838101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.49639,
+    48.15873,
+    16.49639,
+    48.15873
+],
+  "geometry": {"coordinates":[16.49639,48.15873],"type":"Point"}
+}

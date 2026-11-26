@@ -1,0 +1,76 @@
+{
+  "id": 9895009270,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.09669,48.14891,13.09669,48.14891",
+    "geom:latitude":48.14891,
+    "geom:longitude":13.09669,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669219: name \"Heitzing\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669219"
+        },
+        {
+            "citation":"GeoNames populated place 11669219: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669219"
+        },
+        {
+            "citation":"GeoNames populated place 11669219: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669219"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834735 (Helpfau-Uttendorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669219
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1548433f069b03743a2b42c756579f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834735,
+            "locality_id":9895009270,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009270,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Heitzing",
+    "wof:parent_id":1108834735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.09669,
+    48.14891,
+    13.09669,
+    48.14891
+],
+  "geometry": {"coordinates":[13.09669,48.14891],"type":"Point"}
+}

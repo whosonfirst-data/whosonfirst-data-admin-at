@@ -1,0 +1,77 @@
+{
+  "id": 9895008696,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21906,46.92647,15.21906,46.92647",
+    "geom:latitude":46.92647,
+    "geom:longitude":15.21906,
+    "gn:population":445,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2778035: name \"Greisdorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2778035"
+        },
+        {
+            "citation":"GeoNames populated place 2778035: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2778035"
+        },
+        {
+            "citation":"GeoNames populated place 2778035: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2778035"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839279 (St. Stefan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049691,
+        102191581,
+        1108839279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778035
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3565971a6128810b1e619994115de761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839279,
+            "locality_id":9895008696,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008696,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Greisdorf",
+    "wof:parent_id":1108839279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21906,
+    46.92647,
+    15.21906,
+    46.92647
+],
+  "geometry": {"coordinates":[15.21906,46.92647],"type":"Point"}
+}

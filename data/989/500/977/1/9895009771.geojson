@@ -1,0 +1,77 @@
+{
+  "id": 9895009771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18931,46.64832,14.18931,46.64832",
+    "geom:latitude":46.64832,
+    "geom:longitude":14.18931,
+    "gn:population":51,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694218: name \"V\u00f6gelitz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694218"
+        },
+        {
+            "citation":"GeoNames populated place 11694218: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694218"
+        },
+        {
+            "citation":"GeoNames populated place 11694218: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694218"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838185 (Moosburg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049681,
+        102191581,
+        1108838185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694218
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"24ef3a584793f9e8af3c549d85fa8d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838185,
+            "locality_id":9895009771,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895009771,
+    "wof:lastmodified":1795734979,
+    "wof:name":"V\u00f6gelitz",
+    "wof:parent_id":1108838185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18931,
+    46.64832,
+    14.18931,
+    46.64832
+],
+  "geometry": {"coordinates":[14.18931,46.64832],"type":"Point"}
+}

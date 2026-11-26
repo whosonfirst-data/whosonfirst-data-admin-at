@@ -1,0 +1,76 @@
+{
+  "id": 9895011013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.67335,47.36111,9.67335,47.36111",
+    "geom:latitude":47.36111,
+    "geom:longitude":9.67335,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12253423: name \"Rossa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12253423"
+        },
+        {
+            "citation":"GeoNames populated place 12253423: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12253423"
+        },
+        {
+            "citation":"GeoNames populated place 12253423: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12253423"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837963 (Hohenems), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681649,
+        102049737,
+        102191581,
+        1108837963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12253423
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"702d050ce7bf8c715faba8731f1ef21d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":9895011013,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":9895011013,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Rossa",
+    "wof:parent_id":1108837963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.67335,
+    47.36111,
+    9.67335,
+    47.36111
+],
+  "geometry": {"coordinates":[9.67335,47.36111],"type":"Point"}
+}

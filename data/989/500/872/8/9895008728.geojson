@@ -1,0 +1,77 @@
+{
+  "id": 9895008728,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93333,46.86667,15.93333,46.86667",
+    "geom:latitude":46.86667,
+    "geom:longitude":15.93333,
+    "gn:population":1014,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2782027: name \"Bairisch K\u00f6lldorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2782027"
+        },
+        {
+            "citation":"GeoNames populated place 2782027: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2782027"
+        },
+        {
+            "citation":"GeoNames populated place 2782027: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2782027"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839269 (Gleichenberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102191581,
+        1108839269,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782027
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"cdc3ab637f916af580ca5ec988150b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839269,
+            "locality_id":9895008728,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008728,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Bairisch K\u00f6lldorf",
+    "wof:parent_id":1108839269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93333,
+    46.86667,
+    15.93333,
+    46.86667
+],
+  "geometry": {"coordinates":[15.93333,46.86667],"type":"Point"}
+}

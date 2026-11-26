@@ -1,0 +1,77 @@
+{
+  "id": 9895008838,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64197,48.34262,13.64197,48.34262",
+    "geom:latitude":48.34262,
+    "geom:longitude":13.64197,
+    "gn:population":62,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668637: name \"Krennhof\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668637"
+        },
+        {
+            "citation":"GeoNames populated place 11668637: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668637"
+        },
+        {
+            "citation":"GeoNames populated place 11668637: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668637"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836053 (Raab), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049877,
+        102191581,
+        1108836053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668637
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fd6d2833fd521265356d5c7596d89210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836053,
+            "locality_id":9895008838,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895008838,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Krennhof",
+    "wof:parent_id":1108836053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64197,
+    48.34262,
+    13.64197,
+    48.34262
+],
+  "geometry": {"coordinates":[13.64197,48.34262],"type":"Point"}
+}

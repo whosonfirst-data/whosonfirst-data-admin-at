@@ -1,0 +1,77 @@
+{
+  "id": 9895010453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95471,48.0259,14.95471,48.0259",
+    "geom:latitude":48.0259,
+    "geom:longitude":14.95471,
+    "gn:population":148,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11746103: name \"Hochkoglberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11746103"
+        },
+        {
+            "citation":"GeoNames populated place 11746103: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11746103"
+        },
+        {
+            "citation":"GeoNames populated place 11746103: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11746103"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836205 (Randegg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049825,
+        102191581,
+        1108836205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11746103
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"44e12c849e7cf2141e0591d76169ef9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108836205,
+            "locality_id":9895010453,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010453,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Hochkoglberg",
+    "wof:parent_id":1108836205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95471,
+    48.0259,
+    14.95471,
+    48.0259
+],
+  "geometry": {"coordinates":[14.95471,48.0259],"type":"Point"}
+}

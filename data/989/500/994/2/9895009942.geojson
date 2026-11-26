@@ -1,0 +1,77 @@
+{
+  "id": 9895009942,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.70055,47.96918,13.70055,47.96918",
+    "geom:latitude":47.96918,
+    "geom:longitude":13.70055,
+    "gn:population":90,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694949: name \"Weiding\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694949"
+        },
+        {
+            "citation":"GeoNames populated place 11694949: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694949"
+        },
+        {
+            "citation":"GeoNames populated place 11694949: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694949"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836487 (Regau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049817,
+        102191581,
+        1108836487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694949
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9ae192f24d3ded62a1bd1e3b3fb9b82d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836487,
+            "locality_id":9895009942,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009942,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Weiding",
+    "wof:parent_id":1108836487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.70055,
+    47.96918,
+    13.70055,
+    47.96918
+],
+  "geometry": {"coordinates":[13.70055,47.96918],"type":"Point"}
+}

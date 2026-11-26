@@ -1,0 +1,77 @@
+{
+  "id": 9895009194,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.84542,48.07048,12.84542,48.07048",
+    "geom:latitude":48.07048,
+    "geom:longitude":12.84542,
+    "gn:population":54,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669124: name \"Winham\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669124"
+        },
+        {
+            "citation":"GeoNames populated place 11669124: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669124"
+        },
+        {
+            "citation":"GeoNames populated place 11669124: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669124"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834801 (Tarsdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669124
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bb66b9ea1b072b5499c746f07d0a001e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834801,
+            "locality_id":9895009194,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009194,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Winham",
+    "wof:parent_id":1108834801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.84542,
+    48.07048,
+    12.84542,
+    48.07048
+],
+  "geometry": {"coordinates":[12.84542,48.07048],"type":"Point"}
+}

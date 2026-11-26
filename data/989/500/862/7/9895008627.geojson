@@ -1,0 +1,77 @@
+{
+  "id": 9895008627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69414,47.48943,15.69414,47.48943",
+    "geom:latitude":47.48943,
+    "geom:longitude":15.69414,
+    "gn:population":525,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2766626: name \"Sankt Kathrein am Hauenstein\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2766626"
+        },
+        {
+            "citation":"GeoNames populated place 2766626: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2766626"
+        },
+        {
+            "citation":"GeoNames populated place 2766626: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2766626"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839391 (St. Kathrein), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049765,
+        102191581,
+        1108839391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766626
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1a8d9adbba02ac1fa5709526ed56a574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108839391,
+            "locality_id":9895008627,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008627,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Sankt Kathrein am Hauenstein",
+    "wof:parent_id":1108839391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69414,
+    47.48943,
+    15.69414,
+    47.48943
+],
+  "geometry": {"coordinates":[15.69414,47.48943],"type":"Point"}
+}

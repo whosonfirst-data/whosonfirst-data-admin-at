@@ -1,0 +1,77 @@
+{
+  "id": 9895010245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82214,46.79709,14.82214,46.79709",
+    "geom:latitude":46.79709,
+    "geom:longitude":14.82214,
+    "gn:population":62,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696210: name \"Pichling\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696210"
+        },
+        {
+            "citation":"GeoNames populated place 11696210: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696210"
+        },
+        {
+            "citation":"GeoNames populated place 11696210: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696210"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838107 (Sankt Andr\u00e4), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049693,
+        102191581,
+        1108838107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696210
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8e0ddd29c197a7b8fafe9a78a6f08e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838107,
+            "locality_id":9895010245,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010245,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Pichling",
+    "wof:parent_id":1108838107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82214,
+    46.79709,
+    14.82214,
+    46.79709
+],
+  "geometry": {"coordinates":[14.82214,46.79709],"type":"Point"}
+}

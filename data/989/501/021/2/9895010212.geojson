@@ -1,0 +1,76 @@
+{
+  "id": 9895010212,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51373,48.65721,15.51373,48.65721",
+    "geom:latitude":48.65721,
+    "geom:longitude":15.51373,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695760: name \"Greilleinstein\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695760"
+        },
+        {
+            "citation":"GeoNames populated place 11695760: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695760"
+        },
+        {
+            "citation":"GeoNames populated place 11695760: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695760"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835921 (R\u00f6hrenbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049901,
+        102191581,
+        1108835921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695760
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b01bd4fec674916fe966d1bb7e8bf25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108835921,
+            "locality_id":9895010212,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010212,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Greilleinstein",
+    "wof:parent_id":1108835921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51373,
+    48.65721,
+    15.51373,
+    48.65721
+],
+  "geometry": {"coordinates":[15.51373,48.65721],"type":"Point"}
+}

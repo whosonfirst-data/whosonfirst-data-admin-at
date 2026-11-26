@@ -1,0 +1,77 @@
+{
+  "id": 9895010320,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35085,48.41977,14.35085,48.41977",
+    "geom:latitude":48.41977,
+    "geom:longitude":14.35085,
+    "gn:population":72,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696293: name \"Baumgarten\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696293"
+        },
+        {
+            "citation":"GeoNames populated place 11696293: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696293"
+        },
+        {
+            "citation":"GeoNames populated place 11696293: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696293"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836157 (Haibach im M\u00fchlkreis), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049881,
+        102191581,
+        1108836157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696293
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4012182f66891ba7b4ce2dd7d1e796bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836157,
+            "locality_id":9895010320,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010320,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Baumgarten",
+    "wof:parent_id":1108836157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35085,
+    48.41977,
+    14.35085,
+    48.41977
+],
+  "geometry": {"coordinates":[14.35085,48.41977],"type":"Point"}
+}

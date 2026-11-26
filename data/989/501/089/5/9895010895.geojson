@@ -1,0 +1,77 @@
+{
+  "id": 9895010895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.79507,47.98692,13.79507,47.98692",
+    "geom:latitude":47.98692,
+    "geom:longitude":13.79507,
+    "gn:population":265,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903740: name \"Sandh\u00e4uslberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903740"
+        },
+        {
+            "citation":"GeoNames populated place 11903740: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903740"
+        },
+        {
+            "citation":"GeoNames populated place 11903740: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903740"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835149 (Ohlsdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049807,
+        102191581,
+        1108835149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903740
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"58a5d01afc036a31fa390a834a655688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835149,
+            "locality_id":9895010895,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010895,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Sandh\u00e4uslberg",
+    "wof:parent_id":1108835149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.79507,
+    47.98692,
+    13.79507,
+    47.98692
+],
+  "geometry": {"coordinates":[13.79507,47.98692],"type":"Point"}
+}

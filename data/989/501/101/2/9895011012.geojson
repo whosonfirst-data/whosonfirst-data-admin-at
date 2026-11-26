@@ -1,0 +1,76 @@
+{
+  "id": 9895011012,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.67064,47.36268,9.67064,47.36268",
+    "geom:latitude":47.36268,
+    "geom:longitude":9.67064,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12253422: name \"Kirchholz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12253422"
+        },
+        {
+            "citation":"GeoNames populated place 12253422: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12253422"
+        },
+        {
+            "citation":"GeoNames populated place 12253422: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12253422"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837963 (Hohenems), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681649,
+        102049737,
+        102191581,
+        1108837963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12253422
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"785bc276561087ae234dcc0f400054f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":9895011012,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":9895011012,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Kirchholz",
+    "wof:parent_id":1108837963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.67064,
+    47.36268,
+    9.67064,
+    47.36268
+],
+  "geometry": {"coordinates":[9.67064,47.36268],"type":"Point"}
+}

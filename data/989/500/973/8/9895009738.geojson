@@ -1,0 +1,77 @@
+{
+  "id": 9895009738,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.16823,48.11981,13.16823,48.11981",
+    "geom:latitude":48.11981,
+    "geom:longitude":13.16823,
+    "gn:population":291,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694170: name \"Auffang\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694170"
+        },
+        {
+            "citation":"GeoNames populated place 11694170: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694170"
+        },
+        {
+            "citation":"GeoNames populated place 11694170: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694170"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834797 (Schalchen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694170
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"62e814e150c773a1cb9906a726af12c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834797,
+            "locality_id":9895009738,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009738,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Auffang",
+    "wof:parent_id":1108834797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.16823,
+    48.11981,
+    13.16823,
+    48.11981
+],
+  "geometry": {"coordinates":[13.16823,48.11981],"type":"Point"}
+}

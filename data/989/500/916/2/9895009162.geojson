@@ -1,0 +1,77 @@
+{
+  "id": 9895009162,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.35933,47.95651,13.35933,47.95651",
+    "geom:latitude":47.95651,
+    "geom:longitude":13.35933,
+    "gn:population":74,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669075: name \"H\u00fcttenedt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669075"
+        },
+        {
+            "citation":"GeoNames populated place 11669075: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669075"
+        },
+        {
+            "citation":"GeoNames populated place 11669075: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669075"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837183 (Stra\u00dfwalchen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049799,
+        102191581,
+        1108837183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669075
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"54e1c9c76e62715b8c7c4b3145826b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837183,
+            "locality_id":9895009162,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895009162,
+    "wof:lastmodified":1795734979,
+    "wof:name":"H\u00fcttenedt",
+    "wof:parent_id":1108837183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.35933,
+    47.95651,
+    13.35933,
+    47.95651
+],
+  "geometry": {"coordinates":[13.35933,47.95651],"type":"Point"}
+}

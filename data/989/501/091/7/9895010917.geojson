@@ -1,0 +1,77 @@
+{
+  "id": 9895010917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85757,48.54339,14.85757,48.54339",
+    "geom:latitude":48.54339,
+    "geom:longitude":14.85757,
+    "gn:population":161,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11905988: name \"Langschl\u00e4gerwald\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11905988"
+        },
+        {
+            "citation":"GeoNames populated place 11905988: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11905988"
+        },
+        {
+            "citation":"GeoNames populated place 11905988: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11905988"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836319 (Langschlag), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049895,
+        102191581,
+        1108836319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11905988
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a431e486e9722916d2c4597f6f828620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108836319,
+            "locality_id":9895010917,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010917,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Langschl\u00e4gerwald",
+    "wof:parent_id":1108836319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85757,
+    48.54339,
+    14.85757,
+    48.54339
+],
+  "geometry": {"coordinates":[14.85757,48.54339],"type":"Point"}
+}

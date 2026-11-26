@@ -1,0 +1,77 @@
+{
+  "id": 9895010628,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.00255,46.59255,14.00255,46.59255",
+    "geom:latitude":46.59255,
+    "geom:longitude":14.00255,
+    "gn:population":143,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747579: name \"Bergl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747579"
+        },
+        {
+            "citation":"GeoNames populated place 11747579: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747579"
+        },
+        {
+            "citation":"GeoNames populated place 11747579: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747579"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838347 (Rosegg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049683,
+        102191581,
+        1108838347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747579
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d5671f09fa1ab5567b96044ea4e378cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838347,
+            "locality_id":9895010628,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010628,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Bergl",
+    "wof:parent_id":1108838347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.00255,
+    46.59255,
+    14.00255,
+    46.59255
+],
+  "geometry": {"coordinates":[14.00255,46.59255],"type":"Point"}
+}

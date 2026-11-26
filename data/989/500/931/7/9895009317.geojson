@@ -1,0 +1,76 @@
+{
+  "id": 9895009317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8949,48.01657,15.8949,48.01657",
+    "geom:latitude":48.01657,
+    "geom:longitude":15.8949,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669275: name \"Aschbichler\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669275"
+        },
+        {
+            "citation":"GeoNames populated place 11669275: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669275"
+        },
+        {
+            "citation":"GeoNames populated place 11669275: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669275"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835339 (Kaumberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049823,
+        102191581,
+        1108835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669275
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3f95c1d44bfaf4368581fdd07ba00bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108835339,
+            "locality_id":9895009317,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895009317,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Aschbichler",
+    "wof:parent_id":1108835339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8949,
+    48.01657,
+    15.8949,
+    48.01657
+],
+  "geometry": {"coordinates":[15.8949,48.01657],"type":"Point"}
+}

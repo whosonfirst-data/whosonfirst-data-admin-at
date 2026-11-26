@@ -1,0 +1,77 @@
+{
+  "id": 9895009304,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.14754,48.04114,13.14754,48.04114",
+    "geom:latitude":48.04114,
+    "geom:longitude":13.14754,
+    "gn:population":74,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669259: name \"Schweiber\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669259"
+        },
+        {
+            "citation":"GeoNames populated place 11669259: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669259"
+        },
+        {
+            "citation":"GeoNames populated place 11669259: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669259"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834741 (Jeging), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669259
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2bc4619d9b7f322dabf56b2b242736d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834741,
+            "locality_id":9895009304,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009304,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Schweiber",
+    "wof:parent_id":1108834741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.14754,
+    48.04114,
+    13.14754,
+    48.04114
+],
+  "geometry": {"coordinates":[13.14754,48.04114],"type":"Point"}
+}

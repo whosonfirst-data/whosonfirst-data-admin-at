@@ -1,0 +1,77 @@
+{
+  "id": 9895009038,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.44491,48.29304,13.44491,48.29304",
+    "geom:latitude":48.29304,
+    "geom:longitude":13.44491,
+    "gn:population":367,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668943: name \"Jenseits\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668943"
+        },
+        {
+            "citation":"GeoNames populated place 11668943: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668943"
+        },
+        {
+            "citation":"GeoNames populated place 11668943: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668943"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835687 (St. Martin im Innkreis), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049851,
+        102191581,
+        1108835687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668943
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"698a1330826194841d7b9442ac607504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835687,
+            "locality_id":9895009038,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009038,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Jenseits",
+    "wof:parent_id":1108835687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.44491,
+    48.29304,
+    13.44491,
+    48.29304
+],
+  "geometry": {"coordinates":[13.44491,48.29304],"type":"Point"}
+}

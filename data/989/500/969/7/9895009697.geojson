@@ -1,0 +1,77 @@
+{
+  "id": 9895009697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91659,48.33931,13.91659,48.33931",
+    "geom:latitude":48.33931,
+    "geom:longitude":13.91659,
+    "gn:population":11,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694127: name \"Andrichsberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694127"
+        },
+        {
+            "citation":"GeoNames populated place 11694127: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694127"
+        },
+        {
+            "citation":"GeoNames populated place 11694127: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694127"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835049 (Prambachkirchen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049863,
+        102191581,
+        1108835049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694127
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7975005fb89644f9d443e165b8dffa31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835049,
+            "locality_id":9895009697,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009697,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Andrichsberg",
+    "wof:parent_id":1108835049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91659,
+    48.33931,
+    13.91659,
+    48.33931
+],
+  "geometry": {"coordinates":[13.91659,48.33931],"type":"Point"}
+}

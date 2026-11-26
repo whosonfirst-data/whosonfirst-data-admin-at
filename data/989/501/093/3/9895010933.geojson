@@ -1,0 +1,77 @@
+{
+  "id": 9895010933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76339,47.93309,14.76339,47.93309",
+    "geom:latitude":47.93309,
+    "geom:longitude":14.76339,
+    "gn:population":543,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919613: name \"Wirts\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919613"
+        },
+        {
+            "citation":"GeoNames populated place 11919613: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919613"
+        },
+        {
+            "citation":"GeoNames populated place 11919613: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919613"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835029 (Waidhofen an der Ybbs), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049809,
+        102191581,
+        1108835029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919613
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9a576bb6b672e4949341cb605198f4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049809,
+            "localadmin_id":1108835029,
+            "locality_id":9895010933,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010933,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Wirts",
+    "wof:parent_id":1108835029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76339,
+    47.93309,
+    14.76339,
+    47.93309
+],
+  "geometry": {"coordinates":[14.76339,47.93309],"type":"Point"}
+}

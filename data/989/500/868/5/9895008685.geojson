@@ -1,0 +1,77 @@
+{
+  "id": 9895008685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8737,46.89045,15.8737,46.89045",
+    "geom:latitude":46.89045,
+    "geom:longitude":15.8737,
+    "gn:population":109,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2775797: name \"Hofst\u00e4tten\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2775797"
+        },
+        {
+            "citation":"GeoNames populated place 2775797: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2775797"
+        },
+        {
+            "citation":"GeoNames populated place 2775797: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2775797"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839269 (Gleichenberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102191581,
+        1108839269,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775797
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7a80d5eba8b30b4059d4b6c1b17f7bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839269,
+            "locality_id":9895008685,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008685,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Hofst\u00e4tten",
+    "wof:parent_id":1108839269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8737,
+    46.89045,
+    15.8737,
+    46.89045
+],
+  "geometry": {"coordinates":[15.8737,46.89045],"type":"Point"}
+}

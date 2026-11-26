@@ -1,0 +1,77 @@
+{
+  "id": 9895008933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42964,48.31719,14.42964,48.31719",
+    "geom:latitude":48.31719,
+    "geom:longitude":14.42964,
+    "gn:population":115,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668768: name \"Schmiedgassen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668768"
+        },
+        {
+            "citation":"GeoNames populated place 11668768: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668768"
+        },
+        {
+            "citation":"GeoNames populated place 11668768: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668768"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836145 (Engerwitzdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049881,
+        102191581,
+        1108836145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668768
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"aa733973ca3c41af0ad1aec7a98951da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836145,
+            "locality_id":9895008933,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895008933,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Schmiedgassen",
+    "wof:parent_id":1108836145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42964,
+    48.31719,
+    14.42964,
+    48.31719
+],
+  "geometry": {"coordinates":[14.42964,48.31719],"type":"Point"}
+}

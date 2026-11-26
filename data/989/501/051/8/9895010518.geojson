@@ -1,0 +1,77 @@
+{
+  "id": 9895010518,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84264,46.56712,13.84264,46.56712",
+    "geom:latitude":46.56712,
+    "geom:longitude":13.84264,
+    "gn:population":126,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11746749: name \"Neum\u00fcllnern\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11746749"
+        },
+        {
+            "citation":"GeoNames populated place 11746749: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11746749"
+        },
+        {
+            "citation":"GeoNames populated place 11746749: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11746749"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838339 (Finkenstein), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049683,
+        102191581,
+        1108838339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11746749
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0eddfafdea8e4ab4f3cf5ce9efa829ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838339,
+            "locality_id":9895010518,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010518,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Neum\u00fcllnern",
+    "wof:parent_id":1108838339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84264,
+    46.56712,
+    13.84264,
+    46.56712
+],
+  "geometry": {"coordinates":[13.84264,46.56712],"type":"Point"}
+}

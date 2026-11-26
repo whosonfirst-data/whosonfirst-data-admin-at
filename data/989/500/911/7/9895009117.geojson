@@ -1,0 +1,77 @@
+{
+  "id": 9895009117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.49452,48.19052,13.49452,48.19052",
+    "geom:latitude":48.19052,
+    "geom:longitude":13.49452,
+    "gn:population":162,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669024: name \"Auleiten\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669024"
+        },
+        {
+            "citation":"GeoNames populated place 11669024: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669024"
+        },
+        {
+            "citation":"GeoNames populated place 11669024: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669024"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835663 (Neuhofen im Innkreis), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049851,
+        102191581,
+        1108835663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669024
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"22516b935f6a29ebe39f8228087bb18d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835663,
+            "locality_id":9895009117,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009117,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Auleiten",
+    "wof:parent_id":1108835663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.49452,
+    48.19052,
+    13.49452,
+    48.19052
+],
+  "geometry": {"coordinates":[13.49452,48.19052],"type":"Point"}
+}

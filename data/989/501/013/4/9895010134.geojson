@@ -1,0 +1,77 @@
+{
+  "id": 9895010134,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.61785,48.22147,13.61785,48.22147",
+    "geom:latitude":48.22147,
+    "geom:longitude":13.61785,
+    "gn:population":9,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695592: name \"Lucka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695592"
+        },
+        {
+            "citation":"GeoNames populated place 11695592: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695592"
+        },
+        {
+            "citation":"GeoNames populated place 11695592: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695592"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835213 (Pram), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049861,
+        102191581,
+        1108835213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695592
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"26a7a26ce0107a9935730e4f7e67f8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835213,
+            "locality_id":9895010134,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010134,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Lucka",
+    "wof:parent_id":1108835213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.61785,
+    48.22147,
+    13.61785,
+    48.22147
+],
+  "geometry": {"coordinates":[13.61785,48.22147],"type":"Point"}
+}

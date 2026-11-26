@@ -1,0 +1,77 @@
+{
+  "id": 9895009832,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28174,48.14567,13.28174,48.14567",
+    "geom:latitude":48.14567,
+    "geom:longitude":13.28174,
+    "gn:population":44,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694606: name \"Au\u00dferleiten\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694606"
+        },
+        {
+            "citation":"GeoNames populated place 11694606: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694606"
+        },
+        {
+            "citation":"GeoNames populated place 11694606: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694606"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834739 (H\u00f6hnhart), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694606
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a75e6e14d3faae4c4d708346aec2a6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834739,
+            "locality_id":9895009832,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009832,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Au\u00dferleiten",
+    "wof:parent_id":1108834739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28174,
+    48.14567,
+    13.28174,
+    48.14567
+],
+  "geometry": {"coordinates":[13.28174,48.14567],"type":"Point"}
+}

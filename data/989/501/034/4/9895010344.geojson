@@ -1,0 +1,77 @@
+{
+  "id": 9895010344,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78356,46.55352,14.78356,46.55352",
+    "geom:latitude":46.55352,
+    "geom:longitude":14.78356,
+    "gn:population":22,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703876: name \"Winkel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703876"
+        },
+        {
+            "citation":"GeoNames populated place 11703876: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703876"
+        },
+        {
+            "citation":"GeoNames populated place 11703876: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703876"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838375 (Feistritz Ob Bleiburg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049685,
+        102191581,
+        1108838375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703876
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b892521123bd60413811e5b46f5b7074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838375,
+            "locality_id":9895010344,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010344,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Winkel",
+    "wof:parent_id":1108838375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78356,
+    46.55352,
+    14.78356,
+    46.55352
+],
+  "geometry": {"coordinates":[14.78356,46.55352],"type":"Point"}
+}

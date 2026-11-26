@@ -1,0 +1,77 @@
+{
+  "id": 9895010864,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2074,47.4665,13.2074,47.4665",
+    "geom:latitude":47.4665,
+    "geom:longitude":13.2074,
+    "gn:population":304,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903649: name \"Maier\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903649"
+        },
+        {
+            "citation":"GeoNames populated place 11903649: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903649"
+        },
+        {
+            "citation":"GeoNames populated place 11903649: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903649"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837023 (Pfarrwerfen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049753,
+        102191581,
+        1108837023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903649
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4761b3813afc7798fb4bc779f1996146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837023,
+            "locality_id":9895010864,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010864,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Maier",
+    "wof:parent_id":1108837023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2074,
+    47.4665,
+    13.2074,
+    47.4665
+],
+  "geometry": {"coordinates":[13.2074,47.4665],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895010124,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.07173,48.01898,13.07173,48.01898",
+    "geom:latitude":48.01898,
+    "geom:longitude":13.07173,
+    "gn:population":13,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695581: name \"Stockach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695581"
+        },
+        {
+            "citation":"GeoNames populated place 11695581: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695581"
+        },
+        {
+            "citation":"GeoNames populated place 11695581: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695581"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834773 (Perwang am Grabensee), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695581
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"985ef22e31f7af1ac46ac5b844135e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834773,
+            "locality_id":9895010124,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010124,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Stockach",
+    "wof:parent_id":1108834773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.07173,
+    48.01898,
+    13.07173,
+    48.01898
+],
+  "geometry": {"coordinates":[13.07173,48.01898],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895010005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72999,48.04435,13.72999,48.04435",
+    "geom:latitude":48.04435,
+    "geom:longitude":13.72999,
+    "gn:population":116,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695038: name \"Ennsberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695038"
+        },
+        {
+            "citation":"GeoNames populated place 11695038: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695038"
+        },
+        {
+            "citation":"GeoNames populated place 11695038: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695038"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836481 (P\u00fchret), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049817,
+        102191581,
+        1108836481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695038
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4eff6932c2e9010609ae06bbe8277c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836481,
+            "locality_id":9895010005,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010005,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Ennsberg",
+    "wof:parent_id":1108836481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72999,
+    48.04435,
+    13.72999,
+    48.04435
+],
+  "geometry": {"coordinates":[13.72999,48.04435],"type":"Point"}
+}

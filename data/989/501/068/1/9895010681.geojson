@@ -1,0 +1,77 @@
+{
+  "id": 9895010681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83041,46.63479,13.83041,46.63479",
+    "geom:latitude":46.63479,
+    "geom:longitude":13.83041,
+    "gn:population":151,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11748013: name \"Rennstein\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11748013"
+        },
+        {
+            "citation":"GeoNames populated place 11748013: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11748013"
+        },
+        {
+            "citation":"GeoNames populated place 11748013: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11748013"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838145 (Villach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049673,
+        102191581,
+        1108838145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11748013
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"64c763d8f69c4d4a67d43dd626191cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":9895010681,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010681,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Rennstein",
+    "wof:parent_id":1108838145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83041,
+    46.63479,
+    13.83041,
+    46.63479
+],
+  "geometry": {"coordinates":[13.83041,46.63479],"type":"Point"}
+}

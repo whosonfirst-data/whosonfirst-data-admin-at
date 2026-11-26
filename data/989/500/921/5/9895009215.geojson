@@ -1,0 +1,77 @@
+{
+  "id": 9895009215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90949,48.11786,15.90949,48.11786",
+    "geom:latitude":48.11786,
+    "geom:longitude":15.90949,
+    "gn:population":6,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669146: name \"H\u00f6fer\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669146"
+        },
+        {
+            "citation":"GeoNames populated place 11669146: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669146"
+        },
+        {
+            "citation":"GeoNames populated place 11669146: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669146"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836931 (Altlengbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049869,
+        102191581,
+        1108836931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669146
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"90fda00d1732248bdae49b3fb9554d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836931,
+            "locality_id":9895009215,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895009215,
+    "wof:lastmodified":1795734979,
+    "wof:name":"H\u00f6fer",
+    "wof:parent_id":1108836931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90949,
+    48.11786,
+    15.90949,
+    48.11786
+],
+  "geometry": {"coordinates":[15.90949,48.11786],"type":"Point"}
+}

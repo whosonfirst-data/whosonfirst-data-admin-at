@@ -1,0 +1,77 @@
+{
+  "id": 9895010798,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04146,48.12175,15.04146,48.12175",
+    "geom:latitude":48.12175,
+    "geom:longitude":15.04146,
+    "gn:population":29,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11862657: name \"Fischerberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11862657"
+        },
+        {
+            "citation":"GeoNames populated place 11862657: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11862657"
+        },
+        {
+            "citation":"GeoNames populated place 11862657: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11862657"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836831 (Wolfpassing), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049825,
+        102191581,
+        1108836831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11862657
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3fdaec67c16003c9989dc6dcca2c8b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108836831,
+            "locality_id":9895010798,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010798,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Fischerberg",
+    "wof:parent_id":1108836831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04146,
+    48.12175,
+    15.04146,
+    48.12175
+],
+  "geometry": {"coordinates":[15.04146,48.12175],"type":"Point"}
+}

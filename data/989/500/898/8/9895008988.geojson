@@ -1,0 +1,77 @@
+{
+  "id": 9895008988,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56264,48.42806,14.56264,48.42806",
+    "geom:latitude":48.42806,
+    "geom:longitude":14.56264,
+    "gn:population":98,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668879: name \"Harterleiten\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668879"
+        },
+        {
+            "citation":"GeoNames populated place 11668879: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668879"
+        },
+        {
+            "citation":"GeoNames populated place 11668879: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668879"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835075 (Kefermarkt), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049883,
+        102191581,
+        1108835075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668879
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c4a6fd5f3ef7443779eb0ee71123d094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835075,
+            "locality_id":9895008988,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895008988,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Harterleiten",
+    "wof:parent_id":1108835075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56264,
+    48.42806,
+    14.56264,
+    48.42806
+],
+  "geometry": {"coordinates":[14.56264,48.42806],"type":"Point"}
+}

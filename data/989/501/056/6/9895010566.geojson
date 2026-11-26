@@ -1,0 +1,77 @@
+{
+  "id": 9895010566,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.0161,48.1575,13.0161,48.1575",
+    "geom:latitude":48.1575,
+    "geom:longitude":13.0161,
+    "gn:population":15,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747513: name \"Moos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747513"
+        },
+        {
+            "citation":"GeoNames populated place 11747513: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747513"
+        },
+        {
+            "citation":"GeoNames populated place 11747513: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747513"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834733 (Handenberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747513
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ea4e5f2d3371051914b322d208626b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834733,
+            "locality_id":9895010566,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010566,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Moos",
+    "wof:parent_id":1108834733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.0161,
+    48.1575,
+    13.0161,
+    48.1575
+],
+  "geometry": {"coordinates":[13.0161,48.1575],"type":"Point"}
+}

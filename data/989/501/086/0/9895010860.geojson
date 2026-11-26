@@ -1,0 +1,77 @@
+{
+  "id": 9895010860,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.77439,47.44513,12.77439,47.44513",
+    "geom:latitude":47.44513,
+    "geom:longitude":12.77439,
+    "gn:population":225,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903623: name \"Sinning\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903623"
+        },
+        {
+            "citation":"GeoNames populated place 11903623: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903623"
+        },
+        {
+            "citation":"GeoNames populated place 11903623: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903623"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837211 (Leogang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049761,
+        102191581,
+        1108837211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903623
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"123da5460eaba2651dca4a4e10cfec12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837211,
+            "locality_id":9895010860,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010860,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Sinning",
+    "wof:parent_id":1108837211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.77439,
+    47.44513,
+    12.77439,
+    47.44513
+],
+  "geometry": {"coordinates":[12.77439,47.44513],"type":"Point"}
+}

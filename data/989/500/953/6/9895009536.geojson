@@ -1,0 +1,77 @@
+{
+  "id": 9895009536,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47829,48.4777,13.47829,48.4777",
+    "geom:latitude":48.4777,
+    "geom:longitude":13.47829,
+    "gn:population":57,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670027: name \"Reikersberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670027"
+        },
+        {
+            "citation":"GeoNames populated place 11670027: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670027"
+        },
+        {
+            "citation":"GeoNames populated place 11670027: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670027"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836029 (Brunnenthal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049877,
+        102191581,
+        1108836029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670027
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2de3083ca4f9f3bdcb3ba71136ef61d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836029,
+            "locality_id":9895009536,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009536,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Reikersberg",
+    "wof:parent_id":1108836029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47829,
+    48.4777,
+    13.47829,
+    48.4777
+],
+  "geometry": {"coordinates":[13.47829,48.4777],"type":"Point"}
+}

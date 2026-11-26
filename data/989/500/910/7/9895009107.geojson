@@ -1,0 +1,77 @@
+{
+  "id": 9895009107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.42821,48.21901,13.42821,48.21901",
+    "geom:latitude":48.21901,
+    "geom:longitude":13.42821,
+    "gn:population":19,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669014: name \"Steinbach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669014"
+        },
+        {
+            "citation":"GeoNames populated place 11669014: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669014"
+        },
+        {
+            "citation":"GeoNames populated place 11669014: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669014"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835655 (Mehrnbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049851,
+        102191581,
+        1108835655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669014
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9be6f3b2504d614aebfae9fc8c4af555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835655,
+            "locality_id":9895009107,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009107,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Steinbach",
+    "wof:parent_id":1108835655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.42821,
+    48.21901,
+    13.42821,
+    48.21901
+],
+  "geometry": {"coordinates":[13.42821,48.21901],"type":"Point"}
+}

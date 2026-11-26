@@ -1,0 +1,77 @@
+{
+  "id": 9895010441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4647,46.66172,14.4647,46.66172",
+    "geom:latitude":46.66172,
+    "geom:longitude":14.4647,
+    "gn:population":44,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11746089: name \"Str\u00f6glach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11746089"
+        },
+        {
+            "citation":"GeoNames populated place 11746089: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11746089"
+        },
+        {
+            "citation":"GeoNames populated place 11746089: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11746089"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838191 (Poggersdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049681,
+        102191581,
+        1108838191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11746089
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"83310962a60143fb5bc672e0f9f49b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838191,
+            "locality_id":9895010441,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010441,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Str\u00f6glach",
+    "wof:parent_id":1108838191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4647,
+    46.66172,
+    14.4647,
+    46.66172
+],
+  "geometry": {"coordinates":[14.4647,46.66172],"type":"Point"}
+}

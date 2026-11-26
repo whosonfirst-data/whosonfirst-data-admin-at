@@ -1,0 +1,77 @@
+{
+  "id": 9895010346,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.11465,46.93645,13.11465,46.93645",
+    "geom:latitude":46.93645,
+    "geom:longitude":13.11465,
+    "gn:population":133,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703878: name \"Kleindorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703878"
+        },
+        {
+            "citation":"GeoNames populated place 11703878: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703878"
+        },
+        {
+            "citation":"GeoNames populated place 11703878: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703878"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838261 (Flattach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049701,
+        102191581,
+        1108838261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703878
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6d838c3ba38704e3964cfaac4aedd9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838261,
+            "locality_id":9895010346,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010346,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Kleindorf",
+    "wof:parent_id":1108838261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.11465,
+    46.93645,
+    13.11465,
+    46.93645
+],
+  "geometry": {"coordinates":[13.11465,46.93645],"type":"Point"}
+}

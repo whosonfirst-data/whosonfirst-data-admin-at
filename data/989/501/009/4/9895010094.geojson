@@ -1,0 +1,77 @@
+{
+  "id": 9895010094,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62529,46.5307,14.62529,46.5307",
+    "geom:latitude":46.5307,
+    "geom:longitude":14.62529,
+    "gn:population":21,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695240: name \"Blasnitzenberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695240"
+        },
+        {
+            "citation":"GeoNames populated place 11695240: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695240"
+        },
+        {
+            "citation":"GeoNames populated place 11695240: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695240"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838389 (Sittersdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049685,
+        102191581,
+        1108838389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695240
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2728b08c14b201fec063aac70401cb7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838389,
+            "locality_id":9895010094,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010094,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Blasnitzenberg",
+    "wof:parent_id":1108838389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62529,
+    46.5307,
+    14.62529,
+    46.5307
+],
+  "geometry": {"coordinates":[14.62529,46.5307],"type":"Point"}
+}

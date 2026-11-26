@@ -1,0 +1,77 @@
+{
+  "id": 9895009459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.23994,48.00216,13.23994,48.00216",
+    "geom:latitude":48.00216,
+    "geom:longitude":13.23994,
+    "gn:population":35,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669948: name \"Oberehrneck\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669948"
+        },
+        {
+            "citation":"GeoNames populated place 11669948: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669948"
+        },
+        {
+            "citation":"GeoNames populated place 11669948: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669948"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834745 (Lengau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669948
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3f3ef6e9c25633e0d14b0828bd2d6d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834745,
+            "locality_id":9895009459,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009459,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Oberehrneck",
+    "wof:parent_id":1108834745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.23994,
+    48.00216,
+    13.23994,
+    48.00216
+],
+  "geometry": {"coordinates":[13.23994,48.00216],"type":"Point"}
+}

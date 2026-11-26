@@ -1,0 +1,77 @@
+{
+  "id": 9895009253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49354,46.82778,14.49354,46.82778",
+    "geom:latitude":46.82778,
+    "geom:longitude":14.49354,
+    "gn:population":13,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669184: name \"Unterbergen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669184"
+        },
+        {
+            "citation":"GeoNames populated place 11669184: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669184"
+        },
+        {
+            "citation":"GeoNames populated place 11669184: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669184"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838221 (Kappel Am Krappfeld), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049697,
+        102191581,
+        1108838221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669184
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"906d29ebc6933b6e2cd5eff08f3118f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838221,
+            "locality_id":9895009253,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895009253,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Unterbergen",
+    "wof:parent_id":1108838221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49354,
+    46.82778,
+    14.49354,
+    46.82778
+],
+  "geometry": {"coordinates":[14.49354,46.82778],"type":"Point"}
+}

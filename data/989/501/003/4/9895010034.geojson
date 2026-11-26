@@ -1,0 +1,77 @@
+{
+  "id": 9895010034,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97375,48.49528,13.97375,48.49528",
+    "geom:latitude":48.49528,
+    "geom:longitude":13.97375,
+    "gn:population":41,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695163: name \"Freileben\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695163"
+        },
+        {
+            "citation":"GeoNames populated place 11695163: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695163"
+        },
+        {
+            "citation":"GeoNames populated place 11695163: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695163"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835713 (Altenfelden), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049889,
+        102191581,
+        1108835713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695163
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a9181862ab7beedbd3ccb6150a5be418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835713,
+            "locality_id":9895010034,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010034,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Freileben",
+    "wof:parent_id":1108835713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97375,
+    48.49528,
+    13.97375,
+    48.49528
+],
+  "geometry": {"coordinates":[13.97375,48.49528],"type":"Point"}
+}

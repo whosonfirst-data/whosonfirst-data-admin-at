@@ -1,0 +1,77 @@
+{
+  "id": 9895010986,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.49229,47.92627,13.49229,47.92627",
+    "geom:latitude":47.92627,
+    "geom:longitude":13.49229,
+    "gn:population":174,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919875: name \"Lohened\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919875"
+        },
+        {
+            "citation":"GeoNames populated place 11919875: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919875"
+        },
+        {
+            "citation":"GeoNames populated place 11919875: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919875"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836493 (St. Georgen im Attergau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049817,
+        102191581,
+        1108836493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919875
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"72ef3763ab8d4e4e7279debfec1ee8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836493,
+            "locality_id":9895010986,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010986,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Lohened",
+    "wof:parent_id":1108836493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.49229,
+    47.92627,
+    13.49229,
+    47.92627
+],
+  "geometry": {"coordinates":[13.49229,47.92627],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895010351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2648,47.97185,14.2648,47.97185",
+    "geom:latitude":47.97185,
+    "geom:longitude":14.2648,
+    "gn:population":786,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704024: name \"Untergr\u00fcnburg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704024"
+        },
+        {
+            "citation":"GeoNames populated place 11704024: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704024"
+        },
+        {
+            "citation":"GeoNames populated place 11704024: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704024"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835245 (Gr\u00fcnburg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049815,
+        102191581,
+        1108835245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704024
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e73218260edeffd9a7eaa0b785e50e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835245,
+            "locality_id":9895010351,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010351,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Untergr\u00fcnburg",
+    "wof:parent_id":1108835245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2648,
+    47.97185,
+    14.2648,
+    47.97185
+],
+  "geometry": {"coordinates":[14.2648,47.97185],"type":"Point"}
+}

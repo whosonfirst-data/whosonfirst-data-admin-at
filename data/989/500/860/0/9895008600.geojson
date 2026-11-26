@@ -1,0 +1,77 @@
+{
+  "id": 9895008600,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88451,46.8753,15.88451,46.8753",
+    "geom:latitude":46.8753,
+    "geom:longitude":15.88451,
+    "gn:population":759,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2763400: name \"Trautmannsdorf in Oststeiermark\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2763400"
+        },
+        {
+            "citation":"GeoNames populated place 2763400: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2763400"
+        },
+        {
+            "citation":"GeoNames populated place 2763400: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2763400"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839269 (Gleichenberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102191581,
+        1108839269,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763400
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d0f927c7fc84055c5d5f9c7644b3566d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839269,
+            "locality_id":9895008600,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008600,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Trautmannsdorf in Oststeiermark",
+    "wof:parent_id":1108839269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88451,
+    46.8753,
+    15.88451,
+    46.8753
+],
+  "geometry": {"coordinates":[15.88451,46.8753],"type":"Point"}
+}

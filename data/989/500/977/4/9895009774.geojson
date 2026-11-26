@@ -1,0 +1,77 @@
+{
+  "id": 9895009774,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19215,46.68569,14.19215,46.68569",
+    "geom:latitude":46.68569,
+    "geom:longitude":14.19215,
+    "gn:population":22,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694221: name \"Wielen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694221"
+        },
+        {
+            "citation":"GeoNames populated place 11694221: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694221"
+        },
+        {
+            "citation":"GeoNames populated place 11694221: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694221"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838185 (Moosburg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049681,
+        102191581,
+        1108838185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694221
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"55babee703a3205ff97f82476d2ac7be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838185,
+            "locality_id":9895009774,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895009774,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Wielen",
+    "wof:parent_id":1108838185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19215,
+    46.68569,
+    14.19215,
+    46.68569
+],
+  "geometry": {"coordinates":[14.19215,46.68569],"type":"Point"}
+}

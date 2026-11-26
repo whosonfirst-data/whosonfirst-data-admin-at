@@ -1,0 +1,77 @@
+{
+  "id": 9895010830,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6528,48.23953,13.6528,48.23953",
+    "geom:latitude":48.23953,
+    "geom:longitude":13.6528,
+    "gn:population":17,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11862786: name \"Perndorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11862786"
+        },
+        {
+            "citation":"GeoNames populated place 11862786: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11862786"
+        },
+        {
+            "citation":"GeoNames populated place 11862786: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11862786"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835241 (Wendling), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049861,
+        102191581,
+        1108835241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11862786
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6d1ba9ee6687eebf6342a725527026b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835241,
+            "locality_id":9895010830,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010830,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Perndorf",
+    "wof:parent_id":1108835241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6528,
+    48.23953,
+    13.6528,
+    48.23953
+],
+  "geometry": {"coordinates":[13.6528,48.23953],"type":"Point"}
+}

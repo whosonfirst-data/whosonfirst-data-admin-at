@@ -1,0 +1,77 @@
+{
+  "id": 9895009871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87586,48.61436,13.87586,48.61436",
+    "geom:latitude":48.61436,
+    "geom:longitude":13.87586,
+    "gn:population":36,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694649: name \"Danneredt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694649"
+        },
+        {
+            "citation":"GeoNames populated place 11694649: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694649"
+        },
+        {
+            "citation":"GeoNames populated place 11694649: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694649"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835985 (Peilstein im M\u00fchlviertel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049889,
+        102191581,
+        1108835985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694649
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e142366f8e24f547c7102abd3a26e381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835985,
+            "locality_id":9895009871,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009871,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Danneredt",
+    "wof:parent_id":1108835985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87586,
+    48.61436,
+    13.87586,
+    48.61436
+],
+  "geometry": {"coordinates":[13.87586,48.61436],"type":"Point"}
+}

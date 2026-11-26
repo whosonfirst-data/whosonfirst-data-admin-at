@@ -1,0 +1,77 @@
+{
+  "id": 9895008664,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6,47.16667,15.6,47.16667",
+    "geom:latitude":47.16667,
+    "geom:longitude":15.6,
+    "gn:population":176,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2771473: name \"Mitterdorf an der Raab\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2771473"
+        },
+        {
+            "citation":"GeoNames populated place 2771473: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2771473"
+        },
+        {
+            "citation":"GeoNames populated place 2771473: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2771473"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839377 (Mitterdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049765,
+        102191581,
+        1108839377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771473
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e3484c878e2138f41f24f6d16dc381ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108839377,
+            "locality_id":9895008664,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008664,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Mitterdorf an der Raab",
+    "wof:parent_id":1108839377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6,
+    47.16667,
+    15.6,
+    47.16667
+],
+  "geometry": {"coordinates":[15.6,47.16667],"type":"Point"}
+}

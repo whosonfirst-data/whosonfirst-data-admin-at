@@ -1,0 +1,77 @@
+{
+  "id": 9895010308,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.52298,46.58792,14.52298,46.58792",
+    "geom:latitude":46.58792,
+    "geom:longitude":14.52298,
+    "gn:population":33,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696281: name \"P\u00f6lzling\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696281"
+        },
+        {
+            "citation":"GeoNames populated place 11696281: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696281"
+        },
+        {
+            "citation":"GeoNames populated place 11696281: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696281"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838377 (Gallizien), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049685,
+        102191581,
+        1108838377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696281
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3bbe0d68fd5cd61f7aace7df5b33481b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838377,
+            "locality_id":9895010308,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010308,
+    "wof:lastmodified":1795734979,
+    "wof:name":"P\u00f6lzling",
+    "wof:parent_id":1108838377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.52298,
+    46.58792,
+    14.52298,
+    46.58792
+],
+  "geometry": {"coordinates":[14.52298,46.58792],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895009186,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40421,48.40223,15.40421,48.40223",
+    "geom:latitude":48.40223,
+    "geom:longitude":15.40421,
+    "gn:population":5,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669111: name \"Neusiedl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669111"
+        },
+        {
+            "citation":"GeoNames populated place 11669111: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669111"
+        },
+        {
+            "citation":"GeoNames populated place 11669111: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669111"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835745 (Weinzierl am Walde), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049885,
+        102191581,
+        1108835745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669111
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d309812009a8403d389b0a598df578d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835745,
+            "locality_id":9895009186,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895009186,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Neusiedl",
+    "wof:parent_id":1108835745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40421,
+    48.40223,
+    15.40421,
+    48.40223
+],
+  "geometry": {"coordinates":[15.40421,48.40223],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895010920,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.09885,47.57903,16.09885,47.57903",
+    "geom:latitude":47.57903,
+    "geom:longitude":16.09885,
+    "gn:population":348,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919566: name \"H\u00f6ll\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919566"
+        },
+        {
+            "citation":"GeoNames populated place 11919566: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919566"
+        },
+        {
+            "citation":"GeoNames populated place 11919566: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919566"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835009 (Aspangberg - St. Peter), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049791,
+        102191581,
+        1108835009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919566
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"93bd92b662adb0d38aa396eb357590f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835009,
+            "locality_id":9895010920,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010920,
+    "wof:lastmodified":1795734979,
+    "wof:name":"H\u00f6ll",
+    "wof:parent_id":1108835009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.09885,
+    47.57903,
+    16.09885,
+    47.57903
+],
+  "geometry": {"coordinates":[16.09885,47.57903],"type":"Point"}
+}

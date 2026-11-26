@@ -1,0 +1,77 @@
+{
+  "id": 9895009568,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87311,48.5619,13.87311,48.5619",
+    "geom:latitude":48.5619,
+    "geom:longitude":13.87311,
+    "gn:population":51,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670076: name \"Schinken\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670076"
+        },
+        {
+            "citation":"GeoNames populated place 11670076: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670076"
+        },
+        {
+            "citation":"GeoNames populated place 11670076: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670076"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836013 (Sarleinsbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049889,
+        102191581,
+        1108836013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670076
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"31c16bf2352c67625a96a2d9cc5598a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108836013,
+            "locality_id":9895009568,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009568,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Schinken",
+    "wof:parent_id":1108836013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87311,
+    48.5619,
+    13.87311,
+    48.5619
+],
+  "geometry": {"coordinates":[13.87311,48.5619],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895010946,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.74995,47.8139,13.74995,47.8139",
+    "geom:latitude":47.8139,
+    "geom:longitude":13.74995,
+    "gn:population":340,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919670: name \"Kohlstatt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919670"
+        },
+        {
+            "citation":"GeoNames populated place 11919670: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919670"
+        },
+        {
+            "citation":"GeoNames populated place 11919670: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919670"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835129 (Ebensee), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049807,
+        102191581,
+        1108835129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919670
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4dc46d00147ec7fa29f2aa43dc48c7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835129,
+            "locality_id":9895010946,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010946,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Kohlstatt",
+    "wof:parent_id":1108835129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.74995,
+    47.8139,
+    13.74995,
+    47.8139
+],
+  "geometry": {"coordinates":[13.74995,47.8139],"type":"Point"}
+}

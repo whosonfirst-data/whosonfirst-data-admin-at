@@ -1,0 +1,77 @@
+{
+  "id": 9895008625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89549,47.25078,14.89549,47.25078",
+    "geom:latitude":47.25078,
+    "geom:longitude":14.89549,
+    "gn:population":510,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2766580: name \"Sankt Lorenzen bei Knittelfeld\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2766580"
+        },
+        {
+            "citation":"GeoNames populated place 2766580: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2766580"
+        },
+        {
+            "citation":"GeoNames populated place 2766580: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2766580"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838951 (St. Margarethen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102191581,
+        1108838951,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766580
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"39b06b13fdf9c5a0bcc6770c25263265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1108838951,
+            "locality_id":9895008625,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008625,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Sankt Lorenzen bei Knittelfeld",
+    "wof:parent_id":1108838951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89549,
+    47.25078,
+    14.89549,
+    47.25078
+],
+  "geometry": {"coordinates":[14.89549,47.25078],"type":"Point"}
+}

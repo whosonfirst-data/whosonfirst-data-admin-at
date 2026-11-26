@@ -1,0 +1,77 @@
+{
+  "id": 9895010827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65514,48.2566,13.65514,48.2566",
+    "geom:latitude":48.2566,
+    "geom:longitude":13.65514,
+    "gn:population":39,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11862779: name \"Oberhof\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11862779"
+        },
+        {
+            "citation":"GeoNames populated place 11862779: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11862779"
+        },
+        {
+            "citation":"GeoNames populated place 11862779: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11862779"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835241 (Wendling), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049861,
+        102191581,
+        1108835241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11862779
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c8d2be8966ebb3b6549fc167bc37c0dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835241,
+            "locality_id":9895010827,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010827,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Oberhof",
+    "wof:parent_id":1108835241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65514,
+    48.2566,
+    13.65514,
+    48.2566
+],
+  "geometry": {"coordinates":[13.65514,48.2566],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895010636,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.02366,46.56196,14.02366,46.56196",
+    "geom:latitude":46.56196,
+    "geom:longitude":14.02366,
+    "gn:population":16,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747587: name \"Sankt Johann\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747587"
+        },
+        {
+            "citation":"GeoNames populated place 11747587: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747587"
+        },
+        {
+            "citation":"GeoNames populated place 11747587: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747587"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838347 (Rosegg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049683,
+        102191581,
+        1108838347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747587
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7febbd17ec7835d8cf0f447ed95c68dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838347,
+            "locality_id":9895010636,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010636,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Sankt Johann",
+    "wof:parent_id":1108838347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.02366,
+    46.56196,
+    14.02366,
+    46.56196
+],
+  "geometry": {"coordinates":[14.02366,46.56196],"type":"Point"}
+}

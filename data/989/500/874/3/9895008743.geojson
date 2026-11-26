@@ -1,0 +1,77 @@
+{
+  "id": 9895008743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.89941,47.24393,9.89941,47.24393",
+    "geom:latitude":47.24393,
+    "geom:longitude":9.89941,
+    "gn:population":128,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11592164: name \"Mittelberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11592164"
+        },
+        {
+            "citation":"GeoNames populated place 11592164: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11592164"
+        },
+        {
+            "citation":"GeoNames populated place 11592164: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11592164"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837939 (Fontanella), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681649,
+        102049711,
+        102191581,
+        1108837939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592164
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4e2a5683cd921c819eaac550a4d14595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837939,
+            "locality_id":9895008743,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":9895008743,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Mittelberg",
+    "wof:parent_id":1108837939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.89941,
+    47.24393,
+    9.89941,
+    47.24393
+],
+  "geometry": {"coordinates":[9.89941,47.24393],"type":"Point"}
+}

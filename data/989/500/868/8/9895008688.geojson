@@ -1,0 +1,77 @@
+{
+  "id": 9895008688,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00107,46.97686,16.00107,46.97686",
+    "geom:latitude":46.97686,
+    "geom:longitude":16.00107,
+    "gn:population":762,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2776690: name \"Hatzendorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2776690"
+        },
+        {
+            "citation":"GeoNames populated place 2776690: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2776690"
+        },
+        {
+            "citation":"GeoNames populated place 2776690: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2776690"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839261 (Fehring), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102191581,
+        1108839261,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776690
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"985841d7d46efc347f0bd617d0a7d705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839261,
+            "locality_id":9895008688,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008688,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Hatzendorf",
+    "wof:parent_id":1108839261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00107,
+    46.97686,
+    16.00107,
+    46.97686
+],
+  "geometry": {"coordinates":[16.00107,46.97686],"type":"Point"}
+}

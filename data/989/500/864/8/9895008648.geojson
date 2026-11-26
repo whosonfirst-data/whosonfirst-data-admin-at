@@ -1,0 +1,77 @@
+{
+  "id": 9895008648,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96167,46.94056,15.96167,46.94056",
+    "geom:latitude":46.94056,
+    "geom:longitude":15.96167,
+    "gn:population":801,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2769055: name \"Pertlstein\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2769055"
+        },
+        {
+            "citation":"GeoNames populated place 2769055: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2769055"
+        },
+        {
+            "citation":"GeoNames populated place 2769055: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2769055"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839261 (Fehring), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102191581,
+        1108839261,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769055
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"610f607a19549758dde1149f9a459d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839261,
+            "locality_id":9895008648,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008648,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Pertlstein",
+    "wof:parent_id":1108839261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96167,
+    46.94056,
+    15.96167,
+    46.94056
+],
+  "geometry": {"coordinates":[15.96167,46.94056],"type":"Point"}
+}

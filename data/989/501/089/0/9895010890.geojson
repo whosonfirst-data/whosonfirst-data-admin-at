@@ -1,0 +1,77 @@
+{
+  "id": 9895010890,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99626,48.45704,13.99626,48.45704",
+    "geom:latitude":48.45704,
+    "geom:longitude":13.99626,
+    "gn:population":250,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903735: name \"Am Edh\u00fcgel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903735"
+        },
+        {
+            "citation":"GeoNames populated place 11903735: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903735"
+        },
+        {
+            "citation":"GeoNames populated place 11903735: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903735"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835963 (Kleinzell im M\u00fchlkreis), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049889,
+        102191581,
+        1108835963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903735
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d4603896011ca7e3962440b214114688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835963,
+            "locality_id":9895010890,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010890,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Am Edh\u00fcgel",
+    "wof:parent_id":1108835963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99626,
+    48.45704,
+    13.99626,
+    48.45704
+],
+  "geometry": {"coordinates":[13.99626,48.45704],"type":"Point"}
+}

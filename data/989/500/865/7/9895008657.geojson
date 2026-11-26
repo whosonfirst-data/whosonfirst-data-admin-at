@@ -1,0 +1,77 @@
+{
+  "id": 9895008657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01937,47.47667,14.01937,47.47667",
+    "geom:latitude":47.47667,
+    "geom:longitude":14.01937,
+    "gn:population":459,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2770543: name \"Nieder\u00f6blarn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2770543"
+        },
+        {
+            "citation":"GeoNames populated place 2770543: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2770543"
+        },
+        {
+            "citation":"GeoNames populated place 2770543: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2770543"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838929 (\u00d6blarn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049777,
+        102191581,
+        1108838929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770543
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0d0b9bcf4a4b82a160836585052e6268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838929,
+            "locality_id":9895008657,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008657,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Nieder\u00f6blarn",
+    "wof:parent_id":1108838929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01937,
+    47.47667,
+    14.01937,
+    47.47667
+],
+  "geometry": {"coordinates":[14.01937,47.47667],"type":"Point"}
+}

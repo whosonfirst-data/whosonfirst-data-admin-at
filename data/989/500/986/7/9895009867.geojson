@@ -1,0 +1,77 @@
+{
+  "id": 9895009867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77716,48.16843,13.77716,48.16843",
+    "geom:latitude":48.16843,
+    "geom:longitude":13.77716,
+    "gn:population":10,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694644: name \"Radhof\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694644"
+        },
+        {
+            "citation":"GeoNames populated place 11694644: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694644"
+        },
+        {
+            "citation":"GeoNames populated place 11694644: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694644"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835195 (Meggenhofen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049861,
+        102191581,
+        1108835195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694644
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7e7b4f5323facd7a291193f16ca4f6a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835195,
+            "locality_id":9895009867,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009867,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Radhof",
+    "wof:parent_id":1108835195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77716,
+    48.16843,
+    13.77716,
+    48.16843
+],
+  "geometry": {"coordinates":[13.77716,48.16843],"type":"Point"}
+}

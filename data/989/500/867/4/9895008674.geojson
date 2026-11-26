@@ -1,0 +1,77 @@
+{
+  "id": 9895008674,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.02061,47.18131,14.02061,47.18131",
+    "geom:latitude":47.18131,
+    "geom:longitude":14.02061,
+    "gn:population":609,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2773616: name \"Krakaudorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2773616"
+        },
+        {
+            "citation":"GeoNames populated place 2773616: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2773616"
+        },
+        {
+            "citation":"GeoNames populated place 2773616: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2773616"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838833 (Krakau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049733,
+        102191581,
+        1108838833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773616
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e3f57e56ab1e7d976c4d85d1efa33402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838833,
+            "locality_id":9895008674,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008674,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Krakaudorf",
+    "wof:parent_id":1108838833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.02061,
+    47.18131,
+    14.02061,
+    47.18131
+],
+  "geometry": {"coordinates":[14.02061,47.18131],"type":"Point"}
+}

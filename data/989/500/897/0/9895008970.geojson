@@ -1,0 +1,77 @@
+{
+  "id": 9895008970,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68467,48.06242,13.68467,48.06242",
+    "geom:latitude":48.06242,
+    "geom:longitude":13.68467,
+    "gn:population":12,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668807: name \"Schachen bei Wolfsh\u00fctte\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668807"
+        },
+        {
+            "citation":"GeoNames populated place 11668807: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668807"
+        },
+        {
+            "citation":"GeoNames populated place 11668807: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668807"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836449 (Manning), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049817,
+        102191581,
+        1108836449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668807
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3d8988e324c2a36c661cf24ad22376f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836449,
+            "locality_id":9895008970,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895008970,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Schachen bei Wolfsh\u00fctte",
+    "wof:parent_id":1108836449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68467,
+    48.06242,
+    13.68467,
+    48.06242
+],
+  "geometry": {"coordinates":[13.68467,48.06242],"type":"Point"}
+}

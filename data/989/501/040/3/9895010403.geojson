@@ -1,0 +1,77 @@
+{
+  "id": 9895010403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.21127,47.96162,13.21127,47.96162",
+    "geom:latitude":47.96162,
+    "geom:longitude":13.21127,
+    "gn:population":27,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704097: name \"Gramling\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704097"
+        },
+        {
+            "citation":"GeoNames populated place 11704097: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704097"
+        },
+        {
+            "citation":"GeoNames populated place 11704097: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704097"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837153 (K\u00f6stendorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049799,
+        102191581,
+        1108837153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704097
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f1a63bf3033d94f4015d9ecd73178b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837153,
+            "locality_id":9895010403,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010403,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Gramling",
+    "wof:parent_id":1108837153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.21127,
+    47.96162,
+    13.21127,
+    47.96162
+],
+  "geometry": {"coordinates":[13.21127,47.96162],"type":"Point"}
+}

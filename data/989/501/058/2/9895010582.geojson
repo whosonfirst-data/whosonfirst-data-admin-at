@@ -1,0 +1,77 @@
+{
+  "id": 9895010582,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25712,46.72368,14.25712,46.72368",
+    "geom:latitude":46.72368,
+    "geom:longitude":14.25712,
+    "gn:population":72,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747529: name \"Weitensfeld\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747529"
+        },
+        {
+            "citation":"GeoNames populated place 11747529: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747529"
+        },
+        {
+            "citation":"GeoNames populated place 11747529: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747529"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838335 (Liebenfels), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049697,
+        102191581,
+        1108838335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747529
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f9b3233f7bf3c08b02f95beb5578aadf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838335,
+            "locality_id":9895010582,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010582,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Weitensfeld",
+    "wof:parent_id":1108838335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25712,
+    46.72368,
+    14.25712,
+    46.72368
+],
+  "geometry": {"coordinates":[14.25712,46.72368],"type":"Point"}
+}

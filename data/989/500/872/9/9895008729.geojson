@@ -1,0 +1,77 @@
+{
+  "id": 9895008729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86667,47.01667,15.86667,47.01667",
+    "geom:latitude":47.01667,
+    "geom:longitude":15.86667,
+    "gn:population":370,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2782206: name \"Auersbach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2782206"
+        },
+        {
+            "citation":"GeoNames populated place 2782206: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2782206"
+        },
+        {
+            "citation":"GeoNames populated place 2782206: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2782206"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839259 (Feldbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102191581,
+        1108839259,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782206
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6ca225e7a753c3e6c9a7379d76e29c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839259,
+            "locality_id":9895008729,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008729,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Auersbach",
+    "wof:parent_id":1108839259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86667,
+    47.01667,
+    15.86667,
+    47.01667
+],
+  "geometry": {"coordinates":[15.86667,47.01667],"type":"Point"}
+}

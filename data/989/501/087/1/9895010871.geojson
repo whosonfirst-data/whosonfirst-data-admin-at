@@ -1,0 +1,77 @@
+{
+  "id": 9895010871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45027,47.51495,13.45027,47.51495",
+    "geom:latitude":47.51495,
+    "geom:longitude":13.45027,
+    "gn:population":149,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903661: name \"Steuer\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903661"
+        },
+        {
+            "citation":"GeoNames populated place 11903661: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903661"
+        },
+        {
+            "citation":"GeoNames populated place 11903661: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903661"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837085 (Annaberg-Lung\u00f6tz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049773,
+        102191581,
+        1108837085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903661
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c2fe8a20d5ab690f736e14ed134dfe84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837085,
+            "locality_id":9895010871,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010871,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Steuer",
+    "wof:parent_id":1108837085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45027,
+    47.51495,
+    13.45027,
+    47.51495
+],
+  "geometry": {"coordinates":[13.45027,47.51495],"type":"Point"}
+}

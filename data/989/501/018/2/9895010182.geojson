@@ -1,0 +1,77 @@
+{
+  "id": 9895010182,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33569,47.59294,13.33569,47.59294",
+    "geom:latitude":47.59294,
+    "geom:longitude":13.33569,
+    "gn:population":217,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695646: name \"Rigaus\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695646"
+        },
+        {
+            "citation":"GeoNames populated place 11695646: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695646"
+        },
+        {
+            "citation":"GeoNames populated place 11695646: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695646"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837081 (Abtenau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049773,
+        102191581,
+        1108837081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695646
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"10e414ed25083a100f7e5a7e5eab93d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837081,
+            "locality_id":9895010182,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010182,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Rigaus",
+    "wof:parent_id":1108837081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33569,
+    47.59294,
+    13.33569,
+    47.59294
+],
+  "geometry": {"coordinates":[13.33569,47.59294],"type":"Point"}
+}

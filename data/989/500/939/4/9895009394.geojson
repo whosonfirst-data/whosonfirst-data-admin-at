@@ -1,0 +1,77 @@
+{
+  "id": 9895009394,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.00319,48.61685,14.00319,48.61685",
+    "geom:latitude":48.61685,
+    "geom:longitude":14.00319,
+    "gn:population":49,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669355: name \"Steineck\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669355"
+        },
+        {
+            "citation":"GeoNames populated place 11669355: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669355"
+        },
+        {
+            "citation":"GeoNames populated place 11669355: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669355"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835945 (Berg bei Rohrbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049889,
+        102191581,
+        1108835945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669355
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6b1b8c2ec87f6402de9ab2da02355764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835945,
+            "locality_id":9895009394,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009394,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Steineck",
+    "wof:parent_id":1108835945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.00319,
+    48.61685,
+    14.00319,
+    48.61685
+],
+  "geometry": {"coordinates":[14.00319,48.61685],"type":"Point"}
+}

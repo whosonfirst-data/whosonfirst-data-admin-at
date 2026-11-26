@@ -1,0 +1,77 @@
+{
+  "id": 9895010272,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78076,48.12184,13.78076,48.12184",
+    "geom:latitude":48.12184,
+    "geom:longitude":13.78076,
+    "gn:population":44,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696239: name \"Eisgering\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696239"
+        },
+        {
+            "citation":"GeoNames populated place 11696239: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696239"
+        },
+        {
+            "citation":"GeoNames populated place 11696239: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696239"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836537 (Aichkirchen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049831,
+        102191581,
+        1108836537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696239
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e25df3c11946211aff08698a40b8d158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836537,
+            "locality_id":9895010272,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010272,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Eisgering",
+    "wof:parent_id":1108836537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78076,
+    48.12184,
+    13.78076,
+    48.12184
+],
+  "geometry": {"coordinates":[13.78076,48.12184],"type":"Point"}
+}

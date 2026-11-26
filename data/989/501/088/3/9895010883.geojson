@@ -1,0 +1,77 @@
+{
+  "id": 9895010883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.11118,47.69421,13.11118,47.69421",
+    "geom:latitude":47.69421,
+    "geom:longitude":13.11118,
+    "gn:population":324,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903723: name \"Adneter Riedl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903723"
+        },
+        {
+            "citation":"GeoNames populated place 11903723: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903723"
+        },
+        {
+            "citation":"GeoNames populated place 11903723: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903723"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837091 (Hallein), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049773,
+        102191581,
+        1108837091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903723
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d361cdfd0e5697c626ded81810154ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837091,
+            "locality_id":9895010883,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010883,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Adneter Riedl",
+    "wof:parent_id":1108837091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.11118,
+    47.69421,
+    13.11118,
+    47.69421
+],
+  "geometry": {"coordinates":[13.11118,47.69421],"type":"Point"}
+}

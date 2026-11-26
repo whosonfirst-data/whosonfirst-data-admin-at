@@ -1,0 +1,77 @@
+{
+  "id": 9895010740,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.64104,47.2954,12.64104,47.2954",
+    "geom:latitude":47.2954,
+    "geom:longitude":12.64104,
+    "gn:population":181,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11820065: name \"Gaisbichl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11820065"
+        },
+        {
+            "citation":"GeoNames populated place 11820065: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11820065"
+        },
+        {
+            "citation":"GeoNames populated place 11820065: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11820065"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837225 (Niedernsill), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049761,
+        102191581,
+        1108837225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11820065
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"94269dc68743b4a055a3812df44d077d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837225,
+            "locality_id":9895010740,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010740,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Gaisbichl",
+    "wof:parent_id":1108837225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.64104,
+    47.2954,
+    12.64104,
+    47.2954
+],
+  "geometry": {"coordinates":[12.64104,47.2954],"type":"Point"}
+}

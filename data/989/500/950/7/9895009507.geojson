@@ -1,0 +1,77 @@
+{
+  "id": 9895009507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66891,48.1599,15.66891,48.1599",
+    "geom:latitude":48.1599,
+    "geom:longitude":15.66891,
+    "gn:population":63,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669997: name \"Getzersdorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669997"
+        },
+        {
+            "citation":"GeoNames populated place 11669997: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669997"
+        },
+        {
+            "citation":"GeoNames populated place 11669997: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669997"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834975 (Pyhra), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049869,
+        102191581,
+        1108834975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669997
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"380e9c02ee791bc0efd768d80178d36d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834975,
+            "locality_id":9895009507,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895009507,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Getzersdorf",
+    "wof:parent_id":1108834975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66891,
+    48.1599,
+    15.66891,
+    48.1599
+],
+  "geometry": {"coordinates":[15.66891,48.1599],"type":"Point"}
+}

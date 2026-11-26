@@ -1,0 +1,77 @@
+{
+  "id": 9895009362,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28623,48.0634,15.28623,48.0634",
+    "geom:latitude":48.0634,
+    "geom:longitude":15.28623,
+    "gn:population":24,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669322: name \"Unterd\u00f6rfl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669322"
+        },
+        {
+            "citation":"GeoNames populated place 11669322: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669322"
+        },
+        {
+            "citation":"GeoNames populated place 11669322: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669322"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834949 (Oberndorf an der Melk), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049825,
+        102191581,
+        1108834949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669322
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"154e5fd0e2452dc52bb1697266374286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108834949,
+            "locality_id":9895009362,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895009362,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Unterd\u00f6rfl",
+    "wof:parent_id":1108834949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28623,
+    48.0634,
+    15.28623,
+    48.0634
+],
+  "geometry": {"coordinates":[15.28623,48.0634],"type":"Point"}
+}

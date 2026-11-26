@@ -1,0 +1,76 @@
+{
+  "id": 9895011066,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57388,47.97142,14.57388,47.97142",
+    "geom:latitude":47.97142,
+    "geom:longitude":14.57388,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13527265: name \"Sulzbach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13527265"
+        },
+        {
+            "citation":"GeoNames populated place 13527265: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13527265"
+        },
+        {
+            "citation":"GeoNames populated place 13527265: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13527265"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836111 (Maria Neustift), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049819,
+        102191581,
+        1108836111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13527265
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ced3872e697a88fb651efec122a8c28b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836111,
+            "locality_id":9895011066,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895011066,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Sulzbach",
+    "wof:parent_id":1108836111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57388,
+    47.97142,
+    14.57388,
+    47.97142
+],
+  "geometry": {"coordinates":[14.57388,47.97142],"type":"Point"}
+}

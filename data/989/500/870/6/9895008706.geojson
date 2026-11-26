@@ -1,0 +1,77 @@
+{
+  "id": 9895008706,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78333,47.66667,14.78333,47.66667",
+    "geom:latitude":47.66667,
+    "geom:longitude":14.78333,
+    "gn:population":517,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2778926: name \"Gams bei Hieflau\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2778926"
+        },
+        {
+            "citation":"GeoNames populated place 2778926: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2778926"
+        },
+        {
+            "citation":"GeoNames populated place 2778926: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2778926"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838945 (Landl), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049777,
+        102191581,
+        1108838945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778926
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c67d673f435957b6950dfcb30f826021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838945,
+            "locality_id":9895008706,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008706,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Gams bei Hieflau",
+    "wof:parent_id":1108838945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78333,
+    47.66667,
+    14.78333,
+    47.66667
+],
+  "geometry": {"coordinates":[14.78333,47.66667],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895010036,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.02396,48.4789,14.02396,48.4789",
+    "geom:latitude":48.4789,
+    "geom:longitude":14.02396,
+    "gn:population":25,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695166: name \"Sch\u00f6rgenhub\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695166"
+        },
+        {
+            "citation":"GeoNames populated place 11695166: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695166"
+        },
+        {
+            "citation":"GeoNames populated place 11695166: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695166"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835963 (Kleinzell im M\u00fchlkreis), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049889,
+        102191581,
+        1108835963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695166
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7bf13b21c47c5027d45014cd84e3a769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835963,
+            "locality_id":9895010036,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010036,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Sch\u00f6rgenhub",
+    "wof:parent_id":1108835963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.02396,
+    48.4789,
+    14.02396,
+    48.4789
+],
+  "geometry": {"coordinates":[14.02396,48.4789],"type":"Point"}
+}

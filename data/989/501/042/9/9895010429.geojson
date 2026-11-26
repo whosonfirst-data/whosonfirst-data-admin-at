@@ -1,0 +1,77 @@
+{
+  "id": 9895010429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82609,48.36232,14.82609,48.36232",
+    "geom:latitude":48.36232,
+    "geom:longitude":14.82609,
+    "gn:population":30,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11746075: name \"Schreineredt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11746075"
+        },
+        {
+            "citation":"GeoNames populated place 11746075: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11746075"
+        },
+        {
+            "citation":"GeoNames populated place 11746075: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11746075"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835599 (Pabneukirchen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049865,
+        102191581,
+        1108835599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11746075
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7fddb8e35667813c9c0f1f79396b8f4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835599,
+            "locality_id":9895010429,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010429,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Schreineredt",
+    "wof:parent_id":1108835599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82609,
+    48.36232,
+    14.82609,
+    48.36232
+],
+  "geometry": {"coordinates":[14.82609,48.36232],"type":"Point"}
+}

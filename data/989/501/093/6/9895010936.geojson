@@ -1,0 +1,77 @@
+{
+  "id": 9895010936,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0221,47.26338,16.0221,47.26338",
+    "geom:latitude":47.26338,
+    "geom:longitude":16.0221,
+    "gn:population":422,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919620: name \"Altenberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919620"
+        },
+        {
+            "citation":"GeoNames populated place 11919620: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919620"
+        },
+        {
+            "citation":"GeoNames populated place 11919620: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919620"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839097 (St. Johann), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102191581,
+        1108839097,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919620
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6d027173875fa24277f68f8eefc42227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839097,
+            "locality_id":9895010936,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895010936,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Altenberg",
+    "wof:parent_id":1108839097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0221,
+    47.26338,
+    16.0221,
+    47.26338
+],
+  "geometry": {"coordinates":[16.0221,47.26338],"type":"Point"}
+}

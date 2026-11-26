@@ -1,0 +1,77 @@
+{
+  "id": 9895010316,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72576,46.70091,14.72576,46.70091",
+    "geom:latitude":46.70091,
+    "geom:longitude":14.72576,
+    "gn:population":200,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696289: name \"Wallersberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696289"
+        },
+        {
+            "citation":"GeoNames populated place 11696289: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696289"
+        },
+        {
+            "citation":"GeoNames populated place 11696289: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696289"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838121 (Griffen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049685,
+        102191581,
+        1108838121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696289
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"63e428f368e95bc32eec6737ec34f206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838121,
+            "locality_id":9895010316,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010316,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Wallersberg",
+    "wof:parent_id":1108838121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72576,
+    46.70091,
+    14.72576,
+    46.70091
+],
+  "geometry": {"coordinates":[14.72576,46.70091],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895010938,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7802,46.55777,13.7802,46.55777",
+    "geom:latitude":46.55777,
+    "geom:longitude":13.7802,
+    "gn:population":422,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919623: name \"Erlendorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919623"
+        },
+        {
+            "citation":"GeoNames populated place 11919623: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919623"
+        },
+        {
+            "citation":"GeoNames populated place 11919623: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919623"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838323 (Arnoldstein), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049683,
+        102191581,
+        1108838323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919623
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"aaf2d50a4ac6ec0453c05fba61da2387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838323,
+            "locality_id":9895010938,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010938,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Erlendorf",
+    "wof:parent_id":1108838323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7802,
+    46.55777,
+    13.7802,
+    46.55777
+],
+  "geometry": {"coordinates":[13.7802,46.55777],"type":"Point"}
+}

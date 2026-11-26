@@ -1,0 +1,77 @@
+{
+  "id": 9895010587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2281,48.13986,13.2281,48.13986",
+    "geom:latitude":48.13986,
+    "geom:longitude":13.2281,
+    "gn:population":162,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747534: name \"Sollach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747534"
+        },
+        {
+            "citation":"GeoNames populated place 11747534: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747534"
+        },
+        {
+            "citation":"GeoNames populated place 11747534: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747534"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834751 (Maria Schmolln), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747534
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f9f10111cd6ddaa9c23c2deafbad734e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834751,
+            "locality_id":9895010587,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010587,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Sollach",
+    "wof:parent_id":1108834751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2281,
+    48.13986,
+    13.2281,
+    48.13986
+],
+  "geometry": {"coordinates":[13.2281,48.13986],"type":"Point"}
+}

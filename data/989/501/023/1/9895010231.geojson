@@ -1,0 +1,77 @@
+{
+  "id": 9895010231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87602,48.22067,15.87602,48.22067",
+    "geom:latitude":48.22067,
+    "geom:longitude":15.87602,
+    "gn:population":15,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696192: name \"Mosletzberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696192"
+        },
+        {
+            "citation":"GeoNames populated place 11696192: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696192"
+        },
+        {
+            "citation":"GeoNames populated place 11696192: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696192"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834967 (Neulengbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049869,
+        102191581,
+        1108834967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696192
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"117f35b02ebcbd32845d0a03bb99b5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834967,
+            "locality_id":9895010231,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010231,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Mosletzberg",
+    "wof:parent_id":1108834967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87602,
+    48.22067,
+    15.87602,
+    48.22067
+],
+  "geometry": {"coordinates":[15.87602,48.22067],"type":"Point"}
+}

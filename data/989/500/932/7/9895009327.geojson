@@ -1,0 +1,77 @@
+{
+  "id": 9895009327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89062,47.95501,13.89062,47.95501",
+    "geom:latitude":47.95501,
+    "geom:longitude":13.89062,
+    "gn:population":20,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669287: name \"H\u00fcttenboden\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669287"
+        },
+        {
+            "citation":"GeoNames populated place 11669287: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669287"
+        },
+        {
+            "citation":"GeoNames populated place 11669287: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669287"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835141 (Kirchham), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049807,
+        102191581,
+        1108835141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669287
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9d4fa0a20a929dec591e58df47943faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835141,
+            "locality_id":9895009327,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009327,
+    "wof:lastmodified":1795734979,
+    "wof:name":"H\u00fcttenboden",
+    "wof:parent_id":1108835141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89062,
+    47.95501,
+    13.89062,
+    47.95501
+],
+  "geometry": {"coordinates":[13.89062,47.95501],"type":"Point"}
+}

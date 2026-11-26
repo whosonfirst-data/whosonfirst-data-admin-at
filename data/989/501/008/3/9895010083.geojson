@@ -1,0 +1,77 @@
+{
+  "id": 9895010083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.79286,48.29501,13.79286,48.29501",
+    "geom:latitude":48.29501,
+    "geom:longitude":13.79286,
+    "gn:population":31,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695227: name \"Mairdoppl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695227"
+        },
+        {
+            "citation":"GeoNames populated place 11695227: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695227"
+        },
+        {
+            "citation":"GeoNames populated place 11695227: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695227"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835197 (Michaelnbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049861,
+        102191581,
+        1108835197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695227
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6f3c98fa9316197a2df6e88584e34b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835197,
+            "locality_id":9895010083,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010083,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Mairdoppl",
+    "wof:parent_id":1108835197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.79286,
+    48.29501,
+    13.79286,
+    48.29501
+],
+  "geometry": {"coordinates":[13.79286,48.29501],"type":"Point"}
+}

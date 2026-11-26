@@ -1,0 +1,77 @@
+{
+  "id": 9895010626,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75291,48.27745,13.75291,48.27745",
+    "geom:latitude":48.27745,
+    "geom:longitude":13.75291,
+    "gn:population":5,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747577: name \"Stra\u00dfhof\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747577"
+        },
+        {
+            "citation":"GeoNames populated place 11747577: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747577"
+        },
+        {
+            "citation":"GeoNames populated place 11747577: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747577"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835209 (P\u00f6tting), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049861,
+        102191581,
+        1108835209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747577
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b6bbe242d61080138394a35b0c071af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835209,
+            "locality_id":9895010626,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010626,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Stra\u00dfhof",
+    "wof:parent_id":1108835209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75291,
+    48.27745,
+    13.75291,
+    48.27745
+],
+  "geometry": {"coordinates":[13.75291,48.27745],"type":"Point"}
+}

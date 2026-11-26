@@ -1,0 +1,76 @@
+{
+  "id": 9895011049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39028,48.64416,15.39028,48.64416",
+    "geom:latitude":48.64416,
+    "geom:longitude":15.39028,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13526925: name \"Thaures\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13526925"
+        },
+        {
+            "citation":"GeoNames populated place 13526925: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13526925"
+        },
+        {
+            "citation":"GeoNames populated place 13526925: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13526925"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834847 (P\u00f6lla), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049895,
+        102191581,
+        1108834847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13526925
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"075e217f4d0d089ab4ae1bbec01ac13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108834847,
+            "locality_id":9895011049,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895011049,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Thaures",
+    "wof:parent_id":1108834847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39028,
+    48.64416,
+    15.39028,
+    48.64416
+],
+  "geometry": {"coordinates":[15.39028,48.64416],"type":"Point"}
+}

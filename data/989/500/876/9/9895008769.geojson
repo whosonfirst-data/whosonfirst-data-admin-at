@@ -1,0 +1,77 @@
+{
+  "id": 9895008769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87002,48.40772,13.87002,48.40772",
+    "geom:latitude":48.40772,
+    "geom:longitude":13.87002,
+    "gn:population":22,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668530: name \"Br\u00e4uleiten\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668530"
+        },
+        {
+            "citation":"GeoNames populated place 11668530: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668530"
+        },
+        {
+            "citation":"GeoNames populated place 11668530: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668530"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835219 (St. Agatha), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049861,
+        102191581,
+        1108835219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668530
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c2ad949cc58057844c3504e3abd9cbec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835219,
+            "locality_id":9895008769,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895008769,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Br\u00e4uleiten",
+    "wof:parent_id":1108835219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87002,
+    48.40772,
+    13.87002,
+    48.40772
+],
+  "geometry": {"coordinates":[13.87002,48.40772],"type":"Point"}
+}

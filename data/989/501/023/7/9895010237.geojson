@@ -1,0 +1,77 @@
+{
+  "id": 9895010237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72858,48.46811,13.72858,48.46811",
+    "geom:latitude":48.46811,
+    "geom:longitude":13.72858,
+    "gn:population":65,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696200: name \"H\u00f6llau\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696200"
+        },
+        {
+            "citation":"GeoNames populated place 11696200: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696200"
+        },
+        {
+            "citation":"GeoNames populated place 11696200: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696200"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836059 (St. Aegidi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049877,
+        102191581,
+        1108836059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696200
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a63496eabe38479fa2152b8e2ebeac64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836059,
+            "locality_id":9895010237,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010237,
+    "wof:lastmodified":1795734979,
+    "wof:name":"H\u00f6llau",
+    "wof:parent_id":1108836059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72858,
+    48.46811,
+    13.72858,
+    48.46811
+],
+  "geometry": {"coordinates":[13.72858,48.46811],"type":"Point"}
+}

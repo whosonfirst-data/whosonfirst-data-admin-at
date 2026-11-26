@@ -1,0 +1,77 @@
+{
+  "id": 9895009810,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06642,48.2094,15.06642,48.2094",
+    "geom:latitude":48.2094,
+    "geom:longitude":15.06642,
+    "gn:population":34,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694261: name \"Brand\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694261"
+        },
+        {
+            "citation":"GeoNames populated place 11694261: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694261"
+        },
+        {
+            "citation":"GeoNames populated place 11694261: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694261"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836871 (Hofamt Priel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049855,
+        102191581,
+        1108836871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694261
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c33d88a340f86cb5b11684dd9d383a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108836871,
+            "locality_id":9895009810,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895009810,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Brand",
+    "wof:parent_id":1108836871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06642,
+    48.2094,
+    15.06642,
+    48.2094
+],
+  "geometry": {"coordinates":[15.06642,48.2094],"type":"Point"}
+}

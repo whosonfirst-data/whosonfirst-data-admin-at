@@ -1,0 +1,77 @@
+{
+  "id": 9895009283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57538,48.43481,14.57538,48.43481",
+    "geom:latitude":48.43481,
+    "geom:longitude":14.57538,
+    "gn:population":38,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669234: name \"Schallhof\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669234"
+        },
+        {
+            "citation":"GeoNames populated place 11669234: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669234"
+        },
+        {
+            "citation":"GeoNames populated place 11669234: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669234"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835065 (Gutau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049883,
+        102191581,
+        1108835065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669234
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0f1ee1c5caacad70b65b42a5612a9486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835065,
+            "locality_id":9895009283,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009283,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Schallhof",
+    "wof:parent_id":1108835065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57538,
+    48.43481,
+    14.57538,
+    48.43481
+],
+  "geometry": {"coordinates":[14.57538,48.43481],"type":"Point"}
+}

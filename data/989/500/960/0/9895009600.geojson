@@ -1,0 +1,76 @@
+{
+  "id": 9895009600,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92805,47.97441,13.92805,47.97441",
+    "geom:latitude":47.97441,
+    "geom:longitude":13.92805,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670184: name \"Radhaming\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670184"
+        },
+        {
+            "citation":"GeoNames populated place 11670184: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670184"
+        },
+        {
+            "citation":"GeoNames populated place 11670184: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670184"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835165 (Vorchdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049807,
+        102191581,
+        1108835165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670184
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2875765eb0c1c7e1fc200414dbcaec31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835165,
+            "locality_id":9895009600,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009600,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Radhaming",
+    "wof:parent_id":1108835165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92805,
+    47.97441,
+    13.92805,
+    47.97441
+],
+  "geometry": {"coordinates":[13.92805,47.97441],"type":"Point"}
+}

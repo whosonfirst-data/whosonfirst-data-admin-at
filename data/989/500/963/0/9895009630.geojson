@@ -1,0 +1,77 @@
+{
+  "id": 9895009630,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93114,48.20975,13.93114,48.20975",
+    "geom:latitude":48.20975,
+    "geom:longitude":13.93114,
+    "gn:population":16,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670456: name \"Au\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670456"
+        },
+        {
+            "citation":"GeoNames populated place 11670456: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670456"
+        },
+        {
+            "citation":"GeoNames populated place 11670456: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670456"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836557 (Krenglbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049831,
+        102191581,
+        1108836557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670456
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0264f1e397236961d3686513563fa609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836557,
+            "locality_id":9895009630,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009630,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Au",
+    "wof:parent_id":1108836557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93114,
+    48.20975,
+    13.93114,
+    48.20975
+],
+  "geometry": {"coordinates":[13.93114,48.20975],"type":"Point"}
+}

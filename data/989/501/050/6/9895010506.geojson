@@ -1,0 +1,77 @@
+{
+  "id": 9895010506,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.09223,47.8403,13.09223,47.8403",
+    "geom:latitude":47.8403,
+    "geom:longitude":13.09223,
+    "gn:population":1721,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11746593: name \"Esch\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11746593"
+        },
+        {
+            "citation":"GeoNames populated place 11746593: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11746593"
+        },
+        {
+            "citation":"GeoNames populated place 11746593: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11746593"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837145 (Hallwang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049799,
+        102191581,
+        1108837145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11746593
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d7635cdd6fd97d39caa6983f184b8964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":9895010506,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010506,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Esch",
+    "wof:parent_id":1108837145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.09223,
+    47.8403,
+    13.09223,
+    47.8403
+],
+  "geometry": {"coordinates":[13.09223,47.8403],"type":"Point"}
+}

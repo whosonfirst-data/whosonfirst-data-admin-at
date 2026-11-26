@@ -1,0 +1,77 @@
+{
+  "id": 9895008713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75,47.21667,14.75,47.21667",
+    "geom:latitude":47.21667,
+    "geom:longitude":14.75,
+    "gn:population":180,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2779506: name \"Flatschach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2779506"
+        },
+        {
+            "citation":"GeoNames populated place 2779506: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2779506"
+        },
+        {
+            "citation":"GeoNames populated place 2779506: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2779506"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839419 (Spielberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102191581,
+        1108839419,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779506
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f151e41957686fd84c2850b4a233a76e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1108839419,
+            "locality_id":9895008713,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008713,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Flatschach",
+    "wof:parent_id":1108839419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75,
+    47.21667,
+    14.75,
+    47.21667
+],
+  "geometry": {"coordinates":[14.75,47.21667],"type":"Point"}
+}

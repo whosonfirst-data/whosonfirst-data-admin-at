@@ -1,0 +1,77 @@
+{
+  "id": 9895009759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.79252,48.43988,13.79252,48.43988",
+    "geom:latitude":48.43988,
+    "geom:longitude":13.79252,
+    "gn:population":33,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694202: name \"Voredt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694202"
+        },
+        {
+            "citation":"GeoNames populated place 11694202: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694202"
+        },
+        {
+            "citation":"GeoNames populated place 11694202: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694202"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836085 (Waldkirchen am Wesen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049877,
+        102191581,
+        1108836085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694202
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"624c8e74253faa883cd657d02b8ccf34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836085,
+            "locality_id":9895009759,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009759,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Voredt",
+    "wof:parent_id":1108836085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.79252,
+    48.43988,
+    13.79252,
+    48.43988
+],
+  "geometry": {"coordinates":[13.79252,48.43988],"type":"Point"}
+}

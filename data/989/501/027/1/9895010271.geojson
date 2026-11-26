@@ -1,0 +1,77 @@
+{
+  "id": 9895010271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78501,48.10918,13.78501,48.10918",
+    "geom:latitude":48.10918,
+    "geom:longitude":13.78501,
+    "gn:population":23,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696238: name \"Brunngasse\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696238"
+        },
+        {
+            "citation":"GeoNames populated place 11696238: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696238"
+        },
+        {
+            "citation":"GeoNames populated place 11696238: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696238"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836537 (Aichkirchen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049831,
+        102191581,
+        1108836537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696238
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"43c4626859b38005bf9df5e30138320e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836537,
+            "locality_id":9895010271,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010271,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Brunngasse",
+    "wof:parent_id":1108836537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78501,
+    48.10918,
+    13.78501,
+    48.10918
+],
+  "geometry": {"coordinates":[13.78501,48.10918],"type":"Point"}
+}

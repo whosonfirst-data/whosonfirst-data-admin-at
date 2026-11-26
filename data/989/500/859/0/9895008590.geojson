@@ -1,0 +1,77 @@
+{
+  "id": 9895008590,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.6,47.28333,11.6,47.28333",
+    "geom:latitude":47.28333,
+    "geom:longitude":11.6,
+    "gn:population":739,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2761835: name \"Wattenberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2761835"
+        },
+        {
+            "citation":"GeoNames populated place 2761835: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2761835"
+        },
+        {
+            "citation":"GeoNames populated place 2761835: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2761835"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837639 (Wattenberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681661,
+        102049735,
+        102191581,
+        1108837639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761835
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d6fabd546f3486a47f2154eb5ced7860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837639,
+            "locality_id":9895008590,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":9895008590,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Wattenberg",
+    "wof:parent_id":1108837639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.6,
+    47.28333,
+    11.6,
+    47.28333
+],
+  "geometry": {"coordinates":[11.6,47.28333],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895011028,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61194,48.05639,15.61194,48.05639",
+    "geom:latitude":48.05639,
+    "geom:longitude":15.61194,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12493323: name \"Scheibm\u00fchl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12493323"
+        },
+        {
+            "citation":"GeoNames populated place 12493323: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12493323"
+        },
+        {
+            "citation":"GeoNames populated place 12493323: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12493323"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834897 (Traisen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049823,
+        102191581,
+        1108834897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12493323
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"468b9e9710c4781898098385b58cfb0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108834897,
+            "locality_id":9895011028,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895011028,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Scheibm\u00fchl",
+    "wof:parent_id":1108834897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61194,
+    48.05639,
+    15.61194,
+    48.05639
+],
+  "geometry": {"coordinates":[15.61194,48.05639],"type":"Point"}
+}

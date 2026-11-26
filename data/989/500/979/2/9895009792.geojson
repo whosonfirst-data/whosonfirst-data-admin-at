@@ -1,0 +1,77 @@
+{
+  "id": 9895009792,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.59172,46.75274,13.59172,46.75274",
+    "geom:latitude":46.75274,
+    "geom:longitude":13.59172,
+    "gn:population":171,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694239: name \"Neuolsach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694239"
+        },
+        {
+            "citation":"GeoNames populated place 11694239: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694239"
+        },
+        {
+            "citation":"GeoNames populated place 11694239: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694239"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838301 (Spittal An Der Drau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049701,
+        102191581,
+        1108838301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694239
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"652e68d2db2fa1f42f4729905b6a1be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838301,
+            "locality_id":9895009792,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895009792,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Neuolsach",
+    "wof:parent_id":1108838301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.59172,
+    46.75274,
+    13.59172,
+    46.75274
+],
+  "geometry": {"coordinates":[13.59172,46.75274],"type":"Point"}
+}

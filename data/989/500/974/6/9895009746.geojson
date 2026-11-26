@@ -1,0 +1,77 @@
+{
+  "id": 9895009746,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.16555,48.10793,13.16555,48.10793",
+    "geom:latitude":48.10793,
+    "geom:longitude":13.16555,
+    "gn:population":61,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694180: name \"Unterharlochen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694180"
+        },
+        {
+            "citation":"GeoNames populated place 11694180: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694180"
+        },
+        {
+            "citation":"GeoNames populated place 11694180: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694180"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834797 (Schalchen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694180
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b68d93cd46ccc16f56e66ca978e4c7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834797,
+            "locality_id":9895009746,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009746,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Unterharlochen",
+    "wof:parent_id":1108834797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.16555,
+    48.10793,
+    13.16555,
+    48.10793
+],
+  "geometry": {"coordinates":[13.16555,48.10793],"type":"Point"}
+}

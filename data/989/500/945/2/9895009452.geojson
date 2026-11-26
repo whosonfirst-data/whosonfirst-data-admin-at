@@ -1,0 +1,76 @@
+{
+  "id": 9895009452,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.24415,47.99167,13.24415,47.99167",
+    "geom:latitude":47.99167,
+    "geom:longitude":13.24415,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669941: name \"Pfannenstiel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669941"
+        },
+        {
+            "citation":"GeoNames populated place 11669941: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669941"
+        },
+        {
+            "citation":"GeoNames populated place 11669941: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669941"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834745 (Lengau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669941
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0c28c99dfa00d9fc5a0352727061eafb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834745,
+            "locality_id":9895009452,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009452,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Pfannenstiel",
+    "wof:parent_id":1108834745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.24415,
+    47.99167,
+    13.24415,
+    47.99167
+],
+  "geometry": {"coordinates":[13.24415,47.99167],"type":"Point"}
+}

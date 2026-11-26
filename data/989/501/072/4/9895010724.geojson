@@ -1,0 +1,77 @@
+{
+  "id": 9895010724,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.98409,47.21041,12.98409,47.21041",
+    "geom:latitude":47.21041,
+    "geom:longitude":12.98409,
+    "gn:population":544,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11819481: name \"W\u00f6rtherberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11819481"
+        },
+        {
+            "citation":"GeoNames populated place 11819481: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11819481"
+        },
+        {
+            "citation":"GeoNames populated place 11819481: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11819481"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837229 (Rauris), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049761,
+        102191581,
+        1108837229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11819481
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"dac11c50b17483e5c8720668aa08af36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837229,
+            "locality_id":9895010724,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010724,
+    "wof:lastmodified":1795734979,
+    "wof:name":"W\u00f6rtherberg",
+    "wof:parent_id":1108837229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.98409,
+    47.21041,
+    12.98409,
+    47.21041
+],
+  "geometry": {"coordinates":[12.98409,47.21041],"type":"Point"}
+}

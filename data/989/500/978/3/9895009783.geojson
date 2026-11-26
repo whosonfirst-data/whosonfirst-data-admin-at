@@ -1,0 +1,77 @@
+{
+  "id": 9895009783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.37415,46.96813,14.37415,46.96813",
+    "geom:latitude":46.96813,
+    "geom:longitude":14.37415,
+    "gn:population":18,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694230: name \"Stegsdorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694230"
+        },
+        {
+            "citation":"GeoNames populated place 11694230: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694230"
+        },
+        {
+            "citation":"GeoNames populated place 11694230: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694230"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838211 (Friesach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049697,
+        102191581,
+        1108838211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694230
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"50219d24446f299471a011ea40e098cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838211,
+            "locality_id":9895009783,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895009783,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Stegsdorf",
+    "wof:parent_id":1108838211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37415,
+    46.96813,
+    14.37415,
+    46.96813
+],
+  "geometry": {"coordinates":[14.37415,46.96813],"type":"Point"}
+}

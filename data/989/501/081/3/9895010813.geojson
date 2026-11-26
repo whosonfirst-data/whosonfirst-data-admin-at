@@ -1,0 +1,77 @@
+{
+  "id": 9895010813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05966,48.12537,15.05966,48.12537",
+    "geom:latitude":48.12537,
+    "geom:longitude":15.05966,
+    "gn:population":142,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11862721: name \"K\u00f6chling\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11862721"
+        },
+        {
+            "citation":"GeoNames populated place 11862721: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11862721"
+        },
+        {
+            "citation":"GeoNames populated place 11862721: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11862721"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836719 (Wieselburg-Land), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049825,
+        102191581,
+        1108836719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11862721
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"86808d93131f527d585f18ed2c0dc26f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108836719,
+            "locality_id":9895010813,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010813,
+    "wof:lastmodified":1795734979,
+    "wof:name":"K\u00f6chling",
+    "wof:parent_id":1108836719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05966,
+    48.12537,
+    15.05966,
+    48.12537
+],
+  "geometry": {"coordinates":[15.05966,48.12537],"type":"Point"}
+}

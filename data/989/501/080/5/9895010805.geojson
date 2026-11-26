@@ -1,0 +1,77 @@
+{
+  "id": 9895010805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.88549,46.8641,12.88549,46.8641",
+    "geom:latitude":46.8641,
+    "geom:longitude":12.88549,
+    "gn:population":104,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11862676: name \"Langang\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11862676"
+        },
+        {
+            "citation":"GeoNames populated place 11862676: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11862676"
+        },
+        {
+            "citation":"GeoNames populated place 11862676: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11862676"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838311 (Winklern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049701,
+        102191581,
+        1108838311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11862676
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2d70331bea3b8a23902d430d2a9284f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838311,
+            "locality_id":9895010805,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010805,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Langang",
+    "wof:parent_id":1108838311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.88549,
+    46.8641,
+    12.88549,
+    46.8641
+],
+  "geometry": {"coordinates":[12.88549,46.8641],"type":"Point"}
+}

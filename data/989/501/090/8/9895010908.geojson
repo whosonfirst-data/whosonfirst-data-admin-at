@@ -1,0 +1,77 @@
+{
+  "id": 9895010908,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49465,48.2498,14.49465,48.2498",
+    "geom:latitude":48.2498,
+    "geom:longitude":14.49465,
+    "gn:population":215,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11905967: name \"Bernascheksiedlung\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11905967"
+        },
+        {
+            "citation":"GeoNames populated place 11905967: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11905967"
+        },
+        {
+            "citation":"GeoNames populated place 11905967: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11905967"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835589 (Mauthausen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049865,
+        102191581,
+        1108835589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11905967
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"72f5a1f4030f1b0cd8d284e620b8d255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835589,
+            "locality_id":9895010908,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010908,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Bernascheksiedlung",
+    "wof:parent_id":1108835589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49465,
+    48.2498,
+    14.49465,
+    48.2498
+],
+  "geometry": {"coordinates":[14.49465,48.2498],"type":"Point"}
+}

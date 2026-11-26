@@ -1,0 +1,77 @@
+{
+  "id": 9895008800,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.57906,48.41869,13.57906,48.41869",
+    "geom:latitude":48.41869,
+    "geom:longitude":13.57906,
+    "gn:population":25,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668591: name \"Bernolden\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668591"
+        },
+        {
+            "citation":"GeoNames populated place 11668591: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668591"
+        },
+        {
+            "citation":"GeoNames populated place 11668591: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668591"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836031 (Diersbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049877,
+        102191581,
+        1108836031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668591
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8c463652f6061f0016bd935d32795e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836031,
+            "locality_id":9895008800,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895008800,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Bernolden",
+    "wof:parent_id":1108836031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.57906,
+    48.41869,
+    13.57906,
+    48.41869
+],
+  "geometry": {"coordinates":[13.57906,48.41869],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895010752,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16889,47.70427,14.16889,47.70427",
+    "geom:latitude":47.70427,
+    "geom:longitude":14.16889,
+    "gn:population":249,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11820098: name \"Mitterstoder\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11820098"
+        },
+        {
+            "citation":"GeoNames populated place 11820098: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11820098"
+        },
+        {
+            "citation":"GeoNames populated place 11820098: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11820098"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835247 (Hinterstoder), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049815,
+        102191581,
+        1108835247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11820098
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b16d10e418e23f55474d862c684bcf84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835247,
+            "locality_id":9895010752,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010752,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Mitterstoder",
+    "wof:parent_id":1108835247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16889,
+    47.70427,
+    14.16889,
+    47.70427
+],
+  "geometry": {"coordinates":[14.16889,47.70427],"type":"Point"}
+}

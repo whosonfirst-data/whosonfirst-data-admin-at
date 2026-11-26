@@ -1,0 +1,77 @@
+{
+  "id": 9895009338,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43303,46.71903,14.43303,46.71903",
+    "geom:latitude":46.71903,
+    "geom:longitude":14.43303,
+    "gn:population":72,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669298: name \"G\u00f6riach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669298"
+        },
+        {
+            "citation":"GeoNames populated place 11669298: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669298"
+        },
+        {
+            "citation":"GeoNames populated place 11669298: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669298"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838199 (Magdalensberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049681,
+        102191581,
+        1108838199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669298
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"09b08466581598b427adfe83f894adb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838199,
+            "locality_id":9895009338,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895009338,
+    "wof:lastmodified":1795734979,
+    "wof:name":"G\u00f6riach",
+    "wof:parent_id":1108838199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43303,
+    46.71903,
+    14.43303,
+    46.71903
+],
+  "geometry": {"coordinates":[14.43303,46.71903],"type":"Point"}
+}

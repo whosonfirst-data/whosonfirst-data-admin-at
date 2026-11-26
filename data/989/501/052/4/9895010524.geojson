@@ -1,0 +1,77 @@
+{
+  "id": 9895010524,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96581,48.63041,13.96581,48.63041",
+    "geom:latitude":48.63041,
+    "geom:longitude":13.96581,
+    "gn:population":81,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747268: name \"Natschlag\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747268"
+        },
+        {
+            "citation":"GeoNames populated place 11747268: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747268"
+        },
+        {
+            "citation":"GeoNames populated place 11747268: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747268"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836015 (Schl\u00e4gl), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049889,
+        102191581,
+        1108836015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747268
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"162a83c6ce9daa8374da15203a263187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108836015,
+            "locality_id":9895010524,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010524,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Natschlag",
+    "wof:parent_id":1108836015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96581,
+    48.63041,
+    13.96581,
+    48.63041
+],
+  "geometry": {"coordinates":[13.96581,48.63041],"type":"Point"}
+}

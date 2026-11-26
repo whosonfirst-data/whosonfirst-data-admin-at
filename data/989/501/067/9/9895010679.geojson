@@ -1,0 +1,77 @@
+{
+  "id": 9895010679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92298,48.66163,13.92298,48.66163",
+    "geom:latitude":48.66163,
+    "geom:longitude":13.92298,
+    "gn:population":23,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11748009: name \"M\u00fchlwald\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11748009"
+        },
+        {
+            "citation":"GeoNames populated place 11748009: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11748009"
+        },
+        {
+            "citation":"GeoNames populated place 11748009: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11748009"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836021 (Ulrichsberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049889,
+        102191581,
+        1108836021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11748009
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2476da357dac35be4b0001f73f565eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108836021,
+            "locality_id":9895010679,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010679,
+    "wof:lastmodified":1795734979,
+    "wof:name":"M\u00fchlwald",
+    "wof:parent_id":1108836021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92298,
+    48.66163,
+    13.92298,
+    48.66163
+],
+  "geometry": {"coordinates":[13.92298,48.66163],"type":"Point"}
+}

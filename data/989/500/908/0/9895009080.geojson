@@ -1,0 +1,77 @@
+{
+  "id": 9895009080,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.561,46.85867,14.561,46.85867",
+    "geom:latitude":46.85867,
+    "geom:longitude":14.561,
+    "gn:population":6,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668986: name \"Buch\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668986"
+        },
+        {
+            "citation":"GeoNames populated place 11668986: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668986"
+        },
+        {
+            "citation":"GeoNames populated place 11668986: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668986"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838225 (Klein Sankt Paul), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049697,
+        102191581,
+        1108838225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668986
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3ddc46342cafe89b0c866fcc0c0605df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838225,
+            "locality_id":9895009080,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895009080,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Buch",
+    "wof:parent_id":1108838225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.561,
+    46.85867,
+    14.561,
+    46.85867
+],
+  "geometry": {"coordinates":[14.561,46.85867],"type":"Point"}
+}

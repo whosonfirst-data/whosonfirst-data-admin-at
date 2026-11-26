@@ -1,0 +1,77 @@
+{
+  "id": 9895010931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.44691,47.73936,13.44691,47.73936",
+    "geom:latitude":47.73936,
+    "geom:longitude":13.44691,
+    "gn:population":579,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919611: name \"Markt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919611"
+        },
+        {
+            "citation":"GeoNames populated place 11919611: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919611"
+        },
+        {
+            "citation":"GeoNames populated place 11919611: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919611"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835157 (St. Wolfgang im Salzkammergut), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049807,
+        102191581,
+        1108835157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919611
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"019378e933da2b3eff4c2db07f9481b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835157,
+            "locality_id":9895010931,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010931,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Markt",
+    "wof:parent_id":1108835157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.44691,
+    47.73936,
+    13.44691,
+    47.73936
+],
+  "geometry": {"coordinates":[13.44691,47.73936],"type":"Point"}
+}

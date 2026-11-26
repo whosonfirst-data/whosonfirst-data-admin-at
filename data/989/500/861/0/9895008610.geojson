@@ -1,0 +1,77 @@
+{
+  "id": 9895008610,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96667,47.08333,13.96667,47.08333",
+    "geom:latitude":47.08333,
+    "geom:longitude":13.96667,
+    "gn:population":433,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2764736: name \"Stadl an der Mur\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2764736"
+        },
+        {
+            "citation":"GeoNames populated place 2764736: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2764736"
+        },
+        {
+            "citation":"GeoNames populated place 2764736: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2764736"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838787 (Stadl-Predlitz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049733,
+        102191581,
+        1108838787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764736
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7d53a6e77b38537de7f6556ae25262d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838787,
+            "locality_id":9895008610,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008610,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Stadl an der Mur",
+    "wof:parent_id":1108838787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96667,
+    47.08333,
+    13.96667,
+    47.08333
+],
+  "geometry": {"coordinates":[13.96667,47.08333],"type":"Point"}
+}

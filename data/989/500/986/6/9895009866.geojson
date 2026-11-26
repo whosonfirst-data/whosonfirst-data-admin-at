@@ -1,0 +1,77 @@
+{
+  "id": 9895009866,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81685,48.16872,13.81685,48.16872",
+    "geom:latitude":48.16872,
+    "geom:longitude":13.81685,
+    "gn:population":24,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694643: name \"Niederbuch\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694643"
+        },
+        {
+            "citation":"GeoNames populated place 11694643: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694643"
+        },
+        {
+            "citation":"GeoNames populated place 11694643: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694643"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835195 (Meggenhofen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049861,
+        102191581,
+        1108835195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694643
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8ff3f27f97a98fa88672481e7795dd73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835195,
+            "locality_id":9895009866,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009866,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Niederbuch",
+    "wof:parent_id":1108835195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81685,
+    48.16872,
+    13.81685,
+    48.16872
+],
+  "geometry": {"coordinates":[13.81685,48.16872],"type":"Point"}
+}

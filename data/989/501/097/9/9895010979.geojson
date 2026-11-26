@@ -1,0 +1,77 @@
+{
+  "id": 9895010979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.29024,46.57086,14.29024,46.57086",
+    "geom:latitude":46.57086,
+    "geom:longitude":14.29024,
+    "gn:population":184,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919868: name \"Angersbichl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919868"
+        },
+        {
+            "citation":"GeoNames populated place 11919868: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919868"
+        },
+        {
+            "citation":"GeoNames populated place 11919868: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919868"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838179 (Maria Rain), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049681,
+        102191581,
+        1108838179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919868
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b350813613920de75830f63e732fb735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838179,
+            "locality_id":9895010979,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010979,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Angersbichl",
+    "wof:parent_id":1108838179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.29024,
+    46.57086,
+    14.29024,
+    46.57086
+],
+  "geometry": {"coordinates":[14.29024,46.57086],"type":"Point"}
+}

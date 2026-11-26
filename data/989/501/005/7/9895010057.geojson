@@ -1,0 +1,77 @@
+{
+  "id": 9895010057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80605,48.21095,14.80605,48.21095",
+    "geom:latitude":48.21095,
+    "geom:longitude":14.80605,
+    "gn:population":46,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695195: name \"Reitberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695195"
+        },
+        {
+            "citation":"GeoNames populated place 11695195: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695195"
+        },
+        {
+            "citation":"GeoNames populated place 11695195: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695195"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835617 (Saxen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049865,
+        102191581,
+        1108835617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695195
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"dbc3365cdd6e8ffc9d20063b7c65bb85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835617,
+            "locality_id":9895010057,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010057,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Reitberg",
+    "wof:parent_id":1108835617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80605,
+    48.21095,
+    14.80605,
+    48.21095
+],
+  "geometry": {"coordinates":[14.80605,48.21095],"type":"Point"}
+}

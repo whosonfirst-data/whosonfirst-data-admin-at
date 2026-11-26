@@ -1,0 +1,77 @@
+{
+  "id": 9895010610,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.87576,48.05772,12.87576,48.05772",
+    "geom:latitude":48.05772,
+    "geom:longitude":12.87576,
+    "gn:population":29,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747561: name \"Marktl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747561"
+        },
+        {
+            "citation":"GeoNames populated place 11747561: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747561"
+        },
+        {
+            "citation":"GeoNames populated place 11747561: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747561"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834769 (Ostermiething), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747561
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b04d02f22363f781de91e4398dbff7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834769,
+            "locality_id":9895010610,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010610,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Marktl",
+    "wof:parent_id":1108834769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.87576,
+    48.05772,
+    12.87576,
+    48.05772
+],
+  "geometry": {"coordinates":[12.87576,48.05772],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895010800,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53635,48.30624,15.53635,48.30624",
+    "geom:latitude":48.30624,
+    "geom:longitude":15.53635,
+    "gn:population":12,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11862665: name \"Wetzlarn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11862665"
+        },
+        {
+            "citation":"GeoNames populated place 11862665: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11862665"
+        },
+        {
+            "citation":"GeoNames populated place 11862665: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11862665"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836609 (W\u00f6lbling), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049869,
+        102191581,
+        1108836609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11862665
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"266bde3e18050ed3982cdc5c9780735b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836609,
+            "locality_id":9895010800,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010800,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Wetzlarn",
+    "wof:parent_id":1108836609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53635,
+    48.30624,
+    15.53635,
+    48.30624
+],
+  "geometry": {"coordinates":[15.53635,48.30624],"type":"Point"}
+}

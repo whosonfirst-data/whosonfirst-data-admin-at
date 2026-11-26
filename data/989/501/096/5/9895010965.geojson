@@ -1,0 +1,77 @@
+{
+  "id": 9895010965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.97494,47.61455,15.97494,47.61455",
+    "geom:latitude":47.61455,
+    "geom:longitude":15.97494,
+    "gn:population":219,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919708: name \"Ofenbach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919708"
+        },
+        {
+            "citation":"GeoNames populated place 11919708: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919708"
+        },
+        {
+            "citation":"GeoNames populated place 11919708: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919708"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835897 (Kirchberg am Wechsel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049791,
+        102191581,
+        1108835897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919708
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fa283ec675424b4edee1ad45b946633d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835897,
+            "locality_id":9895010965,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010965,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Ofenbach",
+    "wof:parent_id":1108835897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.97494,
+    47.61455,
+    15.97494,
+    47.61455
+],
+  "geometry": {"coordinates":[15.97494,47.61455],"type":"Point"}
+}

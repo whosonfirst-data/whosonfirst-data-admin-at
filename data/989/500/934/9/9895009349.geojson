@@ -1,0 +1,77 @@
+{
+  "id": 9895009349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4499,46.69122,14.4499,46.69122",
+    "geom:latitude":46.69122,
+    "geom:longitude":14.4499,
+    "gn:population":10,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669309: name \"Vellach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669309"
+        },
+        {
+            "citation":"GeoNames populated place 11669309: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669309"
+        },
+        {
+            "citation":"GeoNames populated place 11669309: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669309"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838199 (Magdalensberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049681,
+        102191581,
+        1108838199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669309
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f0fa1266d6a4dc263599b36ee4d1c6e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838199,
+            "locality_id":9895009349,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895009349,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Vellach",
+    "wof:parent_id":1108838199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4499,
+    46.69122,
+    14.4499,
+    46.69122
+],
+  "geometry": {"coordinates":[14.4499,46.69122],"type":"Point"}
+}

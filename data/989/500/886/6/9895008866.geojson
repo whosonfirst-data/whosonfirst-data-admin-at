@@ -1,0 +1,77 @@
+{
+  "id": 9895008866,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35095,48.09276,15.35095,48.09276",
+    "geom:latitude":48.09276,
+    "geom:longitude":15.35095,
+    "gn:population":23,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668667: name \"Aichen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668667"
+        },
+        {
+            "citation":"GeoNames populated place 11668667: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668667"
+        },
+        {
+            "citation":"GeoNames populated place 11668667: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668667"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834887 (Mank), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049855,
+        102191581,
+        1108834887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668667
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8ca30a02b442c535abea29f9a4efd71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108834887,
+            "locality_id":9895008866,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895008866,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Aichen",
+    "wof:parent_id":1108834887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35095,
+    48.09276,
+    15.35095,
+    48.09276
+],
+  "geometry": {"coordinates":[15.35095,48.09276],"type":"Point"}
+}

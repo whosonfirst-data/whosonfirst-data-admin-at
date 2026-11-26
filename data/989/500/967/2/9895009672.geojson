@@ -1,0 +1,77 @@
+{
+  "id": 9895009672,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.16368,48.08404,13.16368,48.08404",
+    "geom:latitude":48.08404,
+    "geom:longitude":13.16368,
+    "gn:population":210,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694085: name \"H\u00f6llersberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694085"
+        },
+        {
+            "citation":"GeoNames populated place 11694085: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694085"
+        },
+        {
+            "citation":"GeoNames populated place 11694085: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694085"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834763 (Munderfing), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694085
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"47f42e4040c6abc45e164cc78db85df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834763,
+            "locality_id":9895009672,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009672,
+    "wof:lastmodified":1795734979,
+    "wof:name":"H\u00f6llersberg",
+    "wof:parent_id":1108834763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.16368,
+    48.08404,
+    13.16368,
+    48.08404
+],
+  "geometry": {"coordinates":[13.16368,48.08404],"type":"Point"}
+}

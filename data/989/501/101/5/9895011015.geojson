@@ -1,0 +1,76 @@
+{
+  "id": 9895011015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7015,47.36955,9.7015,47.36955",
+    "geom:latitude":47.36955,
+    "geom:longitude":9.7015,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12253431: name \"Buchenau\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12253431"
+        },
+        {
+            "citation":"GeoNames populated place 12253431: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12253431"
+        },
+        {
+            "citation":"GeoNames populated place 12253431: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12253431"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837963 (Hohenems), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681649,
+        102049737,
+        102191581,
+        1108837963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12253431
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"54713ba1d0d6aecf9da8475502d4b92a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":9895011015,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":9895011015,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Buchenau",
+    "wof:parent_id":1108837963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7015,
+    47.36955,
+    9.7015,
+    47.36955
+],
+  "geometry": {"coordinates":[9.7015,47.36955],"type":"Point"}
+}

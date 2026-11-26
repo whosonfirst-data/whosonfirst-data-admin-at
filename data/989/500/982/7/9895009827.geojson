@@ -1,0 +1,77 @@
+{
+  "id": 9895009827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59711,48.15169,15.59711,48.15169",
+    "geom:latitude":48.15169,
+    "geom:longitude":15.59711,
+    "gn:population":17,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694597: name \"Wolfenberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694597"
+        },
+        {
+            "citation":"GeoNames populated place 11694597: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694597"
+        },
+        {
+            "citation":"GeoNames populated place 11694597: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694597"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836803 (St. P\u00f6lten), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049849,
+        102191581,
+        1108836803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694597
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"16544f4bc73216eb71f1c84c9b2e4c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049849,
+            "localadmin_id":1108836803,
+            "locality_id":9895009827,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895009827,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Wolfenberg",
+    "wof:parent_id":1108836803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59711,
+    48.15169,
+    15.59711,
+    48.15169
+],
+  "geometry": {"coordinates":[15.59711,48.15169],"type":"Point"}
+}

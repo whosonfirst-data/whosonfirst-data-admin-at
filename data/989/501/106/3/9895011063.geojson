@@ -1,0 +1,76 @@
+{
+  "id": 9895011063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45763,47.49751,13.45763,47.49751",
+    "geom:latitude":47.49751,
+    "geom:longitude":13.45763,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13527258: name \"Gugg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13527258"
+        },
+        {
+            "citation":"GeoNames populated place 13527258: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13527258"
+        },
+        {
+            "citation":"GeoNames populated place 13527258: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13527258"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837085 (Annaberg-Lung\u00f6tz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049773,
+        102191581,
+        1108837085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13527258
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"798bf59b044bf56ffdbc2704eafe31f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837085,
+            "locality_id":9895011063,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895011063,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Gugg",
+    "wof:parent_id":1108837085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45763,
+    47.49751,
+    13.45763,
+    47.49751
+],
+  "geometry": {"coordinates":[13.45763,47.49751],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895008695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30001,46.8072,15.30001,46.8072",
+    "geom:latitude":46.8072,
+    "geom:longitude":15.30001,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2777504: name \"Grub bei Gross Sankt Florian\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2777504"
+        },
+        {
+            "citation":"GeoNames populated place 2777504: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2777504"
+        },
+        {
+            "citation":"GeoNames populated place 2777504: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2777504"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839295 (St. Florian), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049691,
+        102191581,
+        1108839295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777504
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4fbdfe835feff91386b97a08383d8f4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839295,
+            "locality_id":9895008695,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008695,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Grub bei Gross Sankt Florian",
+    "wof:parent_id":1108839295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30001,
+    46.8072,
+    15.30001,
+    46.8072
+],
+  "geometry": {"coordinates":[15.30001,46.8072],"type":"Point"}
+}

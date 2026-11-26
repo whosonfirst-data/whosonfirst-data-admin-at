@@ -1,0 +1,77 @@
+{
+  "id": 9895010336,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60691,46.80737,13.60691,46.80737",
+    "geom:latitude":46.80737,
+    "geom:longitude":13.60691,
+    "gn:population":75,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703656: name \"Grantsch\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703656"
+        },
+        {
+            "citation":"GeoNames populated place 11703656: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703656"
+        },
+        {
+            "citation":"GeoNames populated place 11703656: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703656"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838279 (Millstatt), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049701,
+        102191581,
+        1108838279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703656
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"03501a97255f22efda0fc5c4c8202dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838279,
+            "locality_id":9895010336,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010336,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Grantsch",
+    "wof:parent_id":1108838279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60691,
+    46.80737,
+    13.60691,
+    46.80737
+],
+  "geometry": {"coordinates":[13.60691,46.80737],"type":"Point"}
+}

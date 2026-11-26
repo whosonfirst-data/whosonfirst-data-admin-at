@@ -1,0 +1,77 @@
+{
+  "id": 9895010962,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56871,48.14035,14.56871,48.14035",
+    "geom:latitude":48.14035,
+    "geom:longitude":14.56871,
+    "gn:population":224,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919704: name \"Reichhub\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919704"
+        },
+        {
+            "citation":"GeoNames populated place 11919704: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919704"
+        },
+        {
+            "citation":"GeoNames populated place 11919704: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919704"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835427 (Haag), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049835,
+        102191581,
+        1108835427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919704
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d337305ca74b4f89c8976714d2a2a03c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835427,
+            "locality_id":9895010962,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010962,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Reichhub",
+    "wof:parent_id":1108835427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56871,
+    48.14035,
+    14.56871,
+    48.14035
+],
+  "geometry": {"coordinates":[14.56871,48.14035],"type":"Point"}
+}

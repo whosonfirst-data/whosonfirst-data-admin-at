@@ -1,0 +1,77 @@
+{
+  "id": 9895009494,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83698,48.13909,13.83698,48.13909",
+    "geom:latitude":48.13909,
+    "geom:longitude":13.83698,
+    "gn:population":68,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669984: name \"Felling\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669984"
+        },
+        {
+            "citation":"GeoNames populated place 11669984: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669984"
+        },
+        {
+            "citation":"GeoNames populated place 11669984: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669984"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836569 (Pennewang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049831,
+        102191581,
+        1108836569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669984
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6a421e59d9673413713605f78cf7ca11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836569,
+            "locality_id":9895009494,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009494,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Felling",
+    "wof:parent_id":1108836569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83698,
+    48.13909,
+    13.83698,
+    48.13909
+],
+  "geometry": {"coordinates":[13.83698,48.13909],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895010984,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28818,46.57353,14.28818,46.57353",
+    "geom:latitude":46.57353,
+    "geom:longitude":14.28818,
+    "gn:population":179,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919873: name \"Untert\u00f6llern\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919873"
+        },
+        {
+            "citation":"GeoNames populated place 11919873: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919873"
+        },
+        {
+            "citation":"GeoNames populated place 11919873: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919873"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838179 (Maria Rain), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049681,
+        102191581,
+        1108838179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919873
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"27264f56c2bc2e76e567daf86d46c7c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838179,
+            "locality_id":9895010984,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010984,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Untert\u00f6llern",
+    "wof:parent_id":1108838179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28818,
+    46.57353,
+    14.28818,
+    46.57353
+],
+  "geometry": {"coordinates":[14.28818,46.57353],"type":"Point"}
+}

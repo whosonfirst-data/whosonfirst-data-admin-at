@@ -1,0 +1,77 @@
+{
+  "id": 9895009616,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.06713,46.66022,14.06713,46.66022",
+    "geom:latitude":46.66022,
+    "geom:longitude":14.06713,
+    "gn:population":45,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670416: name \"Karl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670416"
+        },
+        {
+            "citation":"GeoNames populated place 11670416: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670416"
+        },
+        {
+            "citation":"GeoNames populated place 11670416: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670416"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838195 (Techelsberg Am W\u00f6rther See), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049681,
+        102191581,
+        1108838195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670416
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4883204777555276cc37c424f069aac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838195,
+            "locality_id":9895009616,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895009616,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Karl",
+    "wof:parent_id":1108838195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.06713,
+    46.66022,
+    14.06713,
+    46.66022
+],
+  "geometry": {"coordinates":[14.06713,46.66022],"type":"Point"}
+}

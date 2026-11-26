@@ -1,0 +1,77 @@
+{
+  "id": 9895008903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83913,48.04504,13.83913,48.04504",
+    "geom:latitude":48.04504,
+    "geom:longitude":13.83913,
+    "gn:population":130,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668734: name \"Kemating\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668734"
+        },
+        {
+            "citation":"GeoNames populated place 11668734: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668734"
+        },
+        {
+            "citation":"GeoNames populated place 11668734: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668734"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835153 (Roitham), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049807,
+        102191581,
+        1108835153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668734
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"53feace3bedbb99acb4938603b34eef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835153,
+            "locality_id":9895008903,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895008903,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Kemating",
+    "wof:parent_id":1108835153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83913,
+    48.04504,
+    13.83913,
+    48.04504
+],
+  "geometry": {"coordinates":[13.83913,48.04504],"type":"Point"}
+}

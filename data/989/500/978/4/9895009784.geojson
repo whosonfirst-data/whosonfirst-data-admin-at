@@ -1,0 +1,77 @@
+{
+  "id": 9895009784,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34299,47.0039,14.34299,47.0039",
+    "geom:latitude":47.0039,
+    "geom:longitude":14.34299,
+    "gn:population":15,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694231: name \"Timrian\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694231"
+        },
+        {
+            "citation":"GeoNames populated place 11694231: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694231"
+        },
+        {
+            "citation":"GeoNames populated place 11694231: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694231"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838211 (Friesach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049697,
+        102191581,
+        1108838211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694231
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"365a980ef4c999339e3bf59fc295b2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838211,
+            "locality_id":9895009784,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895009784,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Timrian",
+    "wof:parent_id":1108838211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34299,
+    47.0039,
+    14.34299,
+    47.0039
+],
+  "geometry": {"coordinates":[14.34299,47.0039],"type":"Point"}
+}

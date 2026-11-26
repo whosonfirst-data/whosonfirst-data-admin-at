@@ -1,0 +1,77 @@
+{
+  "id": 9895010213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96633,48.30623,13.96633,48.30623",
+    "geom:latitude":48.30623,
+    "geom:longitude":13.96633,
+    "gn:population":106,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695762: name \"Puchet\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695762"
+        },
+        {
+            "citation":"GeoNames populated place 11695762: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695762"
+        },
+        {
+            "citation":"GeoNames populated place 11695762: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695762"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835047 (Hinzenbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049863,
+        102191581,
+        1108835047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695762
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0d7f0fa2706050dfb48722816f83d823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835047,
+            "locality_id":9895010213,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010213,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Puchet",
+    "wof:parent_id":1108835047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96633,
+    48.30623,
+    13.96633,
+    48.30623
+],
+  "geometry": {"coordinates":[13.96633,48.30623],"type":"Point"}
+}

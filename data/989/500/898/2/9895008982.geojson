@@ -1,0 +1,77 @@
+{
+  "id": 9895008982,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.52212,48.50387,14.52212,48.50387",
+    "geom:latitude":48.50387,
+    "geom:longitude":14.52212,
+    "gn:population":11,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668873: name \"Am Berg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668873"
+        },
+        {
+            "citation":"GeoNames populated place 11668873: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668873"
+        },
+        {
+            "citation":"GeoNames populated place 11668873: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668873"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835079 (Lasberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049883,
+        102191581,
+        1108835079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668873
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"15771ef30e4e2d2efe7d3da2764067e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835079,
+            "locality_id":9895008982,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895008982,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Am Berg",
+    "wof:parent_id":1108835079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.52212,
+    48.50387,
+    14.52212,
+    48.50387
+],
+  "geometry": {"coordinates":[14.52212,48.50387],"type":"Point"}
+}

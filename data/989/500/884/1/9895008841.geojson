@@ -1,0 +1,76 @@
+{
+  "id": 9895008841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65176,48.34082,13.65176,48.34082",
+    "geom:latitude":48.34082,
+    "geom:longitude":13.65176,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668640: name \"Weipoltsham\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668640"
+        },
+        {
+            "citation":"GeoNames populated place 11668640: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668640"
+        },
+        {
+            "citation":"GeoNames populated place 11668640: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668640"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836053 (Raab), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049877,
+        102191581,
+        1108836053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668640
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8b868c7b9f85ff93d232401661a9d64b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836053,
+            "locality_id":9895008841,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895008841,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Weipoltsham",
+    "wof:parent_id":1108836053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65176,
+    48.34082,
+    13.65176,
+    48.34082
+],
+  "geometry": {"coordinates":[13.65176,48.34082],"type":"Point"}
+}

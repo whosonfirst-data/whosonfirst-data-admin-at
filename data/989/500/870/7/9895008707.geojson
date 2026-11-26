@@ -1,0 +1,77 @@
+{
+  "id": 9895008707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06667,47.18333,15.06667,47.18333",
+    "geom:latitude":47.18333,
+    "geom:longitude":15.06667,
+    "gn:population":200,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2778967: name \"Gallmannsegg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2778967"
+        },
+        {
+            "citation":"GeoNames populated place 2778967: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2778967"
+        },
+        {
+            "citation":"GeoNames populated place 2778967: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2778967"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838823 (Kainach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049717,
+        102191581,
+        1108838823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778967
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b18c5b4cab8b1432ee1d0c5d12c74dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1108838823,
+            "locality_id":9895008707,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008707,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Gallmannsegg",
+    "wof:parent_id":1108838823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06667,
+    47.18333,
+    15.06667,
+    47.18333
+],
+  "geometry": {"coordinates":[15.06667,47.18333],"type":"Point"}
+}

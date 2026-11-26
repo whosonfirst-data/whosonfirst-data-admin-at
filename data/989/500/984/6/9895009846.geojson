@@ -1,0 +1,77 @@
+{
+  "id": 9895009846,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.10673,48.25754,13.10673,48.25754",
+    "geom:latitude":48.25754,
+    "geom:longitude":13.10673,
+    "gn:population":31,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694623: name \"Heitzenberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694623"
+        },
+        {
+            "citation":"GeoNames populated place 11694623: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694623"
+        },
+        {
+            "citation":"GeoNames populated place 11694623: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694623"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834791 (St. Peter am Hart), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694623
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c0e8c8312026fb8691d2bcd595538bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834791,
+            "locality_id":9895009846,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009846,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Heitzenberg",
+    "wof:parent_id":1108834791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.10673,
+    48.25754,
+    13.10673,
+    48.25754
+],
+  "geometry": {"coordinates":[13.10673,48.25754],"type":"Point"}
+}

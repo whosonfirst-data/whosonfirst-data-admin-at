@@ -1,0 +1,77 @@
+{
+  "id": 9895009092,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.36118,48.18841,13.36118,48.18841",
+    "geom:latitude":48.18841,
+    "geom:longitude":13.36118,
+    "gn:population":44,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668999: name \"G\u00fcgling\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668999"
+        },
+        {
+            "citation":"GeoNames populated place 11668999: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668999"
+        },
+        {
+            "citation":"GeoNames populated place 11668999: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668999"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835657 (Mettmach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049851,
+        102191581,
+        1108835657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668999
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9f5033a3642a4fabd1fc7963591a3ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835657,
+            "locality_id":9895009092,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009092,
+    "wof:lastmodified":1795734979,
+    "wof:name":"G\u00fcgling",
+    "wof:parent_id":1108835657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.36118,
+    48.18841,
+    13.36118,
+    48.18841
+],
+  "geometry": {"coordinates":[13.36118,48.18841],"type":"Point"}
+}

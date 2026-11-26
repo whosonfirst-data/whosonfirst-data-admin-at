@@ -1,0 +1,77 @@
+{
+  "id": 9895009197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.83675,48.06021,12.83675,48.06021",
+    "geom:latitude":48.06021,
+    "geom:longitude":12.83675,
+    "gn:population":51,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669127: name \"D\u00f6stling\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669127"
+        },
+        {
+            "citation":"GeoNames populated place 11669127: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669127"
+        },
+        {
+            "citation":"GeoNames populated place 11669127: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669127"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834801 (Tarsdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669127
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a4ce88dfe4d2a5f2aaa7937cebd0ddfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834801,
+            "locality_id":9895009197,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009197,
+    "wof:lastmodified":1795734979,
+    "wof:name":"D\u00f6stling",
+    "wof:parent_id":1108834801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.83675,
+    48.06021,
+    12.83675,
+    48.06021
+],
+  "geometry": {"coordinates":[12.83675,48.06021],"type":"Point"}
+}

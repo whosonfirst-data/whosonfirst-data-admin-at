@@ -1,0 +1,77 @@
+{
+  "id": 9895010039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65156,48.26103,14.65156,48.26103",
+    "geom:latitude":48.26103,
+    "geom:longitude":14.65156,
+    "gn:population":156,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695169: name \"Karlingberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695169"
+        },
+        {
+            "citation":"GeoNames populated place 11695169: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695169"
+        },
+        {
+            "citation":"GeoNames populated place 11695169: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695169"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835623 (Windhaag bei Perg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049865,
+        102191581,
+        1108835623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695169
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"70cf355e019dcd449f90225cf38b529a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835623,
+            "locality_id":9895010039,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010039,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Karlingberg",
+    "wof:parent_id":1108835623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65156,
+    48.26103,
+    14.65156,
+    48.26103
+],
+  "geometry": {"coordinates":[14.65156,48.26103],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895010097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.7571,47.50937,12.7571,47.50937",
+    "geom:latitude":47.50937,
+    "geom:longitude":12.7571,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695243: name \"Hacker\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695243"
+        },
+        {
+            "citation":"GeoNames populated place 11695243: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695243"
+        },
+        {
+            "citation":"GeoNames populated place 11695243: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695243"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837253 (Wei\u00dfbach bei Lofer), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049761,
+        102191581,
+        1108837253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695243
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"dd34ae31fa0d1581341f0f2af9b889d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837253,
+            "locality_id":9895010097,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010097,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Hacker",
+    "wof:parent_id":1108837253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.7571,
+    47.50937,
+    12.7571,
+    47.50937
+],
+  "geometry": {"coordinates":[12.7571,47.50937],"type":"Point"}
+}

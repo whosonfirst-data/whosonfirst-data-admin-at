@@ -1,0 +1,77 @@
+{
+  "id": 9895008659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86667,47.08333,15.86667,47.08333",
+    "geom:latitude":47.08333,
+    "geom:longitude":15.86667,
+    "gn:population":543,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2770873: name \"Nestelbach im Ilztal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2770873"
+        },
+        {
+            "citation":"GeoNames populated place 2770873: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2770873"
+        },
+        {
+            "citation":"GeoNames populated place 2770873: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2770873"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839221 (Ilz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102191581,
+        1108839221,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770873
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2b2fbc9dca7bc4e2f93ab0b15b32b2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839221,
+            "locality_id":9895008659,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008659,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Nestelbach im Ilztal",
+    "wof:parent_id":1108839221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86667,
+    47.08333,
+    15.86667,
+    47.08333
+],
+  "geometry": {"coordinates":[15.86667,47.08333],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895009557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90487,48.53795,13.90487,48.53795",
+    "geom:latitude":48.53795,
+    "geom:longitude":13.90487,
+    "gn:population":57,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670065: name \"Altendorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670065"
+        },
+        {
+            "citation":"GeoNames populated place 11670065: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670065"
+        },
+        {
+            "citation":"GeoNames populated place 11670065: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670065"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836013 (Sarleinsbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049889,
+        102191581,
+        1108836013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670065
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"400f5bce3619d807e06b7a687c74201c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108836013,
+            "locality_id":9895009557,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009557,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Altendorf",
+    "wof:parent_id":1108836013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90487,
+    48.53795,
+    13.90487,
+    48.53795
+],
+  "geometry": {"coordinates":[13.90487,48.53795],"type":"Point"}
+}

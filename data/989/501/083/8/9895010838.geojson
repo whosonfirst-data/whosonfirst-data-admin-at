@@ -1,0 +1,77 @@
+{
+  "id": 9895010838,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.41825,47.97031,13.41825,47.97031",
+    "geom:latitude":47.97031,
+    "geom:longitude":13.41825,
+    "gn:population":53,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11862795: name \"Brandstatt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11862795"
+        },
+        {
+            "citation":"GeoNames populated place 11862795: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11862795"
+        },
+        {
+            "citation":"GeoNames populated place 11862795: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11862795"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836525 (Wei\u00dfenkirchen im Attergau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049817,
+        102191581,
+        1108836525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11862795
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4a581d7ba532a9e80acbbb34548910b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836525,
+            "locality_id":9895010838,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010838,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Brandstatt",
+    "wof:parent_id":1108836525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.41825,
+    47.97031,
+    13.41825,
+    47.97031
+],
+  "geometry": {"coordinates":[13.41825,47.97031],"type":"Point"}
+}

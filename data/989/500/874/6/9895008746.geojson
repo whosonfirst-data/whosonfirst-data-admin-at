@@ -1,0 +1,77 @@
+{
+  "id": 9895008746,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97179,47.41351,14.97179,47.41351",
+    "geom:latitude":47.41351,
+    "geom:longitude":14.97179,
+    "gn:population":92,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11593184: name \"Gai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11593184"
+        },
+        {
+            "citation":"GeoNames populated place 11593184: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11593184"
+        },
+        {
+            "citation":"GeoNames populated place 11593184: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11593184"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838989 (Trofaiach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049769,
+        102191581,
+        1108838989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593184
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f920f44dfe29146d8bc46901421cd3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108838989,
+            "locality_id":9895008746,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008746,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Gai",
+    "wof:parent_id":1108838989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97179,
+    47.41351,
+    14.97179,
+    47.41351
+],
+  "geometry": {"coordinates":[14.97179,47.41351],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895010367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.44037,46.90824,14.44037,46.90824",
+    "geom:latitude":46.90824,
+    "geom:longitude":14.44037,
+    "gn:population":6,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704057: name \"Ruhsdorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704057"
+        },
+        {
+            "citation":"GeoNames populated place 11704057: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704057"
+        },
+        {
+            "citation":"GeoNames populated place 11704057: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704057"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838233 (Micheldorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049697,
+        102191581,
+        1108838233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704057
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"da8cc380449de67e1bed50b014161c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838233,
+            "locality_id":9895010367,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010367,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Ruhsdorf",
+    "wof:parent_id":1108838233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44037,
+    46.90824,
+    14.44037,
+    46.90824
+],
+  "geometry": {"coordinates":[14.44037,46.90824],"type":"Point"}
+}

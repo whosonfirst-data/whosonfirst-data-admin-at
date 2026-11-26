@@ -1,0 +1,77 @@
+{
+  "id": 9895008629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8,47.2,15.8,47.2",
+    "geom:latitude":47.2,
+    "geom:longitude":15.8,
+    "gn:population":395,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2766645: name \"Sankt Johann bei Herberstein\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2766645"
+        },
+        {
+            "citation":"GeoNames populated place 2766645: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2766645"
+        },
+        {
+            "citation":"GeoNames populated place 2766645: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2766645"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838895 (Pischelsdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049765,
+        102191581,
+        1108838895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766645
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"569e3c99c9537326e6d6a9d3e4b62d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838895,
+            "locality_id":9895008629,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008629,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Sankt Johann bei Herberstein",
+    "wof:parent_id":1108838895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8,
+    47.2,
+    15.8,
+    47.2
+],
+  "geometry": {"coordinates":[15.8,47.2],"type":"Point"}
+}

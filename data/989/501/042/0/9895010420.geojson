@@ -1,0 +1,77 @@
+{
+  "id": 9895010420,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.00335,48.04036,13.00335,48.04036",
+    "geom:latitude":48.04036,
+    "geom:longitude":13.00335,
+    "gn:population":85,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11746066: name \"Jedendorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11746066"
+        },
+        {
+            "citation":"GeoNames populated place 11746066: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11746066"
+        },
+        {
+            "citation":"GeoNames populated place 11746066: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11746066"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834761 (Moosdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049833,
+        102191581,
+        1108834761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11746066
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9a49f6c22553f50345a5f6b46ba81921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834761,
+            "locality_id":9895010420,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010420,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Jedendorf",
+    "wof:parent_id":1108834761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.00335,
+    48.04036,
+    13.00335,
+    48.04036
+],
+  "geometry": {"coordinates":[13.00335,48.04036],"type":"Point"}
+}

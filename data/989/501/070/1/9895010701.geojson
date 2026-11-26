@@ -1,0 +1,77 @@
+{
+  "id": 9895010701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.32062,47.91513,13.32062,47.91513",
+    "geom:latitude":47.91513,
+    "geom:longitude":13.32062,
+    "gn:population":71,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11748041: name \"Oberschwand\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11748041"
+        },
+        {
+            "citation":"GeoNames populated place 11748041: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11748041"
+        },
+        {
+            "citation":"GeoNames populated place 11748041: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11748041"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836533 (Zell am Moos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049817,
+        102191581,
+        1108836533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11748041
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2b97cad3016d1ca53d2dcd313460c9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836533,
+            "locality_id":9895010701,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010701,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Oberschwand",
+    "wof:parent_id":1108836533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.32062,
+    47.91513,
+    13.32062,
+    47.91513
+],
+  "geometry": {"coordinates":[13.32062,47.91513],"type":"Point"}
+}

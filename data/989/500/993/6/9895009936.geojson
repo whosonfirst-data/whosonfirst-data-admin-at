@@ -1,0 +1,77 @@
+{
+  "id": 9895009936,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.00223,46.73801,13.00223,46.73801",
+    "geom:latitude":46.73801,
+    "geom:longitude":13.00223,
+    "gn:population":13,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694739: name \"Pfl\u00fcgen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694739"
+        },
+        {
+            "citation":"GeoNames populated place 11694739: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694739"
+        },
+        {
+            "citation":"GeoNames populated place 11694739: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694739"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838269 (Irschen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049701,
+        102191581,
+        1108838269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694739
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"14ae79df591f11f06963298730efb844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838269,
+            "locality_id":9895009936,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895009936,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Pfl\u00fcgen",
+    "wof:parent_id":1108838269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.00223,
+    46.73801,
+    13.00223,
+    46.73801
+],
+  "geometry": {"coordinates":[13.00223,46.73801],"type":"Point"}
+}

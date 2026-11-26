@@ -1,0 +1,76 @@
+{
+  "id": 9895011008,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.67943,47.35273,9.67943,47.35273",
+    "geom:latitude":47.35273,
+    "geom:longitude":9.67943,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12253383: name \"Hohenems Schwefel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12253383"
+        },
+        {
+            "citation":"GeoNames populated place 12253383: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12253383"
+        },
+        {
+            "citation":"GeoNames populated place 12253383: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12253383"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837963 (Hohenems), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681649,
+        102049737,
+        102191581,
+        1108837963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12253383
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"803c01ffab9e252a621db48783f053eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":9895011008,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":9895011008,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Hohenems Schwefel",
+    "wof:parent_id":1108837963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.67943,
+    47.35273,
+    9.67943,
+    47.35273
+],
+  "geometry": {"coordinates":[9.67943,47.35273],"type":"Point"}
+}

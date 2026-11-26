@@ -1,0 +1,77 @@
+{
+  "id": 9895008647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18333,48.83333,15.18333,48.83333",
+    "geom:latitude":48.83333,
+    "geom:longitude":15.18333,
+    "gn:population":398,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2768967: name \"Pfaffenschlag bei Waidhofen an der Thaya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2768967"
+        },
+        {
+            "citation":"GeoNames populated place 2768967: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2768967"
+        },
+        {
+            "citation":"GeoNames populated place 2768967: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2768967"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835863 (Pfaffenschlag bei Waidhofen a. d. Thaya), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049903,
+        102191581,
+        1108835863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768967
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8bde06fdd18c28899833c563e5a5bdb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108835863,
+            "locality_id":9895008647,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895008647,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Pfaffenschlag bei Waidhofen an der Thaya",
+    "wof:parent_id":1108835863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18333,
+    48.83333,
+    15.18333,
+    48.83333
+],
+  "geometry": {"coordinates":[15.18333,48.83333],"type":"Point"}
+}

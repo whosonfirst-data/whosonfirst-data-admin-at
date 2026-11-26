@@ -1,0 +1,77 @@
+{
+  "id": 9895010945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45719,48.37071,14.45719,48.37071",
+    "geom:latitude":48.37071,
+    "geom:longitude":14.45719,
+    "gn:population":343,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919668: name \"Reitern\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919668"
+        },
+        {
+            "citation":"GeoNames populated place 11919668: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919668"
+        },
+        {
+            "citation":"GeoNames populated place 11919668: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919668"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835107 (Unterweitersdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049883,
+        102191581,
+        1108835107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919668
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"01a2b4e7575be17710413844c82373c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835107,
+            "locality_id":9895010945,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010945,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Reitern",
+    "wof:parent_id":1108835107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45719,
+    48.37071,
+    14.45719,
+    48.37071
+],
+  "geometry": {"coordinates":[14.45719,48.37071],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895008586,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75,47.33333,15.75,47.33333",
+    "geom:latitude":47.33333,
+    "geom:longitude":15.75,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2761047: name \"Winkl Boden\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2761047"
+        },
+        {
+            "citation":"GeoNames populated place 2761047: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2761047"
+        },
+        {
+            "citation":"GeoNames populated place 2761047: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2761047"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839107 (P\u00f6llau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102191581,
+        1108839107,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761047
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9ce7fac598c9c8c19b1287c7f97a5b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839107,
+            "locality_id":9895008586,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008586,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Winkl Boden",
+    "wof:parent_id":1108839107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75,
+    47.33333,
+    15.75,
+    47.33333
+],
+  "geometry": {"coordinates":[15.75,47.33333],"type":"Point"}
+}

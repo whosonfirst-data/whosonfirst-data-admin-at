@@ -1,0 +1,76 @@
+{
+  "id": 9895011025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.65969,47.35886,9.65969,47.35886",
+    "geom:latitude":47.35886,
+    "geom:longitude":9.65969,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12253563: name \"Altach Wichnerstra\u00dfe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12253563"
+        },
+        {
+            "citation":"GeoNames populated place 12253563: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12253563"
+        },
+        {
+            "citation":"GeoNames populated place 12253563: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12253563"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837887 (Altach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681649,
+        102049725,
+        102191581,
+        1108837887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12253563
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"074f4f2be82098d8223a7c497c08ab4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837887,
+            "locality_id":9895011025,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":9895011025,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Altach Wichnerstra\u00dfe",
+    "wof:parent_id":1108837887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65969,
+    47.35886,
+    9.65969,
+    47.35886
+],
+  "geometry": {"coordinates":[9.65969,47.35886],"type":"Point"}
+}

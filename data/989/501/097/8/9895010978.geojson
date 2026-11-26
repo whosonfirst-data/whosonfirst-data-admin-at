@@ -1,0 +1,77 @@
+{
+  "id": 9895010978,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90324,48.19701,14.90324,48.19701",
+    "geom:latitude":48.19701,
+    "geom:longitude":14.90324,
+    "gn:population":186,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919867: name \"Neustadtl-Umgebung\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919867"
+        },
+        {
+            "citation":"GeoNames populated place 11919867: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919867"
+        },
+        {
+            "citation":"GeoNames populated place 11919867: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919867"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836181 (Neustadtl an der Donau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049835,
+        102191581,
+        1108836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919867
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a123068b5b369c4b00beb22cceb1f487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836181,
+            "locality_id":9895010978,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010978,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Neustadtl-Umgebung",
+    "wof:parent_id":1108836181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90324,
+    48.19701,
+    14.90324,
+    48.19701
+],
+  "geometry": {"coordinates":[14.90324,48.19701],"type":"Point"}
+}

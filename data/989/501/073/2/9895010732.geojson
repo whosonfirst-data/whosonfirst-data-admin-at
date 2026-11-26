@@ -1,0 +1,77 @@
+{
+  "id": 9895010732,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.025,46.61971,14.025,46.61971",
+    "geom:latitude":46.61971,
+    "geom:longitude":14.025,
+    "gn:population":397,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11819594: name \"Sonnental\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11819594"
+        },
+        {
+            "citation":"GeoNames populated place 11819594: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11819594"
+        },
+        {
+            "citation":"GeoNames populated place 11819594: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11819594"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838359 (Velden Am W\u00f6rther See), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681655,
+        102049683,
+        102191581,
+        1108838359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11819594
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"62c89017f7b14e658d1730369d104eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838359,
+            "locality_id":9895010732,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":9895010732,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Sonnental",
+    "wof:parent_id":1108838359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.025,
+    46.61971,
+    14.025,
+    46.61971
+],
+  "geometry": {"coordinates":[14.025,46.61971],"type":"Point"}
+}

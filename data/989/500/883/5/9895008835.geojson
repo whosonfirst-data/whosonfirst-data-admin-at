@@ -1,0 +1,77 @@
+{
+  "id": 9895008835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.62425,48.35679,13.62425,48.35679",
+    "geom:latitude":48.35679,
+    "geom:longitude":13.62425,
+    "gn:population":54,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668634: name \"Niederham\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668634"
+        },
+        {
+            "citation":"GeoNames populated place 11668634: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668634"
+        },
+        {
+            "citation":"GeoNames populated place 11668634: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668634"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836053 (Raab), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049877,
+        102191581,
+        1108836053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668634
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c766264cff73e5f37e417d6c0fd9882c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836053,
+            "locality_id":9895008835,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895008835,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Niederham",
+    "wof:parent_id":1108836053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.62425,
+    48.35679,
+    13.62425,
+    48.35679
+],
+  "geometry": {"coordinates":[13.62425,48.35679],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895008613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66421,46.87886,15.66421,46.87886",
+    "geom:latitude":46.87886,
+    "geom:longitude":15.66421,
+    "gn:population":259,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2765487: name \"Schwarzau im Schwarzautal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2765487"
+        },
+        {
+            "citation":"GeoNames populated place 2765487: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2765487"
+        },
+        {
+            "citation":"GeoNames populated place 2765487: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2765487"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839029 (Schwarzautal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049699,
+        102191581,
+        1108839029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765487
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4ca090e99995f0b06bd7674627b12bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108839029,
+            "locality_id":9895008613,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008613,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Schwarzau im Schwarzautal",
+    "wof:parent_id":1108839029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66421,
+    46.87886,
+    15.66421,
+    46.87886
+],
+  "geometry": {"coordinates":[15.66421,46.87886],"type":"Point"}
+}

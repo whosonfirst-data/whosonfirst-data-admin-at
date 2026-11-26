@@ -1,0 +1,77 @@
+{
+  "id": 9895010131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87015,48.18662,13.87015,48.18662",
+    "geom:latitude":48.18662,
+    "geom:longitude":13.87015,
+    "gn:population":12,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695589: name \"Trappelsberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695589"
+        },
+        {
+            "citation":"GeoNames populated place 11695589: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695589"
+        },
+        {
+            "citation":"GeoNames populated place 11695589: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695589"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836571 (Pichl bei Wels), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049831,
+        102191581,
+        1108836571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695589
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"34a8eb430900962bf391e84def0c6c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836571,
+            "locality_id":9895010131,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010131,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Trappelsberg",
+    "wof:parent_id":1108836571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87015,
+    48.18662,
+    13.87015,
+    48.18662
+],
+  "geometry": {"coordinates":[13.87015,48.18662],"type":"Point"}
+}

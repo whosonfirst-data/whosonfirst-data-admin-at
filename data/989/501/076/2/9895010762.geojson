@@ -1,0 +1,77 @@
+{
+  "id": 9895010762,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18302,48.50274,14.18302,48.50274",
+    "geom:latitude":48.50274,
+    "geom:longitude":14.18302,
+    "gn:population":2,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11862267: name \"Lichtme\u00dfberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11862267"
+        },
+        {
+            "citation":"GeoNames populated place 11862267: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11862267"
+        },
+        {
+            "citation":"GeoNames populated place 11862267: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11862267"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835709 (Ahorn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049889,
+        102191581,
+        1108835709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11862267
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c5ce5e8216488134fd780e1e975991d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835709,
+            "locality_id":9895010762,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010762,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Lichtme\u00dfberg",
+    "wof:parent_id":1108835709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18302,
+    48.50274,
+    14.18302,
+    48.50274
+],
+  "geometry": {"coordinates":[14.18302,48.50274],"type":"Point"}
+}

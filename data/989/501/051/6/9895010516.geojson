@@ -1,0 +1,77 @@
+{
+  "id": 9895010516,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40283,47.97665,15.40283,47.97665",
+    "geom:latitude":47.97665,
+    "geom:longitude":15.40283,
+    "gn:population":22,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11746704: name \"Oedgegend\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11746704"
+        },
+        {
+            "citation":"GeoNames populated place 11746704: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11746704"
+        },
+        {
+            "citation":"GeoNames populated place 11746704: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11746704"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836659 (Loich), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049869,
+        102191581,
+        1108836659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11746704
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4c4b4f62b97e2f5ae147169ae8888882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836659,
+            "locality_id":9895010516,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010516,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Oedgegend",
+    "wof:parent_id":1108836659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40283,
+    47.97665,
+    15.40283,
+    47.97665
+],
+  "geometry": {"coordinates":[15.40283,47.97665],"type":"Point"}
+}

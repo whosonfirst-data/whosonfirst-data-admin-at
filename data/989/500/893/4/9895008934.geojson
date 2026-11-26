@@ -1,0 +1,77 @@
+{
+  "id": 9895008934,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40737,48.31106,14.40737,48.31106",
+    "geom:latitude":48.31106,
+    "geom:longitude":14.40737,
+    "gn:population":33,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668769: name \"Unterreichenbach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668769"
+        },
+        {
+            "citation":"GeoNames populated place 11668769: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668769"
+        },
+        {
+            "citation":"GeoNames populated place 11668769: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668769"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836145 (Engerwitzdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049881,
+        102191581,
+        1108836145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668769
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2a8f8a9e0be7423e3fddd499a0ae6f19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836145,
+            "locality_id":9895008934,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895008934,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Unterreichenbach",
+    "wof:parent_id":1108836145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40737,
+    48.31106,
+    14.40737,
+    48.31106
+],
+  "geometry": {"coordinates":[14.40737,48.31106],"type":"Point"}
+}

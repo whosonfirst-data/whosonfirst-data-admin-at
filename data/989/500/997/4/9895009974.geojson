@@ -1,0 +1,77 @@
+{
+  "id": 9895009974,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5694,48.15953,13.5694,48.15953",
+    "geom:latitude":48.15953,
+    "geom:longitude":13.5694,
+    "gn:population":69,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694996: name \"An der Malzm\u00fchle\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694996"
+        },
+        {
+            "citation":"GeoNames populated place 11694996: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694996"
+        },
+        {
+            "citation":"GeoNames populated place 11694996: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694996"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835633 (Eberschwang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049851,
+        102191581,
+        1108835633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694996
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4c62c3d8235bf61797c1a96392e1f2e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835633,
+            "locality_id":9895009974,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895009974,
+    "wof:lastmodified":1795734979,
+    "wof:name":"An der Malzm\u00fchle",
+    "wof:parent_id":1108835633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5694,
+    48.15953,
+    13.5694,
+    48.15953
+],
+  "geometry": {"coordinates":[13.5694,48.15953],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895010861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.4987,48.00315,13.4987,48.00315",
+    "geom:latitude":48.00315,
+    "geom:longitude":13.4987,
+    "gn:population":260,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903625: name \"Waschprechtingerberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903625"
+        },
+        {
+            "citation":"GeoNames populated place 11903625: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903625"
+        },
+        {
+            "citation":"GeoNames populated place 11903625: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903625"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108836523 (V\u00f6cklamarkt), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049817,
+        102191581,
+        1108836523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903625
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a43e566f198a59d322a3aaeef8c1a7c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836523,
+            "locality_id":9895010861,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010861,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Waschprechtingerberg",
+    "wof:parent_id":1108836523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.4987,
+    48.00315,
+    13.4987,
+    48.00315
+],
+  "geometry": {"coordinates":[13.4987,48.00315],"type":"Point"}
+}

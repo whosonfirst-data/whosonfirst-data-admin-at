@@ -1,0 +1,77 @@
+{
+  "id": 9895008632,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3,47.08333,14.3,47.08333",
+    "geom:latitude":47.08333,
+    "geom:longitude":14.3,
+    "gn:population":525,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2766747: name \"Sankt Blasen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2766747"
+        },
+        {
+            "citation":"GeoNames populated place 2766747: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2766747"
+        },
+        {
+            "citation":"GeoNames populated place 2766747: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2766747"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108838793 (St. Lambrecht), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102049733,
+        102191581,
+        1108838793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766747
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b19c4f23a053cdf031801a2e2a1bdfaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838793,
+            "locality_id":9895008632,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895008632,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Sankt Blasen",
+    "wof:parent_id":1108838793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3,
+    47.08333,
+    14.3,
+    47.08333
+],
+  "geometry": {"coordinates":[14.3,47.08333],"type":"Point"}
+}

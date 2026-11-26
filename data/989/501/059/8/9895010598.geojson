@@ -1,0 +1,77 @@
+{
+  "id": 9895010598,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94717,48.18577,15.94717,48.18577",
+    "geom:latitude":48.18577,
+    "geom:longitude":15.94717,
+    "gn:population":251,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747549: name \"Maierh\u00f6fen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747549"
+        },
+        {
+            "citation":"GeoNames populated place 11747549: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747549"
+        },
+        {
+            "citation":"GeoNames populated place 11747549: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747549"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108834989 (Maria-Anzbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049869,
+        102191581,
+        1108834989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747549
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e7ad5ecd639bc1300e1d80fb9a11422f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834989,
+            "locality_id":9895010598,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895010598,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Maierh\u00f6fen",
+    "wof:parent_id":1108834989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94717,
+    48.18577,
+    15.94717,
+    48.18577
+],
+  "geometry": {"coordinates":[15.94717,48.18577],"type":"Point"}
+}

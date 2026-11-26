@@ -1,0 +1,77 @@
+{
+  "id": 9895008588,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.21406,47.43208,12.21406,47.43208",
+    "geom:latitude":47.43208,
+    "geom:longitude":12.21406,
+    "gn:population":3652,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2761457: name \"Westendorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2761457"
+        },
+        {
+            "citation":"GeoNames populated place 2761457: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2761457"
+        },
+        {
+            "citation":"GeoNames populated place 2761457: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2761457"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837381 (Westendorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681661,
+        102049763,
+        102191581,
+        1108837381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761457
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fe8cde04c0bce03acedd07dc4054e1fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837381,
+            "locality_id":9895008588,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":9895008588,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Westendorf",
+    "wof:parent_id":1108837381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.21406,
+    47.43208,
+    12.21406,
+    47.43208
+],
+  "geometry": {"coordinates":[12.21406,47.43208],"type":"Point"}
+}

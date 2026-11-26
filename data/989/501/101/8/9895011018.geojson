@@ -1,0 +1,76 @@
+{
+  "id": 9895011018,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.66515,47.36037,9.66515,47.36037",
+    "geom:latitude":47.36037,
+    "geom:longitude":9.66515,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12253556: name \"Hohenems Kapellefeld\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12253556"
+        },
+        {
+            "citation":"GeoNames populated place 12253556: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12253556"
+        },
+        {
+            "citation":"GeoNames populated place 12253556: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12253556"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837963 (Hohenems), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681649,
+        102049737,
+        102191581,
+        1108837963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12253556
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8baa68a2ad577abed206c82758b38fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":9895011018,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":9895011018,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Hohenems Kapellefeld",
+    "wof:parent_id":1108837963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.66515,
+    47.36037,
+    9.66515,
+    47.36037
+],
+  "geometry": {"coordinates":[9.66515,47.36037],"type":"Point"}
+}

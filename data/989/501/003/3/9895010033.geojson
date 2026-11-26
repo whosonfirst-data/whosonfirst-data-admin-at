@@ -1,0 +1,77 @@
+{
+  "id": 9895010033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95281,48.4932,13.95281,48.4932",
+    "geom:latitude":48.4932,
+    "geom:longitude":13.95281,
+    "gn:population":72,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695162: name \"Godersdorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695162"
+        },
+        {
+            "citation":"GeoNames populated place 11695162: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695162"
+        },
+        {
+            "citation":"GeoNames populated place 11695162: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695162"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835713 (Altenfelden), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049889,
+        102191581,
+        1108835713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695162
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4792938f9d557949b4ddc081b6f3341f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835713,
+            "locality_id":9895010033,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895010033,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Godersdorf",
+    "wof:parent_id":1108835713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95281,
+    48.4932,
+    13.95281,
+    48.4932
+],
+  "geometry": {"coordinates":[13.95281,48.4932],"type":"Point"}
+}

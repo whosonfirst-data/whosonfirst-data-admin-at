@@ -1,0 +1,77 @@
+{
+  "id": 9895008987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50951,48.50967,14.50951,48.50967",
+    "geom:latitude":48.50967,
+    "geom:longitude":14.50951,
+    "gn:population":112,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668878: name \"Manzenreith\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668878"
+        },
+        {
+            "citation":"GeoNames populated place 11668878: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668878"
+        },
+        {
+            "citation":"GeoNames populated place 11668878: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668878"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835079 (Lasberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681677,
+        102049883,
+        102191581,
+        1108835079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668878
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5b3298ef8c7f2be4c32e53f9ae1580d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835079,
+            "locality_id":9895008987,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":9895008987,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Manzenreith",
+    "wof:parent_id":1108835079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50951,
+    48.50967,
+    14.50951,
+    48.50967
+],
+  "geometry": {"coordinates":[14.50951,48.50967],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895010887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.31219,47.6977,13.31219,47.6977",
+    "geom:latitude":47.6977,
+    "geom:longitude":13.31219,
+    "gn:population":191,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903732: name \"L\u00e4mmerbach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903732"
+        },
+        {
+            "citation":"GeoNames populated place 11903732: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903732"
+        },
+        {
+            "citation":"GeoNames populated place 11903732: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903732"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108837149 (Hintersee), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681681,
+        102049799,
+        102191581,
+        1108837149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903732
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a947fcde57cac59c23bf02eb21ba4d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837149,
+            "locality_id":9895010887,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":9895010887,
+    "wof:lastmodified":1795734979,
+    "wof:name":"L\u00e4mmerbach",
+    "wof:parent_id":1108837149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.31219,
+    47.6977,
+    13.31219,
+    47.6977
+],
+  "geometry": {"coordinates":[13.31219,47.6977],"type":"Point"}
+}

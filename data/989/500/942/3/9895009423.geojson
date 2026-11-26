@@ -1,0 +1,76 @@
+{
+  "id": 9895009423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03599,48.78001,15.03599,48.78001",
+    "geom:latitude":48.78001,
+    "geom:longitude":15.03599,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669385: name \"Anderlfabrik\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669385"
+        },
+        {
+            "citation":"GeoNames populated place 11669385: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669385"
+        },
+        {
+            "citation":"GeoNames populated place 11669385: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669385"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108835365 (Hoheneich), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681671,
+        102049905,
+        102191581,
+        1108835365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669385
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d16ee50b6e83b85cd22441653a6f1813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049905,
+            "localadmin_id":1108835365,
+            "locality_id":9895009423,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":9895009423,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Anderlfabrik",
+    "wof:parent_id":1108835365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03599,
+    48.78001,
+    15.03599,
+    48.78001
+],
+  "geometry": {"coordinates":[15.03599,48.78001],"type":"Point"}
+}

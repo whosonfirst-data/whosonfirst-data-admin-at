@@ -1,0 +1,77 @@
+{
+  "id": 9895010927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89251,47.24509,15.89251,47.24509",
+    "geom:latitude":47.24509,
+    "geom:longitude":15.89251,
+    "gn:population":669,
+    "iso:country":"AT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919605: name \"Hofkirchen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919605"
+        },
+        {
+            "citation":"GeoNames populated place 11919605: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919605"
+        },
+        {
+            "citation":"GeoNames populated place 11919605: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919605"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108839117 (Kaindorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785,
+        85681687,
+        102191581,
+        1108839117,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919605
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"207befb9db6e94eb019a267f7cc128c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839117,
+            "locality_id":9895010927,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":9895010927,
+    "wof:lastmodified":1795734979,
+    "wof:name":"Hofkirchen",
+    "wof:parent_id":1108839117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89251,
+    47.24509,
+    15.89251,
+    47.24509
+],
+  "geometry": {"coordinates":[15.89251,47.24509],"type":"Point"}
+}
